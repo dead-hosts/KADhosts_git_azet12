@@ -1,13 +1,4 @@
 {
-    "autosave_minutes": "10",
-    "commit_autosave_message": "Test of KADhosts",
-    "currently_under_test": "0",
-    "days_until_next_test": "5",
-    "last_test": "1515584347",
-    "list_name": "KADhosts.list",
-    "name": "KADhosts",
-    "raw_link": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
-    "stable": "0",
     "arguments": [
         "--travis",
         "-a",
@@ -15,5 +6,14 @@
         "--plain",
         "--split",
         "-t 2"
-    ]
+    ],
+    "autosave_minutes": "10",
+    "commit_autosave_message": "Test of KADhosts",
+    "currently_under_test": "0",
+    "days_until_next_test": "5",
+    "last_test": "1517241143",
+    "list_name": "KADhosts.list",
+    "name": "KADhosts",
+    "raw_link": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
+    "stable": "0"
 }
