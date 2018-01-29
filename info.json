@@ -7,5 +7,13 @@
     "list_name": "KADhosts.list",
     "name": "KADhosts",
     "raw_link": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
-    "stable": "0"
+    "stable": "0",
+    "arguments": [
+        "--travis",
+        "-a",
+        "-ex",
+        "--plain",
+        "--split",
+        "-t 2"
+    ]
 }
