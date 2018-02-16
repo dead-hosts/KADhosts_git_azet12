@@ -315,9 +315,11 @@ class Install(object):
                 'official_down_status': 'down_status[official_status_index]',
                 'official_up_status': 'up_status[official_status_index]',
                 'official_invalid_status': 'invalid_status[official_status_index]',
+                'adblock': 'False',
                 'auto_continue': 'True',
                 'command_before_end': "''",
                 'custom_ip': "'0.0.0.0'",
+                'days_between_db_retest': '1',
                 'debug': 'False',
                 'domain': "''",
                 'generate_hosts': 'True',
@@ -364,9 +366,11 @@ class Install(object):
                 'official_status_index',
                 'official_down_status',
                 'official_up_status',
+                'adblock',
                 'auto_continue',
                 'command_before_end',
                 'custom_ip',
+                'days_between_db_retest',
                 'debug',
                 'domain',
                 'generate_hosts',
@@ -754,13 +758,43 @@ class IANA(object):
             'athleta': 'whois.nic.athleta',
             'audible': 'whois.nic.audible',
             'author': 'whois.nic.author',
+            'aws': 'whois.nic.aws',
+            'axa': 'whois.nic.axa',
+            'azure': 'whois.nic.azure',
+            'baby': 'whois.nic.baby',
+            'banamex': 'whois.nic.banamex',
+            'bananarepublic': 'whois.nic.bananarepublic',
+            'baseball': 'whois.nic.baseball',
+            'bharti': 'whois.nic.bharti',
+            'bing': 'whois.nic.bing',
+            'bloomberg': 'whois.nic.bloomberg',
             'bm': 'whois.afilias-srs.net',
+            'book': 'whois.nic.book',
+            'booking': 'whois.nic.booking',
+            'bot': 'whois.nic.bot',
             'bz': 'whois.afilias-grs.net',
             'buzz': 'whois.nic.buzz',
+            'call': 'whois.nic.call',
+            'calvinklein': 'whois.nic.calvinklein',
+            'caravan': 'whois.nic.caravan',
+            'cartier': 'whois.nic.cartier',
+            'cbn': 'whois.nic.cbn',
+            'cbre': 'whois.nic.cbre',
             'cd': 'chois.nic.cd',
+            'chase': 'whois.nic.chase',
+            'circle': 'whois.nic.circle',
+            'cisco': 'whois.nic.cisco',
+            'citadel': 'whois.nic.citadel',
+            'citi': 'whois.nic.citi',
+            'citic': 'whois.nic.citic',
             'cm': 'whois.netcom.cm',
+            'coupon': 'whois.nic.coupon',
+            'crown': 'whois.nic.crown',
+            'crs': 'whois.nic.crs',
             'fj': 'whois.usp.ac.fj',
             'ga': 'whois.my.ga',
+            'gh': 'whois.nic.gh',
+            'kw': 'whois.nic.kw',
             'lc': 'whois2.afilias-grs.net',
             'lk': 'whois.nic.lk',
             'nyc': 'whois.nic.nyc',
@@ -1083,6 +1117,11 @@ if __name__ == '__main__':
          'Nissar Chababy (Funilrys)'))
 
     PARSER.add_argument(
+        '-ad',
+        '--adblock',
+        action='store_true',
+        help='Activate the systematic decoding of the adblock format.')
+    PARSER.add_argument(
         '--autosave-minutes',
         type=int,
         help="Replace the  minimum of minutes before we start commiting \
@@ -1103,6 +1142,13 @@ if __name__ == '__main__':
         '--commit-results-message',
         type=str,
         help='Replace the default results (final) commit message.'
+    )
+    PARSER.add_argument(
+        '-dbr',
+        '--days-between-db-retest',
+        type=int,
+        help="Set the numbers of day(s) between each retest of domains present \
+        into inactive-db.json"
     )
     PARSER.add_argument(
         '-del',
@@ -1172,13 +1218,16 @@ if __name__ == '__main__':
         '-v',
         '--version',
         action='version',
-        version='%(prog)s 0.9.1-beta'
+        version='%(prog)s 0.11.0-beta'
     )
 
     ARGS = PARSER.parse_args()
     initiate(autoreset=True)
 
     DATA = {'to_install': {}}
+
+    if ARGS.adblock:
+        DATA['to_install']['adblock'] = ARGS.adblock
 
     if ARGS.autosave_minutes:
         DATA['to_install']['travis_autosave_minutes'] = ARGS.autosave_minutes
@@ -1190,6 +1239,9 @@ if __name__ == '__main__':
     if ARGS.commit_results_message:
         DATA['to_install']['travis_autosave_final_commit'] = '"' + \
             ARGS.commit_results_message + '"'
+
+    if ARGS.days_between_db_retest:
+        DATA['to_install']['days_between_db_retest'] = ARGS.days_between_db_retest
 
     if ARGS.timeout:
         DATA['to_install']['seconds_before_http_timeout'] = ARGS.timeout
