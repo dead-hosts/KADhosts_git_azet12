@@ -61,6 +61,8 @@
         "--commit-autosave-message \"[Autosave] Test of KADhosts\"",
         "--commit-results-message \"[Results] Test of KADhosts\"",
         "--commit-autosave-message \"[Autosave] Test of KADhosts\"",
+        "--commit-results-message \"[Results] Test of KADhosts\"",
+        "--commit-autosave-message \"[Autosave] Test of KADhosts\"",
         "--commit-results-message \"[Results] Test of KADhosts\""
     ],
     "clean_list_file": "clean.list",
@@ -68,7 +70,7 @@
     "commit_autosave_message": "Test of KADhosts",
     "currently_under_test": "1",
     "days_until_next_test": "1",
-    "last_test": "1525558678",
+    "last_test": "1525559670",
     "list_name": "KADhosts.list",
     "name": "KADhosts",
     "raw_link": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
