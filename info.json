@@ -5,10 +5,12 @@
     "commit_autosave_message": "Test of KADhosts",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1526683018",
+    "last_test": "1526749505",
     "list_name": "KADhosts.list",
     "name": "KADhosts",
+    "ping": [
+        "azet12"
+    ],
     "raw_link": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
-    "stable": "0",
-    "ping": ["azet12"]
+    "stable": "0"
 }
