@@ -1,9 +1,10 @@
 {
     "/home/travis/build/dead-hosts/KADhosts_git_azet12/KADhosts.list": {
-        "1526682310": [
+        "1526855130": [
             "0xm.com.pl",
             "12xa.pl",
             "4k-player.pl",
+            "5k-player.pl",
             "7sdn.pl",
             "9sk.pl",
             "a4face-podgladacz.eu",
@@ -13,6 +14,7 @@
             "akademiagreya.pl",
             "artur-glowacki.pl",
             "as9.pl",
+            "beauty-pack.pl",
             "best-quizy.pl",
             "bi.mil.pl",
             "bolb.blob.core.windows.net",
@@ -29,6 +31,7 @@
             "cs-goskiny.pl",
             "cs-skin.pl",
             "csgobestskinschoice.pl",
+            "dj3.com.pl",
             "djcombox.pl",
             "dodajsteam.pl",
             "doladowaniasteam.pl",
@@ -40,6 +43,7 @@
             "downloaded.pl",
             "downloadfile.eu",
             "drlead.pl",
+            "e-markowi.pl",
             "elektro-studio24.pl",
             "emotikonfb.com",
             "extravod.pl",
@@ -94,12 +98,14 @@
             "konkursowo-24.pl",
             "kosmetyki.tm.pl",
             "ktotopaczy.pl",
+            "looool.pl",
             "m3gadownload.pl",
             "megabony.pl",
             "megastream.pl",
             "milkatesterzy.club",
             "monety-pokemony.pl",
             "moviecreator.pl",
+            "movieplaytubes.pl",
             "moviestarplanethack.net.pl",
             "multiclashgems.pl",
             "multiwygrane.pl",
@@ -111,7 +117,9 @@
             "oculusvsvr.pl",
             "odbior-nagrody.pl",
             "oddamzadarmo.eu",
-            "offertogo.online",
+            "offertogo.online"
+        ],
+        "to_test": [
             "paliwo.as9.pl",
             "patrzetu.pl",
             "paysafe-deals.pl",
@@ -201,13 +209,7 @@
             "ziemiazakazana.pl",
             "zostan-testerka.club",
             "zwyciezcy-konkursu.ml",
-            "0stcd.pl",
-            "5k-player.pl",
-            "beauty-pack.pl",
-            "dj3.com.pl",
-            "e-markowi.pl",
-            "movieplaytubes.pl"
-        ],
-        "to_test": []
+            "0stcd.pl"
+        ]
     }
 }
