@@ -2,7 +2,7 @@ env:
   global:
     - secure: Xb2z3MSyVfJuuzPbkAM6DdJsTLHeTdbUcViZ8Jd82HBJt1zrC7eJxlluvn/l996FgRcLvEYDDtFTm4F6d2yBN3Q3Hq2vUZdyuWvLs+BO/7XiE1IlvMFv+ZFzQ+0PRESv5cQ/BXTZJZrp3XVOHTGyLHfxH+H6wR2X8YhM9jn/lVRleKte+Xup3If4acHTvHu7Za+vkktVnDIyzGnSqv2iVfAbroiTCpjBjQ+Xgj/WQxvx6bq8DScCNyLuHYisLfdPuO3v2joN45Wh8acA/s1EDTBjnrV2VHJw9YJqsX1loK+p6drAoCOYePZFWLYYZVBD/12T3p+WOX+6w55vH7q7IUsvG5573hFgFsOO2bSDtZUiEztBY0kfFEYkhpe7qdVRUgJ3anfE/v3e7rPj66af14gyDsaCb2kPmiAj4UdTn8y9fOgWjqYsr+yRqQC9xwbfGP26Yslk9889Bqfjcavkm1XFFJvjal18hoViGt2nd59x+TCe1Gul8YrcuCpsS1jZqTOm9EVaAWZNIoR6VmyoLvXJ8vnUXP+vWJXs0W7ByO+KFonu6Dk+M+KIhylLQGazOvoIUmkYloq/w6CQSQAQ8BUh52UVF6JaD9NTtrwuV/T3k/GaGkqmxq+jT9eIrQBY4nsEB97P/GYfV1kZTXoTvjE7mzM4nDy/rSl9pgplHh8=
     - GIT_NAME: Travis CI
-    - GIT_EMAIL: funilrys@outlook.com
+    - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/KADhosts_git_azet12
     - GIT_BRANCH: master
 
