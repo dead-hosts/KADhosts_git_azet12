@@ -1,10 +1,11 @@
 {
     "/home/travis/build/dead-hosts/KADhosts_git_azet12/KADhosts.list": {
-        "1529361534": [
+        "1529534510": [
             "0xm.com.pl",
             "12xa.pl",
             "24streamers.pl",
             "4k-player.pl",
+            "5k-player.pl",
             "7sdn.pl",
             "9sk.pl",
             "a4face-podgladacz.eu",
@@ -137,7 +138,6 @@
             "nowy-bonusy-codzienne.racing",
             "oculusvsvr.pl",
             "odbior-nagrody.pl",
-            "oddamzadarmo.eu",
             "offertogo.online",
             "pakietltes.pl",
             "paliwo.as9.pl",
@@ -146,7 +146,9 @@
             "play-movie.pl",
             "playhd.pl",
             "pliki-24.pl",
-            "plikobox.pl",
+            "plikobox.pl"
+        ],
+        "to_test": [
             "pobieram-plik.pl",
             "pobierz-123.pl",
             "pobierz.shop.pl",
@@ -259,9 +261,7 @@
             "zgarnijciuchy.pl",
             "ziemiazakazana.pl",
             "zostan-testerka.club",
-            "zwyciezcy-konkursu.ml"
-        ],
-        "to_test": [
+            "zwyciezcy-konkursu.ml",
             "0stcd.pl"
         ]
     }
