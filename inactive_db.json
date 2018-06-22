@@ -145,9 +145,7 @@
             "play-movie.pl",
             "playhd.pl",
             "pliki-24.pl",
-            "plikobox.pl"
-        ],
-        "to_test": [
+            "plikobox.pl",
             "pobieram-plik.pl",
             "pobierz-123.pl",
             "pobierz.shop.pl",
@@ -179,6 +177,7 @@
             "smartawards.pl",
             "sms-napisz.pl",
             "sprawdz-to.ga",
+            "sprawdzpl.pl",
             "steam-recharger.pl",
             "steamadd.pl",
             "streamershd.pl",
@@ -263,7 +262,9 @@
             "zgarnijciuchy.pl",
             "ziemiazakazana.pl",
             "zostan-testerka.club",
-            "zwyciezcy-konkursu.ml",
+            "zwyciezcy-konkursu.ml"
+        ],
+        "to_test": [
             "0stcd.pl"
         ]
     }
