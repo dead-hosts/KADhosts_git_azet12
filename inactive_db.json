@@ -258,10 +258,7 @@
             "m.zlotysms.pl",
             "nagroportal.pl",
             "najlepszakonsolaxbox.pl",
-            "najlepszyzestawtrenerapokemon.pl"
-        ],
-        "to_test": [
-            "napiszsms.pl",
+            "najlepszyzestawtrenerapokemon.pl",
             "no-survey.com",
             "nowy-bonusy-codzienne.racing",
             "odbior-nagrody.pl",
@@ -270,12 +267,15 @@
             "ofertapromo.pl",
             "offertogo.online",
             "office-365.life",
-            "zgarnij-prezent.pl",
             "zgarnijciuchy.pl",
+            "zgarnij-prezent.pl",
             "ziemiazakazana.pl",
             "zmotoryzowani247.pl",
             "zostan-testerka.club",
             "zwyciezcy-konkursu.ml"
+        ],
+        "to_test": [
+            "napiszsms.pl"
         ]
     }
 }
