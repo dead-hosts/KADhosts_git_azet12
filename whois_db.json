@@ -630,6 +630,11 @@
             "expiration_date": "28-apr-2019",
             "state": "future"
         },
+        "ciekawinki.pl": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
         "cinema-hd.pl": {
             "epoch": "1574208000",
             "expiration_date": "20-nov-2019",
@@ -1836,8 +1841,8 @@
             "state": "future"
         },
         "hitfilm.pl": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "hitvisit.com": {
@@ -1886,8 +1891,8 @@
             "state": "future"
         },
         "hothub.pl": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "hotokazje.com": {
@@ -1996,9 +2001,9 @@
             "state": "future"
         },
         "instytut-pomocy.pl": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "instytutmed.pl": {
             "epoch": "1562112000",
@@ -3030,14 +3035,19 @@
             "expiration_date": "31-jan-2019",
             "state": "future"
         },
+        "pliki-24.pl": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
         "pliks.pl": {
             "epoch": "1572739200",
             "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "plikson.pl": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "plikson24.pl": {
