@@ -90,6 +90,11 @@
             "expiration_date": "17-jun-2019",
             "state": "future"
         },
+        "adblock-listefr.com": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
         "adidaspureboost.pl": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
@@ -211,8 +216,8 @@
             "state": "future"
         },
         "apartamentypoleska.pl": {
-            "epoch": "1543881600",
-            "expiration_date": "04-dec-2018",
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
             "state": "future"
         },
         "appcaptcha.com": {
@@ -390,6 +395,11 @@
             "expiration_date": "10-jul-2019",
             "state": "future"
         },
+        "bestbook-library.com": {
+            "epoch": "1566345600",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
         "bestmobiworld.com": {
             "epoch": "1571270400",
             "expiration_date": "17-oct-2019",
@@ -530,9 +540,19 @@
             "expiration_date": "16-aug-2019",
             "state": "future"
         },
+        "brumflix.com": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
         "bustcream-pro.com": {
             "epoch": "1560729600",
             "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "butypremium.pl": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
             "state": "future"
         },
         "buz2mobile.com": {
@@ -563,6 +583,11 @@
         "catsplit.com": {
             "epoch": "1575244800",
             "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "cavotel.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "cbldc.io": {
@@ -918,27 +943,27 @@
         "dotacja-dolnoslaskie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacja-lubelskie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacja-lubuskie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacje-kujawsko-pomorskie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacje-lodzkie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacje-malopolskie.pl": {
             "epoch": "1543881600",
@@ -948,22 +973,22 @@
         "dotacje-mazowieckie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacje-opolskie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacje-podkarpackie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacje-podlaskie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacje-pomorskie.pl": {
             "epoch": "1544140800",
@@ -978,22 +1003,22 @@
         "dotacje-swietokrzyskie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacje-warminsko-mazurskie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacje-wielkopolskie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dotacje-zachodniopomorskie.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "download-24.pl": {
             "epoch": "1548892800",
@@ -1091,9 +1116,9 @@
             "state": "future"
         },
         "eco-flow.pl": {
-            "epoch": "1543968000",
-            "expiration_date": "05-dec-2018",
-            "state": "past"
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
         },
         "econtent.pl": {
             "epoch": "1559606400",
@@ -1783,7 +1808,7 @@
         "halodzwonek.pl": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "halopozyczka.pl": {
             "epoch": "1551484800",
@@ -1806,8 +1831,8 @@
             "state": "future"
         },
         "hdseriale.pl": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
             "state": "future"
         },
         "hdsportstreams.pl": {
@@ -1818,6 +1843,11 @@
         "health-line.me": {
             "epoch": "1549670400",
             "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "healthy-news.biz": {
+            "epoch": "1576022400",
+            "expiration_date": "11-dec-2019",
             "state": "future"
         },
         "herbeauty.co": {
@@ -2578,6 +2608,11 @@
         "monthlywinners.com": {
             "epoch": "1546387200",
             "expiration_date": "02-jan-2019",
+            "state": "future"
+        },
+        "morele.info": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
             "state": "future"
         },
         "motifiles.com": {
