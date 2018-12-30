@@ -378,7 +378,7 @@
         "best-coupon-offer.com": {
             "epoch": "1546128000",
             "expiration_date": "30-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "best-rated-offers.com": {
             "epoch": "1565827200",
@@ -2191,8 +2191,8 @@
             "state": "past"
         },
         "kinoman-tv.pl": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "kinotek.pl": {
@@ -2518,7 +2518,7 @@
         "mobiapp-games.com": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "mobicpi.com": {
             "epoch": "1550102400",
