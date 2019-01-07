@@ -3830,6 +3830,11 @@
             "expiration_date": "27-jan-2020",
             "state": "future"
         },
+        "sprawdziany-odpowiedzi.pl": {
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
+        },
         "sprawdzianyodpowiedzi.pl": {
             "epoch": "1578096000",
             "expiration_date": "04-jan-2020",
@@ -3973,7 +3978,7 @@
         "teleaudio.pl": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "telewizja-internetowa24.pl": {
             "epoch": "1574121600",
@@ -4486,8 +4491,8 @@
             "state": "future"
         },
         "xtrak.me": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "yotafiles.com": {
