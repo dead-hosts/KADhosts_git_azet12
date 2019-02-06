@@ -3978,7 +3978,7 @@
         "serwis-laptopow-powisle.pl": {
             "epoch": "1549411200",
             "expiration_date": "06-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "serwis-laptopow24.pl": {
             "epoch": "1576713600",
@@ -4058,6 +4058,11 @@
         "skleplara.pl": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "sklepnecik.pl": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
             "state": "future"
         },
         "skleptiande.pl": {
@@ -4408,7 +4413,7 @@
         "todolize.com": {
             "epoch": "1549411200",
             "expiration_date": "06-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "topseans.pl": {
             "epoch": "1572220800",
@@ -4700,6 +4705,11 @@
             "expiration_date": "24-jan-2020",
             "state": "future"
         },
+        "vodplay.pl": {
+            "epoch": "1563408000",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
         "votum-sa.pl": {
             "epoch": "1571270400",
             "expiration_date": "17-oct-2019",
@@ -4743,6 +4753,16 @@
         "weon.pl": {
             "epoch": "1560297600",
             "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "wiadomosci-onet24.pl": {
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
+            "state": "future"
+        },
+        "wiarygodnafirma24.pl": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
             "state": "future"
         },
         "widget-eforsa.pl": {
