@@ -1398,7 +1398,7 @@
         "failmobile.net": {
             "epoch": "1549929600",
             "expiration_date": "12-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "fargofinanse.pl": {
             "epoch": "1566345600",
@@ -1598,6 +1598,11 @@
         "filmyfilmy.pl": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "financial.org": {
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
             "state": "future"
         },
         "finanse-payu.pl": {
@@ -2433,6 +2438,11 @@
         "kirchbaum.pl": {
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "kixshop.pl": {
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "kl21.pl": {
