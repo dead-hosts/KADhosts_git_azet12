@@ -135,6 +135,11 @@
             "expiration_date": "19-apr-2019",
             "state": "future"
         },
+        "agdeer.com": {
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
         "agdkom.net": {
             "epoch": "1578528000",
             "expiration_date": "09-jan-2020",
@@ -1365,6 +1370,11 @@
             "expiration_date": "01-nov-2019",
             "state": "future"
         },
+        "europronet.net": {
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
         "excelz.com": {
             "epoch": "1694304000",
             "expiration_date": "10-sep-2023",
@@ -1638,7 +1648,7 @@
         "firecash.org": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "firecpa.com": {
             "epoch": "1578441600",
