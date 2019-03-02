@@ -813,7 +813,7 @@
         "chomik24.com.pl": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "chomikui.pl": {
             "epoch": "1575676800",
@@ -1123,7 +1123,7 @@
         "discfile.pl": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "djcombox.pl": {
             "epoch": "1556668800",
@@ -1343,7 +1343,7 @@
         "download-24.pl": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "downloadfiles.pl": {
             "epoch": "1568505600",
@@ -1568,7 +1568,7 @@
         "estream.com.pl": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "euco.pl": {
             "epoch": "1557532800",
@@ -1873,7 +1873,7 @@
         "filmowo24.pl": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "filmplay.pl": {
             "epoch": "1573516800",
@@ -2371,8 +2371,8 @@
             "state": "future"
         },
         "halopozyczka.pl": {
-            "epoch": "1551484800",
-            "expiration_date": "02-mar-2019",
+            "epoch": "1583107200",
+            "expiration_date": "02-mar-2020",
             "state": "future"
         },
         "handelbot.com": {
@@ -2488,7 +2488,7 @@
         "hostplik.pl": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "hostujmy.pl": {
             "epoch": "1573171200",
@@ -2678,7 +2678,7 @@
         "iq-testuj.pl": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "irpol24.pl": {
             "epoch": "1553558400",
@@ -3153,7 +3153,7 @@
         "max-host.pl": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "mazowieckiecentrummedyczne.pl": {
             "epoch": "1553040000",
@@ -3925,6 +3925,11 @@
             "expiration_date": "26-aug-2019",
             "state": "future"
         },
+        "paysafe-deals.pl": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
         "pc-data.pl": {
             "epoch": "1598140800",
             "expiration_date": "23-aug-2020",
@@ -4063,7 +4068,7 @@
         "plik-pobierz.pl": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "pliki-24.pl": {
             "epoch": "1574208000",
