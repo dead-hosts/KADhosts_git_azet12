@@ -5323,7 +5323,7 @@
         "testclub.pl": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "testony.com": {
             "epoch": "1597104000",
@@ -5638,6 +5638,11 @@
         "uzupelniaj-dane.ml": {
             "epoch": "1866931200",
             "expiration_date": "28-feb-2029",
+            "state": "future"
+        },
+        "uzupelniajdane.ga": {
+            "epoch": "1866844800",
+            "expiration_date": "27-feb-2029",
             "state": "future"
         },
         "uzupelniajdane.gq": {
