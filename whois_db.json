@@ -86,9 +86,9 @@
             "state": "future"
         },
         "ab4hr.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "abbp35.com": {
             "epoch": "1575849600",
@@ -1201,8 +1201,8 @@
             "state": "future"
         },
         "dlagier.com": {
-            "epoch": "1554422400",
-            "expiration_date": "05-apr-2019",
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
             "state": "future"
         },
         "dlf.pl": {
@@ -1451,8 +1451,8 @@
             "state": "future"
         },
         "dragonflym.com": {
-            "epoch": "1554508800",
-            "expiration_date": "06-apr-2019",
+            "epoch": "1617667200",
+            "expiration_date": "06-apr-2021",
             "state": "future"
         },
         "drnona.com": {
@@ -3888,7 +3888,7 @@
         "notifications-online.systems": {
             "epoch": "1554508800",
             "expiration_date": "06-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "notifyday.com": {
             "epoch": "1557878400",
@@ -4118,6 +4118,11 @@
         "parkingcrew.net": {
             "epoch": "1579824000",
             "expiration_date": "24-jan-2020",
+            "state": "future"
+        },
+        "pato.pl": {
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
             "state": "future"
         },
         "patterntrader.biz": {
