@@ -828,7 +828,7 @@
         "centrum-pogotowie-komputerowe.warszawa.pl": {
             "epoch": "1555027200",
             "expiration_date": "12-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "centrum-ratuj-swojego-laptopa.warszawa.pl": {
             "epoch": "1555804800",
@@ -1526,8 +1526,8 @@
             "state": "future"
         },
         "ebookeo.pl": {
-            "epoch": "1554940800",
-            "expiration_date": "11-apr-2019",
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
             "state": "future"
         },
         "ebookipdf.pl": {
@@ -3121,8 +3121,8 @@
             "state": "future"
         },
         "leadmy.pl": {
-            "epoch": "1555027200",
-            "expiration_date": "12-apr-2019",
+            "epoch": "1586649600",
+            "expiration_date": "12-apr-2020",
             "state": "future"
         },
         "leadn.pl": {
@@ -3776,9 +3776,9 @@
             "state": "future"
         },
         "napraw-laptopa.waw.pl": {
-            "epoch": "1554681600",
-            "expiration_date": "08-apr-2019",
-            "state": "past"
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
         },
         "napraw-swojego-laptopa.pl": {
             "epoch": "1560902400",
@@ -4418,7 +4418,7 @@
         "pogotowie-komputerowe24h.warszawa.pl": {
             "epoch": "1555027200",
             "expiration_date": "12-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "pogotowiekomputerowe.net": {
             "epoch": "1567382400",
