@@ -4910,6 +4910,11 @@
             "expiration_date": "03-jan-2020",
             "state": "future"
         },
+        "relayimmo.com": {
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
+            "state": "future"
+        },
         "restricted.pl": {
             "epoch": "1580947200",
             "expiration_date": "06-feb-2020",
@@ -5278,6 +5283,11 @@
         "socialviewapp.com.pl": {
             "epoch": "1555632000",
             "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "sofaforlife.com": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
             "state": "future"
         },
         "soft4click.com": {
@@ -5656,8 +5666,8 @@
             "state": "future"
         },
         "tiandepolska.pl": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "tiandewarszawa.pl": {
@@ -6013,7 +6023,7 @@
         "videoway.net": {
             "epoch": "1555286400",
             "expiration_date": "15-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "vidnet.pl": {
             "epoch": "1583107200",
@@ -6468,7 +6478,7 @@
         "zarabiaj-dzis.pl": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "zarabianiefb.club": {
             "epoch": "1556150400",
