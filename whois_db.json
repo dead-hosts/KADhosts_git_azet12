@@ -4368,7 +4368,7 @@
         "pay24iv.com": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "pay2me.pl": {
             "epoch": "1566777600",
@@ -4556,13 +4556,13 @@
             "state": "future"
         },
         "plikson24.pl": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1587772800",
+            "expiration_date": "25-apr-2020",
             "state": "future"
         },
         "pobeiranie.pl": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
+            "epoch": "1558742400",
+            "expiration_date": "25-may-2019",
             "state": "future"
         },
         "pobieralnia.com.pl": {
@@ -4648,7 +4648,7 @@
         "pogotowie-komputerowe24h.warszawa.pl": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "pogotowiekomputerowe.net": {
             "epoch": "1567382400",
@@ -4951,9 +4951,9 @@
             "state": "future"
         },
         "pz21.pl": {
-            "epoch": "1556064000",
-            "expiration_date": "24-apr-2019",
-            "state": "past"
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
+            "state": "future"
         },
         "qqhacks.net": {
             "epoch": "1574640000",
@@ -5170,6 +5170,11 @@
             "expiration_date": "21-sep-2019",
             "state": "future"
         },
+        "runshoes.pl": {
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
         "rzeczyzadarmo.pl": {
             "epoch": "1583452800",
             "expiration_date": "06-mar-2020",
@@ -5333,7 +5338,7 @@
         "sharefile365.com": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "shiporama.com": {
             "epoch": "1657584000",
@@ -5523,7 +5528,7 @@
         "spaceforyou.cc": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "spatiumdg.pl": {
             "epoch": "1569283200",
@@ -5831,8 +5836,8 @@
             "state": "future"
         },
         "testclub.pl": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
+            "epoch": "1563926400",
+            "expiration_date": "24-jul-2019",
             "state": "future"
         },
         "testony.com": {
@@ -6471,8 +6476,8 @@
             "state": "future"
         },
         "wooptrk.com": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
+            "epoch": "1587772800",
+            "expiration_date": "25-apr-2020",
             "state": "future"
         },
         "workwolf.pl": {
