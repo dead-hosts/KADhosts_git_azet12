@@ -5033,7 +5033,7 @@
         "rapideo.pw": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "rapidsmo.pl": {
             "epoch": "1555977600",
@@ -5275,6 +5275,11 @@
             "expiration_date": "25-may-2019",
             "state": "future"
         },
+        "secure-eplatnosc.com": {
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
+            "state": "future"
+        },
         "secure4app.com": {
             "epoch": "1585180800",
             "expiration_date": "26-mar-2020",
@@ -5288,7 +5293,7 @@
         "sendspace.pw": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "senoctis.pl": {
             "epoch": "1572393600",
@@ -5313,6 +5318,11 @@
         "serialefilmy.pl": {
             "epoch": "1579910400",
             "expiration_date": "25-jan-2020",
+            "state": "future"
+        },
+        "serialowo.pl": {
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
             "state": "future"
         },
         "serwis-laptopow-powisle.pl": {
@@ -6033,7 +6043,7 @@
         "turobit.pw": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "tv-internetowa.pl": {
             "epoch": "1575417600",
