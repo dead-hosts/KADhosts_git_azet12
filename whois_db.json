@@ -4293,7 +4293,7 @@
         "offerplaying.com": {
             "epoch": "1557792000",
             "expiration_date": "14-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "offerzone.click": {
             "epoch": "1588982400",
@@ -5538,7 +5538,7 @@
         "sklep-colway.com": {
             "epoch": "1557705600",
             "expiration_date": "13-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "sklep-colway.pl": {
             "epoch": "1577404800",
@@ -5746,8 +5746,8 @@
             "state": "future"
         },
         "steam-wallet-gifts.com": {
-            "epoch": "1557705600",
-            "expiration_date": "13-may-2019",
+            "epoch": "1589328000",
+            "expiration_date": "13-may-2020",
             "state": "future"
         },
         "steam-wallet-money.com": {
