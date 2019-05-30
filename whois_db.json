@@ -4269,6 +4269,11 @@
         "expiration_date": "23-jun-2019",
         "state": "future"
     },
+    "nbryb.com": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
     "nczas.com": {
         "epoch": "1605052800",
         "expiration_date": "11-nov-2020",
@@ -4457,7 +4462,7 @@
     "odpowiedzialni-rodzice.pl": {
         "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "oferta1promocyjna.pl": {
         "epoch": "1555804800",
@@ -4575,8 +4580,8 @@
         "state": "future"
     },
     "optimask-pro.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "oswieconykochanek.pl": {
@@ -4790,9 +4795,9 @@
         "state": "future"
     },
     "playmobia.com": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "playmovie.pl": {
         "epoch": 1589760000,
@@ -5787,7 +5792,7 @@
     "slavcomp.pl": {
         "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "sm4ll.in": {
         "epoch": "1560124800",
@@ -6739,6 +6744,11 @@
         "expiration_date": "20-jul-2019",
         "state": "future"
     },
+    "wartomiec.pl": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "wartoscklienta.edu.pl": {
         "epoch": "1569456000",
         "expiration_date": "26-sep-2019",
@@ -6800,8 +6810,8 @@
         "state": "future"
     },
     "wielkaniespodzianka.pl": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "wiesci24.pl": {
