@@ -3074,6 +3074,11 @@
         "expiration_date": "28-jun-2019",
         "state": "future"
     },
+    "infogrypa.pl": {
+        "epoch": 1574121600,
+        "expiration_date": "19-nov-2019",
+        "state": "future"
+    },
     "infolinia-kontakt-telefon.pl": {
         "epoch": "1578873600",
         "expiration_date": "13-jan-2020",
@@ -3245,9 +3250,9 @@
         "state": "future"
     },
     "jordenmadsen.com": {
-        "epoch": "1559260800",
+        "epoch": 1559260800,
         "expiration_date": "31-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "juicywin.pl": {
         "epoch": 1590105600,
@@ -3384,6 +3389,11 @@
         "expiration_date": "24-oct-2019",
         "state": "future"
     },
+    "klubpracyrodzica.pl": {
+        "epoch": 1565568000,
+        "expiration_date": "12-aug-2019",
+        "state": "future"
+    },
     "kobieta-kobietom.com.pl": {
         "epoch": "1552176000",
         "expiration_date": "10-mar-2019",
@@ -3454,9 +3464,19 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "krzyjahu.pl": {
+        "epoch": 1587081600,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
     "ksiazka-telefoniczna-online.pl": {
         "epoch": 1590105600,
         "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "ksiazkiokomunikacji.pl": {
+        "epoch": 1566259200,
+        "expiration_date": "20-aug-2019",
         "state": "future"
     },
     "kupgo.net": {
@@ -3680,8 +3700,8 @@
         "state": "future"
     },
     "m-electro.pl": {
-        "epoch": 1559260800,
-        "expiration_date": "31-may-2019",
+        "epoch": 1567036800,
+        "expiration_date": "29-aug-2019",
         "state": "future"
     },
     "maendo.tv": {
@@ -4049,6 +4069,11 @@
         "expiration_date": "02-jan-2020",
         "state": "future"
     },
+    "morceko.pl": {
+        "epoch": 1570579200,
+        "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
     "mordi.fun": {
         "epoch": "1578441600",
         "expiration_date": "08-jan-2020",
@@ -4394,6 +4419,11 @@
         "expiration_date": "14-dec-2019",
         "state": "future"
     },
+    "nikeairpresto.pl": {
+        "epoch": 1564531200,
+        "expiration_date": "31-jul-2019",
+        "state": "future"
+    },
     "nixago.pl": {
         "epoch": "1564790400",
         "expiration_date": "03-aug-2019",
@@ -4490,9 +4520,9 @@
         "state": "future"
     },
     "odpowiedzialni-rodzice.pl": {
-        "epoch": 1559174400,
-        "expiration_date": "30-may-2019",
-        "state": "past"
+        "epoch": 1566950400,
+        "expiration_date": "28-aug-2019",
+        "state": "future"
     },
     "oferta1promocyjna.pl": {
         "epoch": "1555804800",
@@ -4630,9 +4660,9 @@
         "state": "future"
     },
     "p986524.pl": {
-        "epoch": "1559347200",
+        "epoch": 1559347200,
         "expiration_date": "01-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "paifemouchoa.com": {
         "epoch": "1565222400",
@@ -4825,9 +4855,9 @@
         "state": "future"
     },
     "playmobia.com": {
-        "epoch": 1559174400,
-        "expiration_date": "30-may-2019",
-        "state": "past"
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
     },
     "playmovie.pl": {
         "epoch": 1589760000,
@@ -5429,6 +5459,11 @@
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
+    "reeboknpcii.pl": {
+        "epoch": 1591315200,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
     "refundacjeregionalne.pl": {
         "epoch": "1593820800",
         "expiration_date": "04-jul-2020",
@@ -5797,7 +5832,7 @@
     "sklepfer.pl": {
         "epoch": 1559347200,
         "expiration_date": "01-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "skleplara.pl": {
         "epoch": "1562889600",
@@ -5807,6 +5842,11 @@
     "sklepnecik.pl": {
         "epoch": "1571875200",
         "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
+    "skleprtvagd24.pl": {
+        "epoch": 1560297600,
+        "expiration_date": "12-jun-2019",
         "state": "future"
     },
     "skleptiande.pl": {
@@ -5820,9 +5860,14 @@
         "state": "future"
     },
     "slavcomp.pl": {
-        "epoch": 1559174400,
-        "expiration_date": "30-may-2019",
-        "state": "past"
+        "epoch": 1566950400,
+        "expiration_date": "28-aug-2019",
+        "state": "future"
+    },
+    "slowkariera.pl": {
+        "epoch": 1582675200,
+        "expiration_date": "26-feb-2020",
+        "state": "future"
     },
     "sm4ll.in": {
         "epoch": "1560124800",
@@ -5867,6 +5912,11 @@
     "sneakerstore.com.pl": {
         "epoch": "1569369600",
         "expiration_date": "25-sep-2019",
+        "state": "future"
+    },
+    "sneakersypuma.pl": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "snekdeal.com": {
