@@ -4879,6 +4879,11 @@
         "expiration_date": "06-sep-2019",
         "state": "future"
     },
+    "plengistat.info": {
+        "epoch": 1577232000,
+        "expiration_date": "25-dec-2019",
+        "state": "future"
+    },
     "pliczek.pw": {
         "epoch": "1588377600",
         "expiration_date": "02-may-2020",
@@ -5095,8 +5100,8 @@
         "state": "future"
     },
     "pozyczkahit.pl": {
-        "epoch": "1559779200",
-        "expiration_date": "06-jun-2019",
+        "epoch": 1562371200,
+        "expiration_date": "06-jul-2019",
         "state": "future"
     },
     "pozyczki-inwestor.pl": {
@@ -5445,8 +5450,8 @@
         "state": "future"
     },
     "redirectzone.com": {
-        "epoch": "1559779200",
-        "expiration_date": "06-jun-2019",
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "redrct.online": {
@@ -6000,8 +6005,8 @@
         "state": "future"
     },
     "sportowy-stream.pl": {
-        "epoch": "1559606400",
-        "expiration_date": "04-jun-2019",
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
         "state": "future"
     },
     "sportsklep.com.pl": {
@@ -6360,9 +6365,9 @@
         "state": "future"
     },
     "tinyfilehost.com": {
-        "epoch": "1559779200",
+        "epoch": 1559779200,
         "expiration_date": "06-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "tinyfileshost.com": {
         "epoch": "1566086400",
