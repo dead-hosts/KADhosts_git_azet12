@@ -3460,8 +3460,8 @@
         "state": "past"
     },
     "kredyt-na-pesel.pl": {
-        "epoch": "1559779200",
-        "expiration_date": "06-jun-2019",
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "kryptochemik.pl": {
@@ -4015,8 +4015,8 @@
         "state": "future"
     },
     "modimoda.pl": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1562544000,
+        "expiration_date": "08-jul-2019",
         "state": "future"
     },
     "modnakolekcja.com": {
@@ -4312,7 +4312,7 @@
     "naszasa.pl": {
         "epoch": 1560038400,
         "expiration_date": "09-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "naszesprawdziany.pl": {
         "epoch": "1558483200",
@@ -4322,6 +4322,11 @@
     "naturabazar.pl": {
         "epoch": "1566950400",
         "expiration_date": "28-aug-2019",
+        "state": "future"
+    },
+    "naturaikropka.pl": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
         "state": "future"
     },
     "naturday.pl": {
@@ -4800,8 +4805,8 @@
         "state": "future"
     },
     "pl-ticket.today": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "pl.team": {
@@ -4965,8 +4970,8 @@
         "state": "future"
     },
     "pobierz123.pl": {
-        "epoch": "1559865600",
-        "expiration_date": "07-jun-2019",
+        "epoch": 1561075200,
+        "expiration_date": "21-jun-2019",
         "state": "future"
     },
     "pobierz24.pl": {
@@ -5070,8 +5075,8 @@
         "state": "future"
     },
     "poprof.com": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "pornmania.pl": {
@@ -5605,9 +5610,9 @@
         "state": "future"
     },
     "samsung-win-1k.com": {
-        "epoch": "1560038400",
+        "epoch": 1560038400,
         "expiration_date": "09-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "samsung-win-2k.com": {
         "epoch": "1589068800",
@@ -6370,9 +6375,9 @@
         "state": "future"
     },
     "tinyfilehost.com": {
-        "epoch": 1559779200,
-        "expiration_date": "06-jun-2019",
-        "state": "past"
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
+        "state": "future"
     },
     "tinyfileshost.com": {
         "epoch": "1566086400",
