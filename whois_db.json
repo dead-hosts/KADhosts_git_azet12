@@ -154,6 +154,11 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "adsbtrack.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
     "adsbtrk.com": {
         "epoch": "1573257600",
         "expiration_date": "09-nov-2019",
@@ -350,8 +355,8 @@
         "state": "future"
     },
     "anuluj-mandat.pl": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "anuluj-natreta.pl": {
@@ -497,7 +502,7 @@
     "avangarza.pl": {
         "epoch": 1560384000,
         "expiration_date": "13-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "aveplay.com": {
         "epoch": "1580428800",
@@ -804,6 +809,11 @@
         "expiration_date": "10-jan-2020",
         "state": "future"
     },
+    "brave-browser.info": {
+        "epoch": 1586563200,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
     "browser-tools.systems": {
         "epoch": 1591228800,
         "expiration_date": "04-jun-2020",
@@ -897,6 +907,11 @@
     "cavotel.com": {
         "epoch": "1574294400",
         "expiration_date": "21-nov-2019",
+        "state": "future"
+    },
+    "caxsoft.pl": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "cbldc.io": {
@@ -1735,8 +1750,8 @@
         "state": "future"
     },
     "easydownload.pl": {
-        "epoch": "1560038400",
-        "expiration_date": "09-jun-2019",
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
         "state": "future"
     },
     "ebeautyportal.com": {
@@ -2145,8 +2160,8 @@
         "state": "future"
     },
     "filedownloads.pl": {
-        "epoch": "1560038400",
-        "expiration_date": "09-jun-2019",
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
         "state": "future"
     },
     "fileengine.org": {
@@ -2225,8 +2240,8 @@
         "state": "future"
     },
     "filionline.pl": {
-        "epoch": "1559606400",
-        "expiration_date": "04-jun-2019",
+        "epoch": 1562198400,
+        "expiration_date": "04-jul-2019",
         "state": "future"
     },
     "film-base.pl": {
@@ -2450,9 +2465,9 @@
         "state": "future"
     },
     "freevbucks-fortnite.pl": {
-        "epoch": 1560211200,
-        "expiration_date": "11-jun-2019",
-        "state": "past"
+        "epoch": 1562803200,
+        "expiration_date": "11-jul-2019",
+        "state": "future"
     },
     "freevbuckx.com": {
         "epoch": "1589155200",
@@ -2589,6 +2604,11 @@
         "expiration_date": "02-jul-2019",
         "state": "future"
     },
+    "gayza.net": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "gazeta-pl.site": {
         "epoch": "1582761600",
         "expiration_date": "27-feb-2020",
@@ -2605,14 +2625,14 @@
         "state": "future"
     },
     "gdb-finance.pl": {
-        "epoch": 1560297600,
-        "expiration_date": "12-jun-2019",
+        "epoch": 1561507200,
+        "expiration_date": "26-jun-2019",
         "state": "future"
     },
     "geldorbank.pl": {
-        "epoch": 1559520000,
-        "expiration_date": "03-jun-2019",
-        "state": "past"
+        "epoch": 1560729600,
+        "expiration_date": "17-jun-2019",
+        "state": "future"
     },
     "gemverify.com": {
         "epoch": 1590796800,
@@ -3129,6 +3149,11 @@
         "expiration_date": "19-jun-2019",
         "state": "future"
     },
+    "insanepays.com": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "instagram-followers.pl": {
         "epoch": "1555804800",
         "expiration_date": "21-apr-2019",
@@ -3255,9 +3280,9 @@
         "state": "future"
     },
     "jedz-eco.pl": {
-        "epoch": "1560384000",
+        "epoch": 1560384000,
         "expiration_date": "13-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "jerzyzieba.com": {
         "epoch": "1572307200",
@@ -3327,6 +3352,11 @@
     "kasa-sms.pl": {
         "epoch": 1590364800,
         "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "kasiakurier.info": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "kdplay.net": {
