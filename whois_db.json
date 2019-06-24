@@ -1265,8 +1265,8 @@
         "state": "future"
     },
     "darmowe-doladowania.net.pl": {
-        "epoch": "1561334400",
-        "expiration_date": "24-jun-2019",
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "darmowe-doladowanie.pl": {
@@ -2122,7 +2122,7 @@
     "fb-iq.pl": {
         "epoch": 1561334400,
         "expiration_date": "24-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "fbile.pl": {
         "epoch": "1559692800",
