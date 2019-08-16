@@ -324,6 +324,11 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "alerter.pl": {
+        "epoch": 1567900800,
+        "expiration_date": "08-sep-2019",
+        "state": "future"
+    },
     "aleshop.pl": {
         "epoch": 1590019200,
         "expiration_date": "21-may-2020",
@@ -370,8 +375,13 @@
         "state": "future"
     },
     "allplayer.pl": {
-        "epoch": "1563148800",
-        "expiration_date": "15-jul-2019",
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "alpcity.pl": {
+        "epoch": 1572912000,
+        "expiration_date": "05-nov-2019",
         "state": "future"
     },
     "alternews.pl": {
@@ -385,8 +395,8 @@
         "state": "future"
     },
     "amc.info": {
-        "epoch": 1565827200,
-        "expiration_date": "15-aug-2019",
+        "epoch": 1597449600,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "amway.com": {
@@ -609,6 +619,11 @@
         "expiration_date": "03-jul-2020",
         "state": "future"
     },
+    "avita.net.pl": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
     "awarialaptopa.pl": {
         "epoch": 1621814400,
         "expiration_date": "24-may-2021",
@@ -660,8 +675,8 @@
         "state": "future"
     },
     "be-wild.pl": {
-        "epoch": "1563494400",
-        "expiration_date": "19-jul-2019",
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "beauty-pack.pl": {
@@ -710,9 +725,9 @@
         "state": "future"
     },
     "best-rated-offers.com": {
-        "epoch": "1565827200",
+        "epoch": 1565827200,
         "expiration_date": "15-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "best-wygrane.com.pl": {
         "epoch": "1558656000",
@@ -935,9 +950,9 @@
         "state": "future"
     },
     "browsergames2018.com": {
-        "epoch": "1565913600",
+        "epoch": 1565913600,
         "expiration_date": "16-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "brumflix.com": {
         "epoch": "1588809600",
@@ -957,6 +972,11 @@
     "bubblelife70.life": {
         "epoch": "1587081600",
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "bueongi.pl": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
         "state": "future"
     },
     "bustcream-pro.com": {
@@ -1007,6 +1027,11 @@
     "casada.pl": {
         "epoch": "1574553600",
         "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
+    "casadasklep.pl": {
+        "epoch": 1579651200,
+        "expiration_date": "22-jan-2020",
         "state": "future"
     },
     "cashbackworld.com": {
@@ -1590,8 +1615,8 @@
         "state": "future"
     },
     "dlf.pl": {
-        "epoch": "1565740800",
-        "expiration_date": "14-aug-2019",
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "dlmyfile.com": {
@@ -2292,6 +2317,11 @@
     "fabryka-haftu.com.pl": {
         "epoch": "1552867200",
         "expiration_date": "18-mar-2019",
+        "state": "future"
+    },
+    "fabryka-mebli.com": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "fabryka-nagrod.com": {
@@ -3390,9 +3420,9 @@
         "state": "future"
     },
     "hotokazje.com": {
-        "epoch": 1565740800,
-        "expiration_date": "14-aug-2019",
-        "state": "past"
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
     },
     "hotprizes.pl": {
         "epoch": 1559865600,
