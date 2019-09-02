@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed przekretami takimi jak subskrypcje SMS
-# Last modified: Wed, 28 Aug 2019, 21:41 UTC+02
-# Version: 2019.8.28.0
+# Last modified: Sun, 01 Sep 2019, 16:18 UTC+02
+# Version: 2019.9.1.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -114,7 +114,6 @@
 0.0.0.0 bestpromocenter.com
 0.0.0.0 bestselections.top
 0.0.0.0 betterware.pl
-0.0.0.0 bewox.net
 0.0.0.0 beyourbest.pl
 0.0.0.0 bezbiku.pro
 0.0.0.0 be-wild.pl
@@ -149,6 +148,7 @@
 0.0.0.0 buty-shoes4u.pl
 0.0.0.0 buzzonclick.com
 0.0.0.0 calivita.com
+0.0.0.0 calzini.org
 0.0.0.0 casada.pl
 0.0.0.0 casadasklep.pl
 0.0.0.0 cashbackworld.com
@@ -157,6 +157,7 @@
 0.0.0.0 cda-bez-limitu.pl
 0.0.0.0 cda-filmy.com.pl
 0.0.0.0 cedino.pl
+0.0.0.0 cello24.net
 0.0.0.0 centrumdxn.pl
 0.0.0.0 centrumfantastyki.pl
 0.0.0.0 centrummarek.pl
@@ -219,6 +220,7 @@
 0.0.0.0 daswallet.com
 0.0.0.0 davor.io
 0.0.0.0 decynsire.com
+0.0.0.0 deloxar.pl
 0.0.0.0 derotel.com
 0.0.0.0 dietovo.pl
 0.0.0.0 dietstars.pro
@@ -253,6 +255,7 @@
 0.0.0.0 earthpowerint.com
 0.0.0.0 easynet.pierre-lang.com
 0.0.0.0 ebeautyportal.com
+0.0.0.0 ebobel.pl
 0.0.0.0 ebook4all.com.pl
 0.0.0.0 ebuty.net.pl
 0.0.0.0 ebuty.org.pl
@@ -573,7 +576,6 @@
 0.0.0.0 mobilerewards.io
 0.0.0.0 mobiluj.sk
 0.0.0.0 mobverify.com
-0.0.0.0 modi4moda.com
 0.0.0.0 modwebpro.pl
 0.0.0.0 mojadedra.pl
 0.0.0.0 mojadietanamase.pl
@@ -1084,7 +1086,6 @@
 0.0.0.0 www.bestpromocenter.com
 0.0.0.0 www.bestselections.top
 0.0.0.0 www.betterware.pl
-0.0.0.0 www.bewox.net
 0.0.0.0 www.beyourbest.pl
 0.0.0.0 www.bezbiku.pro
 0.0.0.0 www.bialoruskieprodukty.pl
@@ -1114,12 +1115,14 @@
 0.0.0.0 www.butypremium.pl
 0.0.0.0 www.buzzonclick.com
 0.0.0.0 www.calivita.com
+0.0.0.0 www.calzini.org
 0.0.0.0 www.casadasklep.pl
 0.0.0.0 www.casada.pl
 0.0.0.0 www.cashbackworld.com
 0.0.0.0 www.cavotel.com
 0.0.0.0 www.cbldc.io
 0.0.0.0 www.cedino.pl
+0.0.0.0 www.cello24.net
 0.0.0.0 www.centrumdxn.pl
 0.0.0.0 www.centrumfantastyki.pl
 0.0.0.0 www.centrummarek.pl
@@ -1168,6 +1171,7 @@
 0.0.0.0 www.daswallet.com
 0.0.0.0 www.davor.io
 0.0.0.0 www.decynsire.com
+0.0.0.0 www.deloxar.pl
 0.0.0.0 www.derotel.com
 0.0.0.0 www.dietovo.pl
 0.0.0.0 www.dietstars.pro
@@ -1197,6 +1201,7 @@
 0.0.0.0 www.dzisiejszefakty.xyz
 0.0.0.0 www.earthpowerint.com
 0.0.0.0 www.ebeautyportal.com
+0.0.0.0 www.ebobel.pl
 0.0.0.0 www.ebook4all.com.pl
 0.0.0.0 www.ebuty.net.pl
 0.0.0.0 www.ebuty.org.pl
@@ -1467,7 +1472,6 @@
 0.0.0.0 www.mobilerewards.io
 0.0.0.0 www.mobiluj.sk
 0.0.0.0 www.mobverify.com
-0.0.0.0 www.modi4moda.com
 0.0.0.0 www.modwebpro.pl
 0.0.0.0 www.mojadedra.pl
 0.0.0.0 www.mojadietanamase.pl
@@ -2496,7 +2500,6 @@
 #
 #
 # Przekrety
-0.0.0.0 1freesoftwareonline.com
 0.0.0.0 4kplayer.pl
 0.0.0.0 4kstream.pl
 0.0.0.0 50kaweek.live
@@ -2514,19 +2517,6 @@
 0.0.0.0 androidsecurityplus.com
 0.0.0.0 appandroider.com
 0.0.0.0 appiq.mobi
-0.0.0.0 apple.com-care-macbook-system.live
-0.0.0.0 apple.com-improve-macos.live
-0.0.0.0 apple.com-macos-clean-systems.live
-0.0.0.0 apple.com-mac-booster.live
-0.0.0.0 apple.com-repair.live
-0.0.0.0 apple.com-repair-macbook.live
-0.0.0.0 apple.com-repair-os.live
-0.0.0.0 apple.com-scan.live
-0.0.0.0 apple.com-scan-mac.live
-0.0.0.0 apple.com-shield.live
-0.0.0.0 apple.com-speedup-macbook.live
-0.0.0.0 apple.com-speedup-macos.live
-0.0.0.0 apple.com-speed-macos.live
 0.0.0.0 apps.co.pl
 0.0.0.0 appsdorado.com
 0.0.0.0 aseanlegaltech.com
@@ -2695,6 +2685,7 @@
 0.0.0.0 kasiakurier.info
 0.0.0.0 kdplay.net
 0.0.0.0 kekuko.com
+0.0.0.0 kiepscy.evai.pl
 0.0.0.0 kipokahynr.xyz
 0.0.0.0 kocham-cie.c0.pl
 0.0.0.0 kolor.oq.pl
@@ -2742,6 +2733,7 @@
 0.0.0.0 myeforsa.pl
 0.0.0.0 nagroda-sms.pl
 0.0.0.0 najlepszewrozby.pl
+0.0.0.0 naleznoscgov.eu
 0.0.0.0 namierz-telefon.pl
 0.0.0.0 nataliaporwana.biz
 0.0.0.0 needforfile.net
@@ -2758,6 +2750,7 @@
 0.0.0.0 onlinewideo.pl
 0.0.0.0 onlyfiles.net
 0.0.0.0 openwrt.com
+0.0.0.0 oplac24.com
 0.0.0.0 oplac-zaleglosc.eu
 0.0.0.0 oplatyi.pl
 0.0.0.0 orange-kodzik.890m.com
@@ -3033,6 +3026,7 @@
 0.0.0.0 www.kasiakurier.info
 0.0.0.0 www.kdplay.net
 0.0.0.0 www.kekuko.com
+0.0.0.0 www.kiepscy.evai.pl
 0.0.0.0 www.kipokahynr.xyz
 0.0.0.0 www.kolor.oq.pl
 0.0.0.0 www.konkursy.de
@@ -3072,6 +3066,7 @@
 0.0.0.0 www.myeforsa.pl
 0.0.0.0 www.m.smsquiz.pl
 0.0.0.0 www.najlepszewrozby.pl
+0.0.0.0 www.naleznoscgov.eu
 0.0.0.0 www.nataliaporwana.biz
 0.0.0.0 www.needforfile.net
 0.0.0.0 www.newszone.pro
@@ -3082,6 +3077,7 @@
 0.0.0.0 www.onlinewideo.pl
 0.0.0.0 www.onlyfiles.net
 0.0.0.0 www.openwrt.com
+0.0.0.0 www.oplac24.com
 0.0.0.0 www.oplatyi.pl
 0.0.0.0 www.paraphingxmfevapk.xyz
 0.0.0.0 www.pay2me.pl
@@ -3202,7 +3198,6 @@
 0.0.0.0 www.zumodi.com
 0.0.0.0 www.zweryfiikujdane.tk
 0.0.0.0 www-apple-com-virus-removal-systems.fixingit.solutions
-0.0.0.0 www.1freesoftwareonline.com
 0.0.0.0 www.4kplayer.pl
 0.0.0.0 www.4kstream.pl
 0.0.0.0 www.50kaweek.live
@@ -3211,19 +3206,6 @@
 0.0.0.0 www.adidas-collection.club
 0.0.0.0 www.adobe.5v.pl
 0.0.0.0 www.all-player.pl
-0.0.0.0 www.apple.com-care-macbook-system.live
-0.0.0.0 www.apple.com-improve-macos.live
-0.0.0.0 www.apple.com-macos-clean-systems.live
-0.0.0.0 www.apple.com-mac-booster.live
-0.0.0.0 www.apple.com-repair.live
-0.0.0.0 www.apple.com-repair-macbook.live
-0.0.0.0 www.apple.com-repair-os.live
-0.0.0.0 www.apple.com-scan.live
-0.0.0.0 www.apple.com-scan-mac.live
-0.0.0.0 www.apple.com-shield.live
-0.0.0.0 www.apple.com-speedup-macbook.live
-0.0.0.0 www.apple.com-speedup-macos.live
-0.0.0.0 www.apple.com-speed-macos.live
 0.0.0.0 www.bramka-sms-za-darmo.pl
 0.0.0.0 www.brave-browser.info
 0.0.0.0 www.btc-forum.pl
@@ -3469,6 +3451,20 @@
 0.0.0.0 adsheads.go2affise.com
 0.0.0.0 aoc.teleaudio.pl
 0.0.0.0 api.myeforsa.pl
+0.0.0.0 apple.com-care-macbook-system.live
+0.0.0.0 apple.com-improve-macos.live
+0.0.0.0 apple.com-macos-clean-systems.live
+0.0.0.0 apple.com-mac-booster.live
+0.0.0.0 apple.com-repair.live
+0.0.0.0 apple.com-repair-macbook.live
+0.0.0.0 apple.com-repair-os.live
+0.0.0.0 apple.com-scan.live
+0.0.0.0 apple.com-scan-mac.live
+0.0.0.0 apple.com-shield.live
+0.0.0.0 apple.com-shields-guard.live
+0.0.0.0 apple.com-speedup-macbook.live
+0.0.0.0 apple.com-speedup-macos.live
+0.0.0.0 apple.com-speed-macos.live
 0.0.0.0 bigbangads.go2cloud.org
 0.0.0.0 buzz.mobiapp-games.com
 0.0.0.0 cdnrep.reimageplus.com
@@ -3584,6 +3580,20 @@
 0.0.0.0 www.ww7.openwrt.com
 0.0.0.0 www.wydawca.lead.network
 0.0.0.0 www.zmienkolory.blogspot.com
+0.0.0.0 www.apple.com-care-macbook-system.live
+0.0.0.0 www.apple.com-improve-macos.live
+0.0.0.0 www.apple.com-macos-clean-systems.live
+0.0.0.0 www.apple.com-mac-booster.live
+0.0.0.0 www.apple.com-repair.live
+0.0.0.0 www.apple.com-repair-macbook.live
+0.0.0.0 www.apple.com-repair-os.live
+0.0.0.0 www.apple.com-scan.live
+0.0.0.0 www.apple.com-scan-mac.live
+0.0.0.0 www.apple.com-shield.live
+0.0.0.0 www.apple.com-shields-guard.live
+0.0.0.0 www.apple.com-speedup-macbook.live
+0.0.0.0 www.apple.com-speedup-macos.live
+0.0.0.0 www.apple.com-speed-macos.live
 0.0.0.0 www.buzz.mobiapp-games.com
 0.0.0.0 www.czas-na-fb.blogspot.com
 0.0.0.0 www.dw.lp.eu.emobi-sys.com
