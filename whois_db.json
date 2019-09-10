@@ -6894,6 +6894,11 @@
         "expiration_date": "04-jul-2019",
         "state": "past"
     },
+    "realnyzarobek.pl": {
+        "epoch": 1583452800,
+        "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
     "recommendedlab.com": {
         "epoch": "1584921600",
         "expiration_date": "23-mar-2020",
@@ -7904,6 +7909,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "tanie-wapnowanie.pl": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "taniebutymaster.com": {
         "epoch": 1582502400,
         "expiration_date": "24-feb-2020",
@@ -8635,8 +8645,8 @@
         "state": "future"
     },
     "vivabank.pl": {
-        "epoch": 1568073600,
-        "expiration_date": "10-sep-2019",
+        "epoch": 1569283200,
+        "expiration_date": "24-sep-2019",
         "state": "future"
     },
     "vivenso.pl": {
@@ -8819,6 +8829,11 @@
         "expiration_date": "21-may-2020",
         "state": "future"
     },
+    "winfactory.pl": {
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
     "wins8.pl": {
         "epoch": "1554336000",
         "expiration_date": "04-apr-2019",
@@ -8895,9 +8910,9 @@
         "state": "future"
     },
     "workwolf.pl": {
-        "epoch": "1568073600",
+        "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "worldinfoclub.com": {
         "epoch": 1590192000,
