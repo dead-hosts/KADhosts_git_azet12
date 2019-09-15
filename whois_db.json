@@ -5095,9 +5095,9 @@
         "state": "future"
     },
     "mobyapps.net": {
-        "epoch": "1568505600",
+        "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "model-agd.pl": {
         "epoch": "1563926400",
@@ -5125,8 +5125,8 @@
         "state": "future"
     },
     "mojadedra.pl": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "mojadietanamase.pl": {
@@ -6345,8 +6345,8 @@
         "state": "future"
     },
     "pobierzgo.pl": {
-        "epoch": "1568505600",
-        "expiration_date": "15-sep-2019",
+        "epoch": 1571097600,
+        "expiration_date": "15-oct-2019",
         "state": "future"
     },
     "pobierzplik.net": {
@@ -6620,8 +6620,8 @@
         "state": "future"
     },
     "profitmaximizerpl.com": {
-        "epoch": "1568505600",
-        "expiration_date": "15-sep-2019",
+        "epoch": 1579046400,
+        "expiration_date": "15-jan-2020",
         "state": "future"
     },
     "profitmaximum.pl": {
@@ -7082,6 +7082,11 @@
     "rtvagdpro.net": {
         "epoch": 1599350400,
         "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "rubris.org": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "ruletka-systemy.com": {
@@ -7649,6 +7654,11 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "sportowystream.pl": {
+        "epoch": 1579046400,
+        "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
     "sportplus.pro": {
         "epoch": 1598918400,
         "expiration_date": "01-sep-2020",
@@ -7755,8 +7765,8 @@
         "state": "future"
     },
     "streamgo.pl": {
-        "epoch": "1568505600",
-        "expiration_date": "15-sep-2019",
+        "epoch": 1571097600,
+        "expiration_date": "15-oct-2019",
         "state": "future"
     },
     "streamuj.org": {
