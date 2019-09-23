@@ -9187,7 +9187,7 @@
     "yourebook.pl": {
         "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "yourfiles.pl": {
         "epoch": 1598140800,
@@ -9195,9 +9195,9 @@
         "state": "future"
     },
     "yourofferpro.com": {
-        "epoch": "1569196800",
+        "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "yourpayment.online": {
         "epoch": "1586649600",
