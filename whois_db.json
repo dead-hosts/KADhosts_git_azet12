@@ -7595,8 +7595,8 @@
         "state": "future"
     },
     "sneakerstore.com.pl": {
-        "epoch": "1569369600",
-        "expiration_date": "25-sep-2019",
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "sneakersypuma.pl": {
@@ -7904,6 +7904,11 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "suuntosklep.online": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
     "sweepstakescentralusa.com": {
         "epoch": "1569888000",
         "expiration_date": "01-oct-2019",
@@ -7960,9 +7965,9 @@
         "state": "future"
     },
     "szczesliwagotowka.pl": {
-        "epoch": "1569369600",
+        "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "szczesliwydzien.com": {
         "epoch": 1571356800,
