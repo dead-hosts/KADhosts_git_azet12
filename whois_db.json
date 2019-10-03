@@ -992,7 +992,7 @@
     "bookbugg.com": {
         "epoch": 1570060800,
         "expiration_date": "03-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "booostphone.pl": {
         "epoch": "1556841600",
@@ -1085,8 +1085,8 @@
         "state": "future"
     },
     "butypremium.pl": {
-        "epoch": "1569888000",
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "butyua.pl": {
@@ -1365,8 +1365,8 @@
         "state": "future"
     },
     "cinemateka.pl": {
-        "epoch": "1570060800",
-        "expiration_date": "03-oct-2019",
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "circultural.com": {
@@ -2214,6 +2214,11 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "e-blackwhite.pl": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "e-cda.pl": {
         "epoch": "1579132800",
         "expiration_date": "16-jan-2020",
@@ -2475,8 +2480,8 @@
         "state": "future"
     },
     "ermail.pl": {
-        "epoch": "1569888000",
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "ero-tv.pl": {
@@ -2497,6 +2502,11 @@
     "esemeso.pl": {
         "epoch": "1587254400",
         "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "eshoes.com.pl": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "eskk.pl": {
@@ -2747,6 +2757,11 @@
     "fifidossaltosaltos.com": {
         "epoch": 1651017600,
         "expiration_date": "27-apr-2022",
+        "state": "future"
+    },
+    "fightfly.pl": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "file-share.pl": {
