@@ -1210,8 +1210,13 @@
         "state": "future"
     },
     "btcprofitnow.pro": {
-        "epoch": "1571184000",
+        "epoch": 1571184000,
         "expiration_date": "16-oct-2019",
+        "state": "past"
+    },
+    "btcprofitnow.website": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "bubblelife70.life": {
