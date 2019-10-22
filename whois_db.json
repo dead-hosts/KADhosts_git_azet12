@@ -387,7 +387,7 @@
     "alerter.pl": {
         "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "aleshop.pl": {
         "epoch": 1590019200,
@@ -2165,9 +2165,9 @@
         "state": "past"
     },
     "dofinansowania-jezykowe.pl": {
-        "epoch": "1571702400",
+        "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "dofinansowanie-dolnoslaskie.pl": {
         "epoch": 1567728000,
