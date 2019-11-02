@@ -9312,7 +9312,7 @@
     "tembakan.pl": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "tengofoxfiles.com": {
         "epoch": "1589241600",
@@ -9487,6 +9487,11 @@
     "topshoes24.pl": {
         "epoch": "1582156800",
         "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "torchscor.com": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
         "state": "future"
     },
     "torrento.pl": {
@@ -9685,8 +9690,8 @@
         "state": "future"
     },
     "tysiaczek.pl": {
-        "epoch": "1572566400",
-        "expiration_date": "01-nov-2019",
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
         "state": "future"
     },
     "ublock.org": {
@@ -10037,6 +10042,11 @@
     "vladoblog.info": {
         "epoch": "1587945600",
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "vnotrk.com": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "vod24.pl": {
