@@ -6834,6 +6834,11 @@
         "expiration_date": "08-jan-2020",
         "state": "future"
     },
+    "okiemmarynarza.pl": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "olbart.pl": {
         "epoch": 1591056000,
         "expiration_date": "02-jun-2020",
@@ -7592,7 +7597,7 @@
     "pozyczka-sms.pl": {
         "epoch": 1572998400,
         "expiration_date": "06-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "pozyczka-tanio-szybko.pl": {
         "epoch": 1600992000,
@@ -8805,8 +8810,8 @@
         "state": "future"
     },
     "soft4click.com": {
-        "epoch": "1572912000",
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "softmania.pl": {
@@ -8835,8 +8840,8 @@
         "state": "future"
     },
     "solucjegier.pl": {
-        "epoch": "1572912000",
-        "expiration_date": "05-nov-2019",
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
         "state": "future"
     },
     "solvusoft.com": {
@@ -8895,8 +8900,8 @@
         "state": "future"
     },
     "sportef.pl": {
-        "epoch": "1572912000",
-        "expiration_date": "05-nov-2019",
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
         "state": "future"
     },
     "sportowy-stream.pl": {
@@ -9002,6 +9007,11 @@
     "steam-wallet-money.com": {
         "epoch": "1589414400",
         "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "stiub.pl": {
+        "epoch": 1574121600,
+        "expiration_date": "19-nov-2019",
         "state": "future"
     },
     "stop-sms.pl": {
