@@ -2347,7 +2347,7 @@
     "doslubu24.pl": {
         "epoch": 1573603200.0,
         "expiration_date": "13-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "dotabet103.com": {
         "epoch": "1575072000",
@@ -4974,6 +4974,11 @@
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
+    "kantorfrank.pl": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "karencupp.com": {
         "epoch": 1610755200,
         "expiration_date": "16-jan-2021",
@@ -5380,8 +5385,8 @@
         "state": "future"
     },
     "ldrcp.pl": {
-        "epoch": 1573603200.0,
-        "expiration_date": "13-nov-2019",
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "lead.network": {
