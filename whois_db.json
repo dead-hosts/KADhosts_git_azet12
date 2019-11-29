@@ -34,6 +34,11 @@
         "expiration_date": "10-jun-2019",
         "state": "future"
     },
+    "24fakty-sniadaniowe.pl": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
     "24streamers.pl": {
         "epoch": "1574208000",
         "expiration_date": "20-nov-2019",
@@ -1665,9 +1670,9 @@
         "state": "future"
     },
     "choljai.info": {
-        "epoch": 1574812800.0,
-        "expiration_date": "27-nov-2019",
-        "state": "past"
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
     },
     "chomik-24.pl": {
         "epoch": 1576713600.0,
@@ -1712,6 +1717,11 @@
     "cichodaje.pl": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "ciekawehistorie.pl": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "ciekawinki.pl": {
@@ -3324,6 +3334,16 @@
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "fakty-sniadaniowe-pl.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
+    "fakty-sniadaniowe.com.pl": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
     "faraweel.com": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
@@ -3905,9 +3925,9 @@
         "state": "future"
     },
     "freshiuz.com": {
-        "epoch": 1574812800.0,
-        "expiration_date": "27-nov-2019",
-        "state": "past"
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
     },
     "friendviewer.pl": {
         "epoch": "1552348800",
@@ -4077,6 +4097,11 @@
     "gazetainfo.pl": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "gazetanowoczesna.pl": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "gbptest.net": {
