@@ -7437,7 +7437,7 @@
     "oplacalna-gotowka.pl": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "oplatyi.pl": {
         "epoch": 1585267200.0,
@@ -7457,6 +7457,11 @@
     "optimask-pro.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "oranzadaklub.pl": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "organiclife.com.pl": {
@@ -8917,7 +8922,7 @@
     "rzetelna-pozyczka.pl": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "s-pay24.com": {
         "epoch": 1593302400.0,
@@ -9085,9 +9090,9 @@
         "state": "future"
     },
     "senoctis.pl": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
-        "state": "past"
+        "epoch": 1576195200.0,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
     },
     "sensisslupca.pl": {
         "epoch": 1595030400.0,
@@ -9530,8 +9535,8 @@
         "state": "future"
     },
     "speedyshare.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "spokeo.pl": {
@@ -10992,6 +10997,11 @@
     "wernet.pl": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "werxwer.pl": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "wesklan.pl": {
