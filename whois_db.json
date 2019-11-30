@@ -5322,7 +5322,7 @@
     "kdplay.net": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "keenbuty.pl": {
         "epoch": 1593561600.0,
@@ -7172,7 +7172,7 @@
     "nsfund.mn": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "nsnm.pl": {
         "epoch": 1589500800.0,
@@ -7417,6 +7417,11 @@
     "opel.km.ua": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "openwire.tv": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "openwrt.com": {
