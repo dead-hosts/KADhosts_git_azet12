@@ -1764,6 +1764,11 @@
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
+    "cinemaplanet.pl": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "cinemateka.pl": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
@@ -3300,9 +3305,9 @@
         "state": "future"
     },
     "faberville.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
-        "state": "past"
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
     },
     "fabryka-haftu.com.pl": {
         "epoch": "1552867200",
@@ -4552,7 +4557,7 @@
     "hdseriale.pl": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "hdsportstreams.pl": {
         "epoch": "1574208000",
