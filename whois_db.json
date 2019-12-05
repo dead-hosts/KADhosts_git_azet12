@@ -904,6 +904,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "basenymoninar.pl": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
     "bazafilm.pl": {
         "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
@@ -2384,6 +2389,11 @@
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
+    "dobreklucze.pl": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
     "dobreprogramy.pro": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
@@ -2882,7 +2892,7 @@
     "eco-flow.pl": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ecoflow.pl": {
         "epoch": 1592438400.0,
@@ -5777,7 +5787,7 @@
     "legitstore.pl": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "lesantivirus.net": {
         "epoch": 1606262400.0,
