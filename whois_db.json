@@ -2684,6 +2684,11 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "dragpage.com": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
     "drapart.org": {
         "epoch": 1576800000.0,
         "expiration_date": "20-dec-2019",
@@ -5847,7 +5852,7 @@
     "lifehackz.net": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "lightcloud.pl": {
         "epoch": 1587686400.0,
