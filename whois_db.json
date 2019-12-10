@@ -142,7 +142,7 @@
     "abbp35.com": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ablip.pl": {
         "epoch": 1575849600.0,
@@ -499,6 +499,11 @@
         "expiration_date": "15-jul-2020",
         "state": "future"
     },
+    "alltube.com.pl": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
     "alohasoftware.net": {
         "epoch": 1668470400.0,
         "expiration_date": "15-nov-2022",
@@ -822,7 +827,7 @@
     "autorentier.pl": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "autorepuestosdml.com": {
         "epoch": 1589414400.0,
@@ -2320,8 +2325,8 @@
         "state": "future"
     },
     "dirproperties.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "dirtyhood.pl": {
