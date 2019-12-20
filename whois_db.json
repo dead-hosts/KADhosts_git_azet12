@@ -1155,9 +1155,9 @@
         "state": "future"
     },
     "bitcoinmillionairepro.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
-        "state": "past"
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
     },
     "bitcoins-profit.com": {
         "epoch": 1599264000.0,
@@ -7427,6 +7427,11 @@
     "ogladaj.online": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "ogladajfilmy.pl": {
+        "epoch": 1581379200.0,
+        "expiration_date": "11-feb-2020",
         "state": "future"
     },
     "ogladamy24.pl": {
