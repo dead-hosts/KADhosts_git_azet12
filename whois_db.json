@@ -7342,7 +7342,7 @@
     "nu7.pl": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "nubiton.pl": {
         "epoch": 1579219200.0,
@@ -11922,6 +11922,11 @@
     "zdalnehobby.pl": {
         "epoch": "1558137600",
         "expiration_date": "18-may-2019",
+        "state": "future"
+    },
+    "zdrowie-i-dieta.pl": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "zebrapozyczki.pl": {
