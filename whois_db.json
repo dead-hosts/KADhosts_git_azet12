@@ -1294,6 +1294,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "best-sales.top": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "best-wygrane.com.pl": {
         "epoch": "1558656000",
         "expiration_date": "24-may-2019",
@@ -1635,9 +1640,9 @@
         "state": "future"
     },
     "bramka-sms-za-darmo.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "brave-browser.info": {
         "epoch": 1586563200.0,
@@ -3155,8 +3160,8 @@
         "state": "past"
     },
     "doladowywacztel.pl": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1581292800.0,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "doladuj-5gb-lte.pl": {
