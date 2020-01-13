@@ -707,7 +707,7 @@
     "anabim.com": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "analistarastirma.com": {
         "epoch": 1583884800.0,
@@ -1455,8 +1455,8 @@
         "state": "future"
     },
     "bitcoin-trader-app.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "bitcoinmillionairepro.com": {
@@ -14873,6 +14873,11 @@
         "epoch": 1559520000,
         "expiration_date": "03-jun-2019",
         "state": "past"
+    },
+    "zawijawa.pl": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
     },
     "zbudujmy-pustelnie.pl": {
         "epoch": 1586995200.0,
