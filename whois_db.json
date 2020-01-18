@@ -104,6 +104,11 @@
         "expiration_date": "25-sep-2019",
         "state": "future"
     },
+    "50000zl.site": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
     "50kaweek.live": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
@@ -3410,9 +3415,9 @@
         "state": "future"
     },
     "download24.site": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "downloadfiles.pl": {
         "epoch": 1580083200.0,
