@@ -1664,6 +1664,11 @@
         "expiration_date": "21-aug-2020",
         "state": "future"
     },
+    "bestcena.pl": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "state": "future"
+    },
     "bestfollowers.org": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
@@ -2927,7 +2932,7 @@
     "cinema-online.pl": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "cinemaplanet.pl": {
         "epoch": 1599696000.0,
@@ -4419,6 +4424,11 @@
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
+    "e-bestsell.pl": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "e-blackwhite.pl": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
@@ -4877,6 +4887,11 @@
     "enormo.pl": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "enterbuty.com.pl": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "entermedia.pl": {
