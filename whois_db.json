@@ -2667,7 +2667,7 @@
     "centrum-agd.net": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "centrum-bezpiecznej-pozyczki.waw.pl": {
         "epoch": 1594252800,
@@ -6920,13 +6920,18 @@
         "state": "future"
     },
     "hacki-czity.pl": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1583452800.0,
+        "expiration_date": "06-mar-2020",
         "state": "future"
     },
     "hackidogier.pl": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "hadesklub.pl": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "haftreklama.pl": {
