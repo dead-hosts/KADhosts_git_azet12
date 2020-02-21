@@ -1552,7 +1552,7 @@
     "bc43.pl": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "bdz.com.pl": {
         "epoch": 1590192000.0,
@@ -2642,7 +2642,7 @@
     "cda-filmy.com.pl": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "cda-flix.pl": {
         "epoch": 1601164800.0,
@@ -7955,8 +7955,8 @@
         "state": "future"
     },
     "janparkiet.pl": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "jasaweb.biz": {
