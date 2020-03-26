@@ -284,6 +284,11 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "aconcagua2010.pl": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
     "acontrario.pl": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
@@ -3222,7 +3227,7 @@
     "cda-bez-limitu.pl": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "cda-film.pl": {
         "epoch": 1596844800.0,
@@ -4042,7 +4047,7 @@
     "cs-bosman.pl": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "cs-fpg.pl": {
         "epoch": 1588636800.0,
@@ -5100,8 +5105,8 @@
         "state": "future"
     },
     "drew-tex.pl": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "drexpol-modele.com.pl": {
@@ -5627,7 +5632,7 @@
     "ehomedesign.com.pl": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "ekerisiltihaliyikama.com": {
         "epoch": 1609372800.0,
@@ -6980,8 +6985,8 @@
         "state": "future"
     },
     "forexyestrader.pl": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "forfollow.net": {
