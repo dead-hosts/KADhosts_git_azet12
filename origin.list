@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i nieprawdziwe informacje.
-# Last modified: Sat, 11 Apr 2020, 20:24 UTC+02
-# Version: 2020.4.11.2
+# Last modified: Sat, 11 Apr 2020, 22:54 UTC+02
+# Version: 2020.4.11.8
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6724,6 +6724,7 @@
 0.0.0.0 astrocash.org
 0.0.0.0 atchec.com
 0.0.0.0 atnimanvilla.com
+0.0.0.0 automatyczny-dozownikmydla-pl.com
 0.0.0.0 autorentier.pl
 0.0.0.0 autorepuestosdml.com
 0.0.0.0 avaparse.ir
@@ -7137,6 +7138,7 @@
 0.0.0.0 infomiasto24.pl
 0.0.0.0 infonews24.com.pl
 0.0.0.0 informacje-news.eu
+0.0.0.0 informacje-o-maskach-ochronnych-pl.com
 0.0.0.0 informacje-swiat.pl
 0.0.0.0 informujemy.eu
 0.0.0.0 inovscope.pt
@@ -7217,6 +7219,7 @@
 0.0.0.0 komornik-gov24.com
 0.0.0.0 koniec500plus.eu
 0.0.0.0 konkursy.de
+0.0.0.0 koronainfo24.eu
 0.0.0.0 koronawirus.hekko24.pl
 0.0.0.0 koronawirusnews.com.pl
 0.0.0.0 koronawirusnews.net.pl
@@ -7294,6 +7297,7 @@
 0.0.0.0 mientayweb.com
 0.0.0.0 milenium.site
 0.0.0.0 millensbank.fun
+0.0.0.0 millensbank.site
 0.0.0.0 millionways.duckdns.org
 0.0.0.0 minmin96.xyz
 0.0.0.0 miroslawklos.pl
@@ -8224,6 +8228,7 @@
 0.0.0.0 www.komorniik24.com
 0.0.0.0 www.koniec500plus.eu
 0.0.0.0 www.konkursy.de
+0.0.0.0 www.koronainfo24.eu
 0.0.0.0 www.koronawirusnews.com.pl
 0.0.0.0 www.koronawirusnews.net.pl
 0.0.0.0 www.koronawirus.hekko24.pl
@@ -8289,6 +8294,7 @@
 0.0.0.0 www.mientayweb.com
 0.0.0.0 www.milenium.site
 0.0.0.0 www.millensbank.fun
+0.0.0.0 www.millensbank.site
 0.0.0.0 www.millionways.duckdns.org
 0.0.0.0 www.minmin96.xyz
 0.0.0.0 www.miroslawklos.pl
@@ -8719,6 +8725,7 @@
 0.0.0.0 www.aktualizacja-regulamin.com
 0.0.0.0 www.all-player.pl
 0.0.0.0 www.android-cleaner.net
+0.0.0.0 www.automatyczny-dozownikmydla-pl.com
 0.0.0.0 www.best-sales.top
 0.0.0.0 www.bitcoinera-appl.com
 0.0.0.0 www.bitcoins-profit.com
@@ -8819,6 +8826,7 @@
 0.0.0.0 www.hotel-bristol.lu
 0.0.0.0 www.industry-deals.com
 0.0.0.0 www.informacje-news.eu
+0.0.0.0 www.informacje-o-maskach-ochronnych-pl.com
 0.0.0.0 www.informacje-swiat.pl
 0.0.0.0 www.in-post.net
 0.0.0.0 www.in-post.online
@@ -9269,6 +9277,9 @@
 0.0.0.0 netflix.apps.co.pl
 0.0.0.0 news.health-beauty.press
 0.0.0.0 odzyskajsnapy.blogspot.com
+0.0.0.0 onetporwanie.com.pl
+0.0.0.0 onetporwanie.online
+0.0.0.0 onetporwanie.pl
 0.0.0.0 oplata3981.tpskp.com
 0.0.0.0 packza.dostawy24.com
 0.0.0.0 paczka.poczta-pay.com
@@ -9334,6 +9345,7 @@
 0.0.0.0 server730889.nazwa.pl
 0.0.0.0 server836207.nazwa.pl
 0.0.0.0 server866225.nazwa.pl
+0.0.0.0 server872200.nazwa.pl
 0.0.0.0 server905483.nazwa.pl
 0.0.0.0 sprawdzzdjecia.24.eu
 0.0.0.0 sprnr59713.net
@@ -9422,6 +9434,9 @@
 0.0.0.0 www.m.pl.failmobile.net
 0.0.0.0 www.netflix.apps.co.pl
 0.0.0.0 www.odzyskajsnapy.blogspot.com
+0.0.0.0 www.onetporwanie.com.pl
+0.0.0.0 www.onetporwanie.online
+0.0.0.0 www.onetporwanie.pl
 0.0.0.0 www.oplata3981.tpskp.com
 0.0.0.0 www.packza.dostawy24.com
 0.0.0.0 www.ping.ublock.org
@@ -9455,6 +9470,7 @@
 0.0.0.0 www.server730889.nazwa.pl
 0.0.0.0 www.server836207.nazwa.pl
 0.0.0.0 www.server866225.nazwa.pl
+0.0.0.0 www.server872200.nazwa.pl
 0.0.0.0 www.server905483.nazwa.pl
 0.0.0.0 www.sprnr59713.net
 0.0.0.0 www.sprnr59813.net
