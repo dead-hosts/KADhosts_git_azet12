@@ -1207,7 +1207,7 @@
     "anety-plaszcze.pl": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "angielskisylwia.pl": {
         "epoch": 1608249600.0,
@@ -1962,7 +1962,7 @@
     "bazarownia.pl": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "bazartani.pl": {
         "epoch": 1616371200.0,
@@ -2007,7 +2007,7 @@
     "beatabajka.pl": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "beauty-pack.pl": {
         "epoch": "1551830400",
@@ -3152,7 +3152,7 @@
     "buzzonclick.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "c-forum.pl": {
         "epoch": 1589846400.0,
@@ -5095,8 +5095,8 @@
         "state": "future"
     },
     "doslav.pl": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "doslubu24.pl": {
@@ -6010,8 +6010,8 @@
         "state": "future"
     },
     "emporium-group.pl": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "emuzyka-do-pobrania.pl": {
@@ -6992,7 +6992,7 @@
     "finansedladziecka.pl": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "finansowapomoc.net": {
         "epoch": 1612051200.0,
@@ -7887,7 +7887,7 @@
     "gerotel.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "gest24.pl": {
         "epoch": 1589414400.0,
@@ -7905,8 +7905,8 @@
         "state": "future"
     },
     "getdataback.pl": {
-        "epoch": 1573257600,
-        "expiration_date": "09-nov-2019",
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "getfilesfrom.net": {
@@ -8070,8 +8070,13 @@
         "state": "future"
     },
     "glinkss.com": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
+    "gliwicekomornik.com.pl": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "gllik.pl": {
@@ -8085,8 +8090,8 @@
         "state": "future"
     },
     "globalcontact.pl": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "globalhealingcenter.com": {
@@ -8144,6 +8149,11 @@
         "expiration_date": "28-oct-2026",
         "state": "future"
     },
+    "goclaw.com.pl": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
     "goforfun.pl": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
@@ -8164,14 +8174,19 @@
         "expiration_date": "02-jan-2021",
         "state": "future"
     },
+    "gokbrzezno.pl": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
     "goldendayspa.pl": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
         "state": "future"
     },
     "goldenmark.com": {
-        "epoch": "1567641600",
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "goldenrelations.pl": {
@@ -8197,6 +8212,11 @@
     "goleta105.com": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "golfsport.com.pl": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "goodlife7.pl": {

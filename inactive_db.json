@@ -3641,6 +3641,13 @@
             "last_retested_at_epoch": 1586482941.0,
             "last_retested_at_iso": "2020-04-10T01:42:21",
             "status": "INACTIVE"
+        },
+        "gatuzo.eu": {
+            "included_at_epoch": 1587949405.579647,
+            "included_at_iso": "2020-04-27T01:03:25.579647",
+            "last_retested_at_epoch": 1587949405.579647,
+            "last_retested_at_iso": "2020-04-27T01:03:25.579647",
+            "status": "INACTIVE"
         }
     }
 }
