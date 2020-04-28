@@ -6350,9 +6350,9 @@
         "state": "future"
     },
     "eventjazz.pl": {
-        "epoch": 1588032000.0,
-        "expiration_date": "28-apr-2020",
-        "state": "past"
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
+        "state": "future"
     },
     "eventownik.pl": {
         "epoch": 1596326400.0,
@@ -8589,6 +8589,11 @@
         "expiration_date": "15-nov-2020",
         "state": "future"
     },
+    "halex.waw.pl": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
     "halodzwonek.pl": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
@@ -8622,6 +8627,11 @@
     "handelbot.com": {
         "epoch": "1579305600",
         "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
+    "handicapazjatycki.pl": {
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
         "state": "future"
     },
     "hanypon.com": {
