@@ -3432,6 +3432,13 @@
         }
     },
     "/home/travis/build/dead-hosts/KADhosts_git_azet12/domains.list": {
+        "24hoursready.cf": {
+            "included_at_epoch": 1588246265.153572,
+            "included_at_iso": "2020-04-30T11:31:05.153572",
+            "last_retested_at_epoch": 1588246265.153572,
+            "last_retested_at_iso": "2020-04-30T11:31:05.153572",
+            "status": "INACTIVE"
+        },
         "advertical.pl": {
             "included_at_epoch": 1587180863.0,
             "included_at_iso": "2020-04-18T03:34:23",
@@ -3442,15 +3449,15 @@
         "alanor.pl": {
             "included_at_epoch": 1587940165.026287,
             "included_at_iso": "2020-04-26T22:29:25.026287",
-            "last_retested_at_epoch": 1588118336.870835,
-            "last_retested_at_iso": "2020-04-28T23:58:56.870835",
+            "last_retested_at_epoch": 1588246268.338891,
+            "last_retested_at_iso": "2020-04-30T11:31:08.338891",
             "status": "INACTIVE"
         },
         "aldashoes.eu": {
             "included_at_epoch": 1587180864.0,
             "included_at_iso": "2020-04-18T03:34:24",
-            "last_retested_at_epoch": 1588118336.909955,
-            "last_retested_at_iso": "2020-04-28T23:58:56.909955",
+            "last_retested_at_epoch": 1588246268.381749,
+            "last_retested_at_iso": "2020-04-30T11:31:08.381749",
             "status": "INACTIVE"
         },
         "aldashoes.pl": {
@@ -3470,15 +3477,15 @@
         "beatabajka.pl": {
             "included_at_epoch": 1587956964.467835,
             "included_at_iso": "2020-04-27T03:09:24.467835",
-            "last_retested_at_epoch": 1588134750.692073,
-            "last_retested_at_iso": "2020-04-29T04:32:30.692073",
+            "last_retested_at_epoch": 1588246273.168274,
+            "last_retested_at_iso": "2020-04-30T11:31:13.168274",
             "status": "INACTIVE"
         },
         "besavia.pl": {
             "included_at_epoch": 1587940170.241182,
             "included_at_iso": "2020-04-26T22:29:30.241182",
-            "last_retested_at_epoch": 1588118341.885094,
-            "last_retested_at_iso": "2020-04-28T23:59:01.885094",
+            "last_retested_at_epoch": 1588246273.441319,
+            "last_retested_at_iso": "2020-04-30T11:31:13.441319",
             "status": "INACTIVE"
         },
         "bieszczadychannel.pl": {
@@ -3491,8 +3498,8 @@
         "bramax-poznan.pl": {
             "included_at_epoch": 1587940172.838593,
             "included_at_iso": "2020-04-26T22:29:32.838593",
-            "last_retested_at_epoch": 1588118344.361725,
-            "last_retested_at_iso": "2020-04-28T23:59:04.361725",
+            "last_retested_at_epoch": 1588246275.997688,
+            "last_retested_at_iso": "2020-04-30T11:31:15.997688",
             "status": "INACTIVE"
         },
         "butyadidas.pl": {
@@ -3512,22 +3519,22 @@
         "butyreebokcrossfit.pl": {
             "included_at_epoch": 1587940174.236439,
             "included_at_iso": "2020-04-26T22:29:34.236439",
-            "last_retested_at_epoch": 1588118345.685742,
-            "last_retested_at_iso": "2020-04-28T23:59:05.685742",
+            "last_retested_at_epoch": 1588246277.374818,
+            "last_retested_at_iso": "2020-04-30T11:31:17.374818",
             "status": "INACTIVE"
         },
         "butyreebokpl.eu": {
             "included_at_epoch": 1587194100.0,
             "included_at_iso": "2020-04-18T07:15:00",
-            "last_retested_at_epoch": 1588118345.724328,
-            "last_retested_at_iso": "2020-04-28T23:59:05.724328",
+            "last_retested_at_epoch": 1588246277.415621,
+            "last_retested_at_iso": "2020-04-30T11:31:17.415621",
             "status": "INACTIVE"
         },
         "centrumfantastyki.pl": {
             "included_at_epoch": 1587940175.73557,
             "included_at_iso": "2020-04-26T22:29:35.735570",
-            "last_retested_at_epoch": 1588118347.202388,
-            "last_retested_at_iso": "2020-04-28T23:59:07.202388",
+            "last_retested_at_epoch": 1588246278.954273,
+            "last_retested_at_iso": "2020-04-30T11:31:18.954273",
             "status": "INACTIVE"
         },
         "centrummarek.pl": {
@@ -3554,8 +3561,8 @@
         "cs-bosman.pl": {
             "included_at_epoch": 1587940178.83403,
             "included_at_iso": "2020-04-26T22:29:38.834030",
-            "last_retested_at_epoch": 1588118350.144831,
-            "last_retested_at_iso": "2020-04-28T23:59:10.144831",
+            "last_retested_at_epoch": 1588246282.041622,
+            "last_retested_at_iso": "2020-04-30T11:31:22.041622",
             "status": "INACTIVE"
         },
         "dasecosystem.pl": {
@@ -3568,8 +3575,8 @@
         "drukujemydlawas.pl": {
             "included_at_epoch": 1587940182.724251,
             "included_at_iso": "2020-04-26T22:29:42.724251",
-            "last_retested_at_epoch": 1588114444.747843,
-            "last_retested_at_iso": "2020-04-28T22:54:04.747843",
+            "last_retested_at_epoch": 1588246286.033075,
+            "last_retested_at_iso": "2020-04-30T11:31:26.033075",
             "status": "INACTIVE"
         },
         "drukujza45pln.pl": {
@@ -3582,22 +3589,22 @@
         "dstreet-pl": {
             "included_at_epoch": 1588142691.435847,
             "included_at_iso": "2020-04-29T06:44:51.435847",
-            "last_retested_at_epoch": 1588142691.435847,
-            "last_retested_at_iso": "2020-04-29T06:44:51.435847",
+            "last_retested_at_epoch": 1588246286.041078,
+            "last_retested_at_iso": "2020-04-30T11:31:26.041078",
             "status": "INVALID"
         },
         "ehomedesign.com.pl": {
             "included_at_epoch": 1587940184.116774,
             "included_at_iso": "2020-04-26T22:29:44.116774",
-            "last_retested_at_epoch": 1588114446.147268,
-            "last_retested_at_iso": "2020-04-28T22:54:06.147268",
+            "last_retested_at_epoch": 1588246287.454534,
+            "last_retested_at_iso": "2020-04-30T11:31:27.454534",
             "status": "INACTIVE"
         },
         "elepta.pl": {
             "included_at_epoch": 1586887641.0,
             "included_at_iso": "2020-04-14T18:07:21",
-            "last_retested_at_epoch": 1588114446.443495,
-            "last_retested_at_iso": "2020-04-28T22:54:06.443495",
+            "last_retested_at_epoch": 1588246287.842318,
+            "last_retested_at_iso": "2020-04-30T11:31:27.842318",
             "status": "INACTIVE"
         },
         "epicreactflyknit.pl": {
@@ -3610,15 +3617,15 @@
         "epremki.eu": {
             "included_at_epoch": 1586653091.0,
             "included_at_iso": "2020-04-12T00:58:11",
-            "last_retested_at_epoch": 1588114447.215472,
-            "last_retested_at_iso": "2020-04-28T22:54:07.215472",
+            "last_retested_at_epoch": 1588246288.585848,
+            "last_retested_at_iso": "2020-04-30T11:31:28.585848",
             "status": "INACTIVE"
         },
         "familyclean.pl": {
             "included_at_epoch": 1587940187.546891,
             "included_at_iso": "2020-04-26T22:29:47.546891",
-            "last_retested_at_epoch": 1588114449.410444,
-            "last_retested_at_iso": "2020-04-28T22:54:09.410444",
+            "last_retested_at_epoch": 1588246290.927283,
+            "last_retested_at_iso": "2020-04-30T11:31:30.927283",
             "status": "INACTIVE"
         },
         "fenoria.pl": {
@@ -3645,8 +3652,8 @@
         "gatuzo.eu": {
             "included_at_epoch": 1587949405.579647,
             "included_at_iso": "2020-04-27T01:03:25.579647",
-            "last_retested_at_epoch": 1588126726.88326,
-            "last_retested_at_iso": "2020-04-29T02:18:46.883260",
+            "last_retested_at_epoch": 1588246295.525636,
+            "last_retested_at_iso": "2020-04-30T11:31:35.525636",
             "status": "INACTIVE"
         }
     }
