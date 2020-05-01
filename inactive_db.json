@@ -3645,8 +3645,8 @@
         "finansedladziecka.pl": {
             "included_at_epoch": 1587989177.308814,
             "included_at_iso": "2020-04-27T12:06:17.308814",
-            "last_retested_at_epoch": 1588163191.780106,
-            "last_retested_at_iso": "2020-04-29T12:26:31.780106",
+            "last_retested_at_epoch": 1588347704.099383,
+            "last_retested_at_iso": "2020-05-01T15:41:44.099383",
             "status": "INACTIVE"
         },
         "gatuzo.eu": {
@@ -3654,6 +3654,41 @@
             "included_at_iso": "2020-04-27T01:03:25.579647",
             "last_retested_at_epoch": 1588246295.525636,
             "last_retested_at_iso": "2020-04-30T11:31:35.525636",
+            "status": "INACTIVE"
+        },
+        "interkorp.pl": {
+            "included_at_epoch": 1588347710.292249,
+            "included_at_iso": "2020-05-01T15:41:50.292249",
+            "last_retested_at_epoch": 1588347710.292249,
+            "last_retested_at_iso": "2020-05-01T15:41:50.292249",
+            "status": "INACTIVE"
+        },
+        "korphan.pl": {
+            "included_at_epoch": 1588347715.656594,
+            "included_at_iso": "2020-05-01T15:41:55.656594",
+            "last_retested_at_epoch": 1588347715.656594,
+            "last_retested_at_iso": "2020-05-01T15:41:55.656594",
+            "status": "INACTIVE"
+        },
+        "mediaexpres.in.net": {
+            "included_at_epoch": 1588347723.115399,
+            "included_at_iso": "2020-05-01T15:42:03.115399",
+            "last_retested_at_epoch": 1588347723.115399,
+            "last_retested_at_iso": "2020-05-01T15:42:03.115399",
+            "status": "INACTIVE"
+        },
+        "megamieszkania.pl": {
+            "included_at_epoch": 1588347723.295718,
+            "included_at_iso": "2020-05-01T15:42:03.295718",
+            "last_retested_at_epoch": 1588347723.295718,
+            "last_retested_at_iso": "2020-05-01T15:42:03.295718",
+            "status": "INACTIVE"
+        },
+        "music.jbl-solo.com": {
+            "included_at_epoch": 1588347726.321393,
+            "included_at_iso": "2020-05-01T15:42:06.321393",
+            "last_retested_at_epoch": 1588347726.321393,
+            "last_retested_at_iso": "2020-05-01T15:42:06.321393",
             "status": "INACTIVE"
         }
     }
