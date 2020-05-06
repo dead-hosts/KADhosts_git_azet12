@@ -15869,6 +15869,11 @@
         "expiration_date": "16-aug-2020",
         "state": "future"
     },
+    "noatanice.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "noblindevelopment.pl": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
@@ -16672,7 +16677,7 @@
     "oplacalnapolisa.com.pl": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "oplackuriera.com": {
         "epoch": 1618531200.0,
@@ -17305,8 +17310,8 @@
         "state": "future"
     },
     "perch.pl": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1591228800.0,
+        "expiration_date": "04-jun-2020",
         "state": "future"
     },
     "perfect-coll.pl": {
@@ -20510,13 +20515,13 @@
         "state": "future"
     },
     "seans24.com.pl": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "seanse24.pl": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "seansikowo.pl": {
@@ -21015,8 +21020,8 @@
         "state": "future"
     },
     "skarbypilicy.pl": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1591228800.0,
+        "expiration_date": "04-jun-2020",
         "state": "future"
     },
     "skbm.pl": {
@@ -21382,6 +21387,11 @@
     "smsy24.pl": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "snapka.com.pl": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "sne.bydgoszcz.pl": {
@@ -21772,7 +21782,7 @@
     "sportsklep.com.pl": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sportwr1.pl": {
         "epoch": 1601164800.0,
