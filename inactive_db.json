@@ -4121,8 +4121,8 @@
         "interkorp.pl": {
             "included_at_epoch": 1588347710.292249,
             "included_at_iso": "2020-05-01T15:41:50.292249",
-            "last_retested_at_epoch": 1588741539.159601,
-            "last_retested_at_iso": "2020-05-06T05:05:39.159601",
+            "last_retested_at_epoch": 1588914091.275711,
+            "last_retested_at_iso": "2020-05-08T05:01:31.275711",
             "status": "INACTIVE"
         },
         "iporwania.eu": {
@@ -4177,8 +4177,8 @@
         "korphan.pl": {
             "included_at_epoch": 1588347715.656594,
             "included_at_iso": "2020-05-01T15:41:55.656594",
-            "last_retested_at_epoch": 1588741546.208499,
-            "last_retested_at_iso": "2020-05-06T05:05:46.208499",
+            "last_retested_at_epoch": 1588914098.508518,
+            "last_retested_at_iso": "2020-05-08T05:01:38.508518",
             "status": "INACTIVE"
         },
         "kur24pl.eu": {
@@ -4247,15 +4247,15 @@
         "mediaexpres.in.net": {
             "included_at_epoch": 1588347723.115399,
             "included_at_iso": "2020-05-01T15:42:03.115399",
-            "last_retested_at_epoch": 1588741555.706896,
-            "last_retested_at_iso": "2020-05-06T05:05:55.706896",
+            "last_retested_at_epoch": 1588914108.338131,
+            "last_retested_at_iso": "2020-05-08T05:01:48.338131",
             "status": "INACTIVE"
         },
         "megamieszkania.pl": {
             "included_at_epoch": 1588347723.295718,
             "included_at_iso": "2020-05-01T15:42:03.295718",
-            "last_retested_at_epoch": 1588741555.949296,
-            "last_retested_at_iso": "2020-05-06T05:05:55.949296",
+            "last_retested_at_epoch": 1588914108.595769,
+            "last_retested_at_iso": "2020-05-08T05:01:48.595769",
             "status": "INACTIVE"
         },
         "miastoinfo.hekko24.pl": {
@@ -4373,15 +4373,15 @@
         "oneinvest.pl": {
             "included_at_epoch": 1588351534.185668,
             "included_at_iso": "2020-05-01T16:45:34.185668",
-            "last_retested_at_epoch": 1588742285.500725,
-            "last_retested_at_iso": "2020-05-06T05:18:05.500725",
+            "last_retested_at_epoch": 1588914120.011739,
+            "last_retested_at_iso": "2020-05-08T05:02:00.011739",
             "status": "INACTIVE"
         },
         "onlinefachowiec.pl": {
             "included_at_epoch": 1588351534.232175,
             "included_at_iso": "2020-05-01T16:45:34.232175",
-            "last_retested_at_epoch": 1588742285.624831,
-            "last_retested_at_iso": "2020-05-06T05:18:05.624831",
+            "last_retested_at_epoch": 1588914120.136802,
+            "last_retested_at_iso": "2020-05-08T05:02:00.136802",
             "status": "INACTIVE"
         },
         "oplac-zaleglosc.eu": {
@@ -4410,6 +4410,13 @@
             "included_at_iso": "2020-05-02T04:34:13.055312",
             "last_retested_at_epoch": 1588760715.226731,
             "last_retested_at_iso": "2020-05-06T10:25:15.226731",
+            "status": "INACTIVE"
+        },
+        "paweltyniec.pl": {
+            "included_at_epoch": 1588914123.180499,
+            "included_at_iso": "2020-05-08T05:02:03.180499",
+            "last_retested_at_epoch": 1588914123.180499,
+            "last_retested_at_iso": "2020-05-08T05:02:03.180499",
             "status": "INACTIVE"
         },
         "pay.poczta-polska24.com": {
