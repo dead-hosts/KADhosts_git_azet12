@@ -9004,6 +9004,11 @@
         "expiration_date": "24-apr-2021",
         "state": "future"
     },
+    "gazetamazowska.pl": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
+    },
     "gazetanowoczesna.pl": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
@@ -9012,6 +9017,11 @@
     "gazetkawarszawa.pl": {
         "epoch": 1619827200.0,
         "expiration_date": "01-may-2021",
+        "state": "future"
+    },
+    "gazetowo.pl": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "gazo-progress.com.pl": {
@@ -10464,6 +10474,11 @@
         "expiration_date": "13-may-2019",
         "state": "future"
     },
+    "i-dpd.pl": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
+    },
     "i-films.pl": {
         "epoch": 1610582400.0,
         "expiration_date": "14-jan-2021",
@@ -10567,6 +10582,11 @@
     "idgarin.com": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "idpd.pl": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "ifaktyzaginiecie24.pl": {
@@ -11472,6 +11492,11 @@
     "johnsmithsmethod.com": {
         "epoch": "1578528000",
         "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "jonakurier.org": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "jont.pl": {
@@ -15734,6 +15759,11 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "nextlevelprize.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
     "nfbio.com": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -16177,7 +16207,7 @@
     "o2-fakty.pro": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "oazaborek.pl": {
         "epoch": 1603843200.0,
