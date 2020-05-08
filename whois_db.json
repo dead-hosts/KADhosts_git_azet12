@@ -2637,7 +2637,7 @@
     "biomoutletsale.pl": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "bionateko.pl": {
         "epoch": 1605657600.0,
@@ -3117,7 +3117,7 @@
     "brumflix.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "brzozowyzagajnik.pl": {
         "epoch": 1595635200.0,
@@ -4680,8 +4680,8 @@
         "state": "future"
     },
     "crocsdamskie.pl": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "crocsoutletpolska.pl": {
@@ -5979,6 +5979,11 @@
         "expiration_date": "28-apr-2021",
         "state": "future"
     },
+    "drukopol.net": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
     "drukujemydlawas.pl": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
@@ -6762,7 +6767,7 @@
     "elementium-shop.pl": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "elepta.pl": {
         "epoch": 1586563200.0,
@@ -7090,8 +7095,8 @@
         "state": "future"
     },
     "esamochod.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "escapekatowice.pl": {
