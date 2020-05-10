@@ -1154,6 +1154,11 @@
         "expiration_date": "23-mar-2021",
         "state": "future"
     },
+    "allegro-blokada.pl": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
     "allegro.media.pl": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
@@ -18282,7 +18287,7 @@
     "pliki.pw": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "plikobox.pl": {
         "epoch": "1551225600",
@@ -26067,6 +26072,11 @@
     "worthlessness.xyz": {
         "epoch": 1616544000.0,
         "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
+    "wosemd.site": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "wosp.online": {
