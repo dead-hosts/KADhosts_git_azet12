@@ -2084,6 +2084,11 @@
         "expiration_date": "24-may-2021",
         "state": "future"
     },
+    "awes-flasher.info": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
     "awin.com": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
@@ -2327,6 +2332,11 @@
     "be-wild.pl": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "beasybd.com": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "beatabajka.pl": {
@@ -8227,7 +8237,7 @@
     "file-share365.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "filebay.org": {
         "epoch": 1619568000.0,
@@ -9010,8 +9020,8 @@
         "state": "future"
     },
     "freehackpl.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "freeminecraft.cc": {
