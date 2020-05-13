@@ -3484,8 +3484,8 @@
         "aerosneakers.pl": {
             "included_at_epoch": 1589192118.31776,
             "included_at_iso": "2020-05-11T10:15:18.317760",
-            "last_retested_at_epoch": 1589192118.31776,
-            "last_retested_at_iso": "2020-05-11T10:15:18.317760",
+            "last_retested_at_epoch": 1589346017.631288,
+            "last_retested_at_iso": "2020-05-13T05:00:17.631288",
             "status": "INACTIVE"
         },
         "alanor.pl": {
@@ -3498,8 +3498,8 @@
         "aldashoes.eu": {
             "included_at_epoch": 1587180864.0,
             "included_at_iso": "2020-04-18T03:34:24",
-            "last_retested_at_epoch": 1589194528.030857,
-            "last_retested_at_iso": "2020-05-11T10:55:28.030857",
+            "last_retested_at_epoch": 1589346019.480344,
+            "last_retested_at_iso": "2020-05-13T05:00:19.480344",
             "status": "INACTIVE"
         },
         "aldashoes.pl": {
@@ -3673,8 +3673,8 @@
         "butyreebokpl.eu": {
             "included_at_epoch": 1587194100.0,
             "included_at_iso": "2020-04-18T07:15:00",
-            "last_retested_at_epoch": 1589194528.004556,
-            "last_retested_at_iso": "2020-05-11T10:55:28.004556",
+            "last_retested_at_epoch": 1589346031.607322,
+            "last_retested_at_iso": "2020-05-13T05:00:31.607322",
             "status": "INACTIVE"
         },
         "calodobowe-wiadomosci-pl.eu": {
@@ -3745,6 +3745,13 @@
             "included_at_iso": "2020-05-02T00:48:16.156495",
             "last_retested_at_epoch": 1589218058.627158,
             "last_retested_at_iso": "2020-05-11T17:27:38.627158",
+            "status": "INACTIVE"
+        },
+        "dietovo.pl": {
+            "included_at_epoch": 1589346040.549745,
+            "included_at_iso": "2020-05-13T05:00:40.549745",
+            "last_retested_at_epoch": 1589346040.549745,
+            "last_retested_at_iso": "2020-05-13T05:00:40.549745",
             "status": "INACTIVE"
         },
         "dotpay.bok-poczta.pl": {
@@ -3929,13 +3936,6 @@
             "last_retested_at_iso": "2020-05-11T17:27:38.797958",
             "status": "INACTIVE"
         },
-        "elepta.pl": {
-            "included_at_epoch": 1586887641.0,
-            "included_at_iso": "2020-04-14T18:07:21",
-            "last_retested_at_epoch": 1589222303.722436,
-            "last_retested_at_iso": "2020-05-11T18:38:23.722436",
-            "status": "INACTIVE"
-        },
         "emonitoring-poczta-polska.eu": {
             "included_at_epoch": 1588930147.519844,
             "included_at_iso": "2020-05-08T09:29:07.519844",
@@ -3995,15 +3995,15 @@
         "familyclean.pl": {
             "included_at_epoch": 1587940187.546891,
             "included_at_iso": "2020-04-26T22:29:47.546891",
-            "last_retested_at_epoch": 1589194528.082457,
-            "last_retested_at_iso": "2020-05-11T10:55:28.082457",
+            "last_retested_at_epoch": 1589346049.262421,
+            "last_retested_at_iso": "2020-05-13T05:00:49.262421",
             "status": "INACTIVE"
         },
         "fikus-lodz.pl": {
             "included_at_epoch": 1588544223.313235,
             "included_at_iso": "2020-05-03T22:17:03.313235",
-            "last_retested_at_epoch": 1589194528.056882,
-            "last_retested_at_iso": "2020-05-11T10:55:28.056882",
+            "last_retested_at_epoch": 1589346050.07654,
+            "last_retested_at_iso": "2020-05-13T05:00:50.076540",
             "status": "INACTIVE"
         },
         "financial-times-appp.github.io": {
@@ -4016,8 +4016,8 @@
         "finansedladziecka.pl": {
             "included_at_epoch": 1587989177.308814,
             "included_at_iso": "2020-04-27T12:06:17.308814",
-            "last_retested_at_epoch": 1589194528.155356,
-            "last_retested_at_iso": "2020-05-11T10:55:28.155356",
+            "last_retested_at_epoch": 1589346050.798263,
+            "last_retested_at_iso": "2020-05-13T05:00:50.798263",
             "status": "INACTIVE"
         },
         "fotki-kliknij.eu": {
