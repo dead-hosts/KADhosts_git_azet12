@@ -1189,6 +1189,11 @@
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
+    "allegro.su": {
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
+    },
     "allegro.targi.pl": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -4447,7 +4452,7 @@
     "clube62.date": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "clubedoestudante.net.br": {
         "epoch": 1593907200.0,
@@ -8550,9 +8555,9 @@
         "state": "future"
     },
     "filmowo.co": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "filmowo.com.pl": {
         "epoch": 1578268800.0,
@@ -27755,8 +27760,8 @@
         "state": "future"
     },
     "zarobek4u.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "zarobekok.pl": {
@@ -28075,8 +28080,8 @@
         "state": "future"
     },
     "znajdzprzetargi.pl": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "znany-lekarz.pl": {
