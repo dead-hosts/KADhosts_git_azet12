@@ -4121,15 +4121,15 @@
         "globalcontact.pl": {
             "included_at_epoch": 1589108314.201831,
             "included_at_iso": "2020-05-10T10:58:34.201831",
-            "last_retested_at_epoch": 1589346778.018124,
-            "last_retested_at_iso": "2020-05-13T05:12:58.018124",
+            "last_retested_at_epoch": 1589692245.143433,
+            "last_retested_at_iso": "2020-05-17T05:10:45.143433",
             "status": "INACTIVE"
         },
         "go-camps.pl": {
             "included_at_epoch": 1589108315.637029,
             "included_at_iso": "2020-05-10T10:58:35.637029",
-            "last_retested_at_epoch": 1589346779.5347,
-            "last_retested_at_iso": "2020-05-13T05:12:59.534700",
+            "last_retested_at_epoch": 1589692246.574513,
+            "last_retested_at_iso": "2020-05-17T05:10:46.574513",
             "status": "INACTIVE"
         },
         "go.bestmobiworld.com": {
@@ -4212,8 +4212,8 @@
         "interkorp.pl": {
             "included_at_epoch": 1588347710.292249,
             "included_at_iso": "2020-05-01T15:41:50.292249",
-            "last_retested_at_epoch": 1589346786.213917,
-            "last_retested_at_iso": "2020-05-13T05:13:06.213917",
+            "last_retested_at_epoch": 1589692252.883165,
+            "last_retested_at_iso": "2020-05-17T05:10:52.883165",
             "status": "INACTIVE"
         },
         "iporwania.eu": {
@@ -4247,8 +4247,8 @@
         "itvwro.pl": {
             "included_at_epoch": 1589108322.127257,
             "included_at_iso": "2020-05-10T10:58:42.127257",
-            "last_retested_at_epoch": 1589346786.889385,
-            "last_retested_at_iso": "2020-05-13T05:13:06.889385",
+            "last_retested_at_epoch": 1589692253.511438,
+            "last_retested_at_iso": "2020-05-17T05:10:53.511438",
             "status": "INACTIVE"
         },
         "januszp.stronazen.pl": {
@@ -4256,6 +4256,13 @@
             "included_at_iso": "2020-05-13T08:02:31.011728",
             "last_retested_at_epoch": 1589356951.011728,
             "last_retested_at_iso": "2020-05-13T08:02:31.011728",
+            "status": "INACTIVE"
+        },
+        "jont.pl": {
+            "included_at_epoch": 1589692255.433087,
+            "included_at_iso": "2020-05-17T05:10:55.433087",
+            "last_retested_at_epoch": 1589692255.433087,
+            "last_retested_at_iso": "2020-05-17T05:10:55.433087",
             "status": "INACTIVE"
         },
         "kazdyszukattv.098.pl": {
@@ -4268,8 +4275,15 @@
         "kickz4u.pl": {
             "included_at_epoch": 1588979074.769712,
             "included_at_iso": "2020-05-08T23:04:34.769712",
-            "last_retested_at_epoch": 1589346791.534027,
-            "last_retested_at_iso": "2020-05-13T05:13:11.534027",
+            "last_retested_at_epoch": 1589692257.889167,
+            "last_retested_at_iso": "2020-05-17T05:10:57.889167",
+            "status": "INACTIVE"
+        },
+        "kiteowisko.pl": {
+            "included_at_epoch": 1589692258.519821,
+            "included_at_iso": "2020-05-17T05:10:58.519821",
+            "last_retested_at_epoch": 1589692258.519821,
+            "last_retested_at_iso": "2020-05-17T05:10:58.519821",
             "status": "INACTIVE"
         },
         "kolorowy-f-b.blogspot.com": {
@@ -4282,8 +4296,8 @@
         "kompiutery.pl": {
             "included_at_epoch": 1589108328.215662,
             "included_at_iso": "2020-05-10T10:58:48.215662",
-            "last_retested_at_epoch": 1589346793.578647,
-            "last_retested_at_iso": "2020-05-13T05:13:13.578647",
+            "last_retested_at_epoch": 1589692259.801391,
+            "last_retested_at_iso": "2020-05-17T05:10:59.801391",
             "status": "INACTIVE"
         },
         "koronainfo24.eu": {
@@ -4310,8 +4324,8 @@
         "korphan.pl": {
             "included_at_epoch": 1588347715.656594,
             "included_at_iso": "2020-05-01T15:41:55.656594",
-            "last_retested_at_epoch": 1589346794.085528,
-            "last_retested_at_iso": "2020-05-13T05:13:14.085528",
+            "last_retested_at_epoch": 1589692260.295363,
+            "last_retested_at_iso": "2020-05-17T05:11:00.295363",
             "status": "INACTIVE"
         },
         "kur24pl.eu": {
@@ -4415,15 +4429,22 @@
         "mediaexpres.in.net": {
             "included_at_epoch": 1588347723.115399,
             "included_at_iso": "2020-05-01T15:42:03.115399",
-            "last_retested_at_epoch": 1589346804.968468,
-            "last_retested_at_iso": "2020-05-13T05:13:24.968468",
+            "last_retested_at_epoch": 1589692270.501136,
+            "last_retested_at_iso": "2020-05-17T05:11:10.501136",
             "status": "INACTIVE"
         },
         "megamieszkania.pl": {
             "included_at_epoch": 1588347723.295718,
             "included_at_iso": "2020-05-01T15:42:03.295718",
-            "last_retested_at_epoch": 1589346805.238798,
-            "last_retested_at_iso": "2020-05-13T05:13:25.238798",
+            "last_retested_at_epoch": 1589692270.763,
+            "last_retested_at_iso": "2020-05-17T05:11:10.763000",
+            "status": "INACTIVE"
+        },
+        "mgokswiatniki.pl": {
+            "included_at_epoch": 1589692271.297899,
+            "included_at_iso": "2020-05-17T05:11:11.297899",
+            "last_retested_at_epoch": 1589692271.297899,
+            "last_retested_at_iso": "2020-05-17T05:11:11.297899",
             "status": "INACTIVE"
         },
         "miastoinfo.hekko24.pl": {
@@ -4466,6 +4487,20 @@
             "included_at_iso": "2020-05-02T04:09:54.962768",
             "last_retested_at_epoch": 1589363777.388588,
             "last_retested_at_iso": "2020-05-13T09:56:17.388588",
+            "status": "INACTIVE"
+        },
+        "mojalenka.pl": {
+            "included_at_epoch": 1589692273.225595,
+            "included_at_iso": "2020-05-17T05:11:13.225595",
+            "last_retested_at_epoch": 1589692273.225595,
+            "last_retested_at_iso": "2020-05-17T05:11:13.225595",
+            "status": "INACTIVE"
+        },
+        "morena.in.net": {
+            "included_at_epoch": 1589692273.768479,
+            "included_at_iso": "2020-05-17T05:11:13.768479",
+            "last_retested_at_epoch": 1589692273.768479,
+            "last_retested_at_iso": "2020-05-17T05:11:13.768479",
             "status": "INACTIVE"
         },
         "music.jbl-solo.com": {
@@ -4527,8 +4562,8 @@
         "nikeairmoreuptempo.pl": {
             "included_at_epoch": 1589108346.083523,
             "included_at_iso": "2020-05-10T10:59:06.083523",
-            "last_retested_at_epoch": 1589346813.323106,
-            "last_retested_at_iso": "2020-05-13T05:13:33.323106",
+            "last_retested_at_epoch": 1589692278.334327,
+            "last_retested_at_iso": "2020-05-17T05:11:18.334327",
             "status": "INACTIVE"
         },
         "nowiny24.h2g.pl": {
@@ -4541,8 +4576,8 @@
         "ochotnica-noclegi.pl": {
             "included_at_epoch": 1589108348.675764,
             "included_at_iso": "2020-05-10T10:59:08.675764",
-            "last_retested_at_epoch": 1589346816.123087,
-            "last_retested_at_iso": "2020-05-13T05:13:36.123087",
+            "last_retested_at_epoch": 1589692281.049855,
+            "last_retested_at_iso": "2020-05-17T05:11:21.049855",
             "status": "INACTIVE"
         },
         "ogarnij-zdjecia.eu": {
@@ -4566,6 +4601,13 @@
             "last_retested_at_iso": "2020-05-13T10:08:17.101227",
             "status": "INACTIVE"
         },
+        "olszowskidesign.pl": {
+            "included_at_epoch": 1589692282.278471,
+            "included_at_iso": "2020-05-17T05:11:22.278471",
+            "last_retested_at_epoch": 1589692282.278471,
+            "last_retested_at_iso": "2020-05-17T05:11:22.278471",
+            "status": "INACTIVE"
+        },
         "olx-polska.h2g.pl": {
             "included_at_epoch": 1588924707.078586,
             "included_at_iso": "2020-05-08T07:58:27.078586",
@@ -4576,15 +4618,15 @@
         "oneinvest.pl": {
             "included_at_epoch": 1588351534.185668,
             "included_at_iso": "2020-05-01T16:45:34.185668",
-            "last_retested_at_epoch": 1589346817.680835,
-            "last_retested_at_iso": "2020-05-13T05:13:37.680835",
+            "last_retested_at_epoch": 1589692282.496956,
+            "last_retested_at_iso": "2020-05-17T05:11:22.496956",
             "status": "INACTIVE"
         },
         "onlinefachowiec.pl": {
             "included_at_epoch": 1588351534.232175,
             "included_at_iso": "2020-05-01T16:45:34.232175",
-            "last_retested_at_epoch": 1589346817.804319,
-            "last_retested_at_iso": "2020-05-13T05:13:37.804319",
+            "last_retested_at_epoch": 1589692282.568952,
+            "last_retested_at_iso": "2020-05-17T05:11:22.568952",
             "status": "INACTIVE"
         },
         "oplac-zaleglosc.eu": {
@@ -4625,8 +4667,8 @@
         "paweltyniec.pl": {
             "included_at_epoch": 1588914123.180499,
             "included_at_iso": "2020-05-08T05:02:03.180499",
-            "last_retested_at_epoch": 1589347528.126184,
-            "last_retested_at_iso": "2020-05-13T05:25:28.126184",
+            "last_retested_at_epoch": 1589692285.591057,
+            "last_retested_at_iso": "2020-05-17T05:11:25.591057",
             "status": "INACTIVE"
         },
         "pay.poczta-polska24.com": {
