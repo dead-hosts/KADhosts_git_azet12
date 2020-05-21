@@ -21404,6 +21404,11 @@
         "expiration_date": "29-mar-2021",
         "state": "future"
     },
+    "regulamin-poczty.net": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "state": "future"
+    },
     "regulamin-wirtualnapolska.com": {
         "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
@@ -23382,7 +23387,7 @@
     "spillerfanside.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "spirotiger.pl": {
         "epoch": 1606003200.0,
@@ -24087,6 +24092,11 @@
     "suprabuty.pl": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "sureyouwillloveit.com": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "suuntosklep.online": {
@@ -25590,9 +25600,9 @@
         "state": "future"
     },
     "tvjovem.net": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
-        "state": "past"
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "state": "future"
     },
     "tvkody.com": {
         "epoch": 1611360000.0,
@@ -25692,6 +25702,11 @@
     "twojalaweta.com.pl": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
+    "twojanatura.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "twojapaczka-24.com": {
@@ -26684,6 +26699,11 @@
         "expiration_date": "20-mar-2021",
         "state": "future"
     },
+    "warszawa-fakt.pl": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
+    },
     "warszawa-gov.pl": {
         "epoch": 1621123200.0,
         "expiration_date": "16-may-2021",
@@ -26874,6 +26894,11 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "whiskytawn.xyz": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
     "whoisyourd15.live": {
         "epoch": "1584662400",
         "expiration_date": "20-mar-2020",
@@ -27017,7 +27042,7 @@
     "wincleanerpro.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "windgrojec.pl": {
         "epoch": 1591315200.0,
