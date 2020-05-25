@@ -4139,13 +4139,6 @@
             "last_retested_at_iso": "2020-05-24T05:38:46.028356",
             "status": "INACTIVE"
         },
-        "finansedladziecka.pl": {
-            "included_at_epoch": 1587989177.308814,
-            "included_at_iso": "2020-04-27T12:06:17.308814",
-            "last_retested_at_epoch": 1590358777.473907,
-            "last_retested_at_iso": "2020-05-24T22:19:37.473907",
-            "status": "INACTIVE"
-        },
         "fotki-kliknij.eu": {
             "included_at_epoch": 1588382249.888065,
             "included_at_iso": "2020-05-02T01:17:29.888065",
@@ -7380,6 +7373,13 @@
             "last_retested_at_iso": "2020-05-24T08:13:28.390922",
             "status": "INACTIVE"
         },
+        "www.dechzapiera.pl": {
+            "included_at_epoch": 1590410172.641574,
+            "included_at_iso": "2020-05-25T12:36:12.641574",
+            "last_retested_at_epoch": 1590410172.641574,
+            "last_retested_at_iso": "2020-05-25T12:36:12.641574",
+            "status": "INACTIVE"
+        },
         "www.decynsire.com": {
             "included_at_epoch": 1589115115.66836,
             "included_at_iso": "2020-05-10T12:51:55.668360",
@@ -7889,6 +7889,13 @@
             "included_at_iso": "2020-05-02T04:52:51.248865",
             "last_retested_at_epoch": 1590306816.033889,
             "last_retested_at_iso": "2020-05-24T07:53:36.033889",
+            "status": "INACTIVE"
+        },
+        "www.dziadekdogramofonu.pl": {
+            "included_at_epoch": 1590410172.862174,
+            "included_at_iso": "2020-05-25T12:36:12.862174",
+            "last_retested_at_epoch": 1590410172.862174,
+            "last_retested_at_iso": "2020-05-25T12:36:12.862174",
             "status": "INACTIVE"
         },
         "www.dziennikpolski.hekko24.pl": {
