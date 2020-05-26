@@ -6498,6 +6498,13 @@
             "last_retested_at_iso": "2020-05-26T00:41:51.030035",
             "status": "INACTIVE"
         },
+        "www.atom-klan.pl": {
+            "included_at_epoch": 1590465814.646649,
+            "included_at_iso": "2020-05-26T04:03:34.646649",
+            "last_retested_at_epoch": 1590465814.646649,
+            "last_retested_at_iso": "2020-05-26T04:03:34.646649",
+            "status": "INACTIVE"
+        },
         "www.autelekom.pl": {
             "included_at_epoch": 1589866785.305403,
             "included_at_iso": "2020-05-19T05:39:45.305403",
@@ -9177,6 +9184,13 @@
             "included_at_iso": "2020-05-02T03:46:06.071210",
             "last_retested_at_epoch": 1590431877.870385,
             "last_retested_at_iso": "2020-05-25T18:37:57.870385",
+            "status": "INACTIVE"
+        },
+        "www.finezja-restauracja.pl": {
+            "included_at_epoch": 1590465814.991888,
+            "included_at_iso": "2020-05-26T04:03:34.991888",
+            "last_retested_at_epoch": 1590465814.991888,
+            "last_retested_at_iso": "2020-05-26T04:03:34.991888",
             "status": "INACTIVE"
         },
         "www.finezo.pl": {
@@ -16420,8 +16434,8 @@
         "www.xamak10.com": {
             "included_at_epoch": 1590163712.692578,
             "included_at_iso": "2020-05-22T16:08:32.692578",
-            "last_retested_at_epoch": 1590377470.674742,
-            "last_retested_at_iso": "2020-05-25T03:31:10.674742",
+            "last_retested_at_epoch": 1590465813.992411,
+            "last_retested_at_iso": "2020-05-26T04:03:33.992411",
             "status": "INACTIVE"
         },
         "www.xinlou.info": {
@@ -16599,6 +16613,20 @@
             "last_retested_at_iso": "2020-05-25T15:27:53.285801",
             "status": "INACTIVE"
         },
+        "www.zabawlandia.pl": {
+            "included_at_epoch": 1590465814.070525,
+            "included_at_iso": "2020-05-26T04:03:34.070525",
+            "last_retested_at_epoch": 1590465814.070525,
+            "last_retested_at_iso": "2020-05-26T04:03:34.070525",
+            "status": "INACTIVE"
+        },
+        "www.zabieganapara.pl": {
+            "included_at_epoch": 1590465814.114487,
+            "included_at_iso": "2020-05-26T04:03:34.114487",
+            "last_retested_at_epoch": 1590465814.114487,
+            "last_retested_at_iso": "2020-05-26T04:03:34.114487",
+            "status": "INACTIVE"
+        },
         "www.zaginienifaktty.098.pl": {
             "included_at_epoch": 1588932315.79347,
             "included_at_iso": "2020-05-08T10:05:15.793470",
@@ -16623,15 +16651,15 @@
         "www.zajazdwika.pl": {
             "included_at_epoch": 1588921425.685147,
             "included_at_iso": "2020-05-08T07:03:45.685147",
-            "last_retested_at_epoch": 1590377470.776399,
-            "last_retested_at_iso": "2020-05-25T03:31:10.776399",
+            "last_retested_at_epoch": 1590465814.157859,
+            "last_retested_at_iso": "2020-05-26T04:03:34.157859",
             "status": "INACTIVE"
         },
         "www.zaksiazke.pl": {
             "included_at_epoch": 1590377470.81696,
             "included_at_iso": "2020-05-25T03:31:10.816960",
-            "last_retested_at_epoch": 1590377470.81696,
-            "last_retested_at_iso": "2020-05-25T03:31:10.816960",
+            "last_retested_at_epoch": 1590465814.20203,
+            "last_retested_at_iso": "2020-05-26T04:03:34.202030",
             "status": "INACTIVE"
         },
         "www.zaluknij.pl": {
@@ -16672,8 +16700,8 @@
         "www.zazynek.pl": {
             "included_at_epoch": 1589354760.896149,
             "included_at_iso": "2020-05-13T07:26:00.896149",
-            "last_retested_at_epoch": 1590377470.894571,
-            "last_retested_at_iso": "2020-05-25T03:31:10.894571",
+            "last_retested_at_epoch": 1590465814.277303,
+            "last_retested_at_iso": "2020-05-26T04:03:34.277303",
             "status": "INACTIVE"
         },
         "www.zbudujmy-pustelnie.pl": {
