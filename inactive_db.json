@@ -6172,8 +6172,8 @@
         "www.akri.pl": {
             "included_at_epoch": 1590408731.83367,
             "included_at_iso": "2020-05-25T12:12:11.833670",
-            "last_retested_at_epoch": 1590408731.83367,
-            "last_retested_at_iso": "2020-05-25T12:12:11.833670",
+            "last_retested_at_epoch": 1590496843.371752,
+            "last_retested_at_iso": "2020-05-26T12:40:43.371752",
             "status": "INACTIVE"
         },
         "www.aktywnytylicz.pl": {
@@ -7357,6 +7357,13 @@
             "included_at_iso": "2020-05-21T05:50:39.262865",
             "last_retested_at_epoch": 1590473078.203382,
             "last_retested_at_iso": "2020-05-26T06:04:38.203382",
+            "status": "INACTIVE"
+        },
+        "www.cyxiangjishoptk.gq": {
+            "included_at_epoch": 1590496843.604957,
+            "included_at_iso": "2020-05-26T12:40:43.604957",
+            "last_retested_at_epoch": 1590496843.604957,
+            "last_retested_at_iso": "2020-05-26T12:40:43.604957",
             "status": "INACTIVE"
         },
         "www.czesci-daewoo.pl": {
