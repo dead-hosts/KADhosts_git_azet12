@@ -3516,11 +3516,18 @@
             "last_retested_at_iso": "2020-05-26T06:04:38.568771",
             "status": "INACTIVE"
         },
+        "al-atelier.pl": {
+            "included_at_epoch": 1590641926.110233,
+            "included_at_iso": "2020-05-28T04:58:46.110233",
+            "last_retested_at_epoch": 1590641926.110233,
+            "last_retested_at_iso": "2020-05-28T04:58:46.110233",
+            "status": "INACTIVE"
+        },
         "aldashoes.eu": {
             "included_at_epoch": 1589691499.105944,
             "included_at_iso": "2020-05-17T04:58:19.105944",
-            "last_retested_at_epoch": 1590445828.871602,
-            "last_retested_at_iso": "2020-05-25T22:30:28.871602",
+            "last_retested_at_epoch": 1590641924.995375,
+            "last_retested_at_iso": "2020-05-28T04:58:44.995375",
             "status": "INACTIVE"
         },
         "allegro.ogloszenie.best": {
@@ -3600,6 +3607,13 @@
             "last_retested_at_iso": "2020-05-25T20:05:34.497291",
             "status": "INACTIVE"
         },
+        "beckerfarby.pl": {
+            "included_at_epoch": 1590641931.563967,
+            "included_at_iso": "2020-05-28T04:58:51.563967",
+            "last_retested_at_epoch": 1590641931.563967,
+            "last_retested_at_iso": "2020-05-28T04:58:51.563967",
+            "status": "INACTIVE"
+        },
         "beetlebits.pl": {
             "included_at_epoch": 1588913324.772722,
             "included_at_iso": "2020-05-08T04:48:44.772722",
@@ -3659,8 +3673,8 @@
         "butyreebokpl.eu": {
             "included_at_epoch": 1589691511.800437,
             "included_at_iso": "2020-05-17T04:58:31.800437",
-            "last_retested_at_epoch": 1590445840.654378,
-            "last_retested_at_iso": "2020-05-25T22:30:40.654378",
+            "last_retested_at_epoch": 1590641937.278749,
+            "last_retested_at_iso": "2020-05-28T04:58:57.278749",
             "status": "INACTIVE"
         },
         "butyultraboost.pl": {
@@ -3689,6 +3703,13 @@
             "included_at_iso": "2020-05-02T00:48:13.570095",
             "last_retested_at_epoch": 1590421932.678397,
             "last_retested_at_iso": "2020-05-25T15:52:12.678397",
+            "status": "INACTIVE"
+        },
+        "centrumzklimatem.pl": {
+            "included_at_epoch": 1590641939.287385,
+            "included_at_iso": "2020-05-28T04:58:59.287385",
+            "last_retested_at_epoch": 1590641939.287385,
+            "last_retested_at_iso": "2020-05-28T04:58:59.287385",
             "status": "INACTIVE"
         },
         "chilndreninfo.eu": {
@@ -3880,13 +3901,6 @@
             "last_retested_at_iso": "2020-05-25T15:52:17.587677",
             "status": "INACTIVE"
         },
-        "dstreet-pl": {
-            "included_at_epoch": 1588142691.435847,
-            "included_at_iso": "2020-04-29T06:44:51.435847",
-            "last_retested_at_epoch": 1590437133.024363,
-            "last_retested_at_iso": "2020-05-25T20:05:33.024363",
-            "status": "INVALID"
-        },
         "dworzec-uprowadzenie24.eu": {
             "included_at_epoch": 1589356935.94028,
             "included_at_iso": "2020-05-13T08:02:15.940280",
@@ -4041,6 +4055,13 @@
             "last_retested_at_iso": "2020-05-25T19:14:39.092286",
             "status": "INACTIVE"
         },
+        "eventjazz.pl": {
+            "included_at_epoch": 1590641953.164528,
+            "included_at_iso": "2020-05-28T04:59:13.164528",
+            "last_retested_at_epoch": 1590641953.164528,
+            "last_retested_at_iso": "2020-05-28T04:59:13.164528",
+            "status": "INACTIVE"
+        },
         "expertadvisor.pl": {
             "included_at_epoch": 1590489030.166478,
             "included_at_iso": "2020-05-26T10:30:30.166478",
@@ -4053,6 +4074,13 @@
             "included_at_iso": "2020-05-21T07:39:37.924478",
             "last_retested_at_epoch": 1590421941.370626,
             "last_retested_at_iso": "2020-05-25T15:52:21.370626",
+            "status": "INACTIVE"
+        },
+        "faithless.pl": {
+            "included_at_epoch": 1590641954.358424,
+            "included_at_iso": "2020-05-28T04:59:14.358424",
+            "last_retested_at_epoch": 1590641954.358424,
+            "last_retested_at_iso": "2020-05-28T04:59:14.358424",
             "status": "INACTIVE"
         },
         "faktgwalt24.eu": {
@@ -4144,6 +4172,20 @@
             "included_at_iso": "2020-05-02T01:17:29.329867",
             "last_retested_at_epoch": 1590423565.718032,
             "last_retested_at_iso": "2020-05-25T16:19:25.718032",
+            "status": "INACTIVE"
+        },
+        "find-in.pl": {
+            "included_at_epoch": 1590641956.172234,
+            "included_at_iso": "2020-05-28T04:59:16.172234",
+            "last_retested_at_epoch": 1590641956.172234,
+            "last_retested_at_iso": "2020-05-28T04:59:16.172234",
+            "status": "INACTIVE"
+        },
+        "firma-kalita.pl": {
+            "included_at_epoch": 1590641956.558686,
+            "included_at_iso": "2020-05-28T04:59:16.558686",
+            "last_retested_at_epoch": 1590641956.558686,
+            "last_retested_at_iso": "2020-05-28T04:59:16.558686",
             "status": "INACTIVE"
         },
         "fotki-kliknij.eu": {
