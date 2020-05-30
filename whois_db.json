@@ -9979,9 +9979,19 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "gdansk-fakt24.pl": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
+    },
     "gdb-finance.pl": {
         "epoch": 1569283200,
         "expiration_date": "24-sep-2019",
+        "state": "future"
+    },
+    "gdynia-fakt24.pl": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "gdynia-fakty24.pl": {
@@ -10802,7 +10812,7 @@
     "gryjava.gsm.pl": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "gryking.pl": {
         "epoch": 1610668800.0,
@@ -10887,6 +10897,11 @@
     "gwaltpolska.com.pl": {
         "epoch": 1621296000.0,
         "expiration_date": "18-may-2021",
+        "state": "future"
+    },
+    "gwaltpolska.net.pl": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "gwaltpolska.pl": {
@@ -11470,8 +11485,8 @@
         "state": "future"
     },
     "horafoo.xyz": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "horyzont-chelm.pl": {
@@ -13614,6 +13629,11 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "kn2lm19a23.com": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
+    },
     "knefelkurier.com": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
@@ -14162,6 +14182,11 @@
     "kupzytax.pl": {
         "epoch": "1551830400",
         "expiration_date": "06-mar-2019",
+        "state": "future"
+    },
+    "kuriedh.com": {
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "kurier-dhl.services": {
@@ -17222,6 +17247,11 @@
     "nautili.us": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "navi-esport.com": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "nawigatorczarter.pl": {
