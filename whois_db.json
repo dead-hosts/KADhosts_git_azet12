@@ -26507,7 +26507,7 @@
     "unhallowed.pl": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "unident-union.pl": {
         "epoch": 1596067200.0,
@@ -26642,6 +26642,11 @@
     "usunwirusa.pl": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "uswiadomieni.pl": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "uvy3.pl": {
@@ -27535,8 +27540,8 @@
         "state": "future"
     },
     "wielkaniespodzianka.pl": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "wiesci24.pl": {
@@ -27702,7 +27707,7 @@
     "wkfilms.pl": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "wkladpompy.pl": {
         "epoch": 1600819200.0,
