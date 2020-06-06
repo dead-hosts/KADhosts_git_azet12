@@ -1122,7 +1122,7 @@
     "alejandravalladares.com.ve": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "alert-24-pl.pl": {
         "epoch": 1620000000.0,
@@ -1262,6 +1262,11 @@
     "allegrolokalnie-pl.ru": {
         "epoch": 1621468800.0,
         "expiration_date": "20-may-2021",
+        "state": "future"
+    },
+    "allegrolokalnie.tech": {
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "allegrosklep.online": {
@@ -3435,8 +3440,8 @@
         "state": "future"
     },
     "businesspuls.online": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "bustcream-pro.com": {
@@ -27222,7 +27227,7 @@
     "uroffer.link": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "urwijnagrody.pl": {
         "epoch": 1593561600.0,
