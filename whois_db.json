@@ -430,8 +430,8 @@
         "state": "future"
     },
     "acontrario.pl": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "act-natural-sklep.pl": {
@@ -592,7 +592,7 @@
     "adidasprzeceny.pl": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "adidaspureboost.pl": {
         "epoch": "1557878400",
@@ -1639,6 +1639,11 @@
         "expiration_date": "04-dec-2020",
         "state": "future"
     },
+    "apartamentytoday.pl": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
+    },
     "apartamentywhiszpanii.com.pl": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
@@ -2160,8 +2165,8 @@
         "state": "future"
     },
     "autosalonpomorski.pl": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "autoskup24-wroclaw.pl": {
@@ -2952,7 +2957,7 @@
     "bkwbydgoszcz.pl": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "blacklinepartners.pl": {
         "epoch": 1615939200.0,
@@ -6500,8 +6505,8 @@
         "state": "future"
     },
     "drablutnik.pl": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "dragon-escape.pl": {
