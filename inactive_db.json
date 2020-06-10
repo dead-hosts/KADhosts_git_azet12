@@ -3456,8 +3456,8 @@
         "15x.eu": {
             "included_at_epoch": 1590811468.063571,
             "included_at_iso": "2020-05-30T04:04:28.063571",
-            "last_retested_at_epoch": 1591604271.230947,
-            "last_retested_at_iso": "2020-06-08T08:17:51.230947",
+            "last_retested_at_epoch": 1591777813.172374,
+            "last_retested_at_iso": "2020-06-10T08:30:13.172374",
             "status": "INACTIVE"
         },
         "24gwaltfakt.eu": {
@@ -3470,22 +3470,22 @@
         "24lite.eu": {
             "included_at_epoch": 1590046761.959228,
             "included_at_iso": "2020-05-21T07:39:21.959228",
-            "last_retested_at_epoch": 1591604271.431277,
-            "last_retested_at_iso": "2020-06-08T08:17:51.431277",
+            "last_retested_at_epoch": 1591777813.25725,
+            "last_retested_at_iso": "2020-06-10T08:30:13.257250",
             "status": "INACTIVE"
         },
         "2i4.eu": {
             "included_at_epoch": 1590046761.45143,
             "included_at_iso": "2020-05-21T07:39:21.451430",
-            "last_retested_at_epoch": 1591604270.938142,
-            "last_retested_at_iso": "2020-06-08T08:17:50.938142",
+            "last_retested_at_epoch": 1591777812.734174,
+            "last_retested_at_iso": "2020-06-10T08:30:12.734174",
             "status": "INACTIVE"
         },
         "adestudio.w8w.pl": {
             "included_at_epoch": 1591064970.275296,
             "included_at_iso": "2020-06-02T02:29:30.275296",
-            "last_retested_at_epoch": 1591604272.211807,
-            "last_retested_at_iso": "2020-06-08T08:17:52.211807",
+            "last_retested_at_epoch": 1591777814.088531,
+            "last_retested_at_iso": "2020-06-10T08:30:14.088531",
             "status": "INACTIVE"
         },
         "al-atelier.pl": {
@@ -3519,8 +3519,8 @@
         "aonagenarian.eu": {
             "included_at_epoch": 1591259668.941337,
             "included_at_iso": "2020-06-04T08:34:28.941337",
-            "last_retested_at_epoch": 1591604274.641564,
-            "last_retested_at_iso": "2020-06-08T08:17:54.641564",
+            "last_retested_at_epoch": 1591777816.603234,
+            "last_retested_at_iso": "2020-06-10T08:30:16.603234",
             "status": "INACTIVE"
         },
         "apple.com-mac-booster.live": {
@@ -3575,8 +3575,8 @@
         "bonynaszkolenia.eu": {
             "included_at_epoch": 1591260412.745746,
             "included_at_iso": "2020-06-04T08:46:52.745746",
-            "last_retested_at_epoch": 1591604277.792983,
-            "last_retested_at_iso": "2020-06-08T08:17:57.792983",
+            "last_retested_at_epoch": 1591777819.675793,
+            "last_retested_at_iso": "2020-06-10T08:30:19.675793",
             "status": "INACTIVE"
         },
         "butyreebokpl.eu": {
@@ -3603,8 +3603,8 @@
         "calodobowe-wiadomosci-pl.eu": {
             "included_at_epoch": 1590812190.502377,
             "included_at_iso": "2020-05-30T04:16:30.502377",
-            "last_retested_at_epoch": 1591604278.777148,
-            "last_retested_at_iso": "2020-06-08T08:17:58.777148",
+            "last_retested_at_epoch": 1591777820.677527,
+            "last_retested_at_iso": "2020-06-10T08:30:20.677527",
             "status": "INACTIVE"
         },
         "chilndreninfo.eu": {
@@ -3645,8 +3645,8 @@
         "dhl-paczka.eu": {
             "included_at_epoch": 1590812194.322988,
             "included_at_iso": "2020-05-30T04:16:34.322988",
-            "last_retested_at_epoch": 1591605007.561967,
-            "last_retested_at_iso": "2020-06-08T08:30:07.561967",
+            "last_retested_at_epoch": 1591777824.828364,
+            "last_retested_at_iso": "2020-06-10T08:30:24.828364",
             "status": "INACTIVE"
         },
         "dhl.express.faktura.lahuertadelsegura.com": {
@@ -3715,8 +3715,15 @@
         "drunt.at": {
             "included_at_epoch": 1590812196.230146,
             "included_at_iso": "2020-05-30T04:16:36.230146",
-            "last_retested_at_epoch": 1591605009.427799,
-            "last_retested_at_iso": "2020-06-08T08:30:09.427799",
+            "last_retested_at_epoch": 1591777826.566206,
+            "last_retested_at_iso": "2020-06-10T08:30:26.566206",
+            "status": "INACTIVE"
+        },
+        "dworzec-uprowadzenie24.eu": {
+            "included_at_epoch": 1591777826.81153,
+            "included_at_iso": "2020-06-10T08:30:26.811530",
+            "last_retested_at_epoch": 1591777826.81153,
+            "last_retested_at_iso": "2020-06-10T08:30:26.811530",
             "status": "INACTIVE"
         },
         "dworzecfakt.eu": {
@@ -3736,8 +3743,8 @@
         "dziennikprasowy.eu": {
             "included_at_epoch": 1590812196.769529,
             "included_at_iso": "2020-05-30T04:16:36.769529",
-            "last_retested_at_epoch": 1591605009.984885,
-            "last_retested_at_iso": "2020-06-08T08:30:09.984885",
+            "last_retested_at_epoch": 1591777827.054736,
+            "last_retested_at_iso": "2020-06-10T08:30:27.054736",
             "status": "INACTIVE"
         },
         "dziennikprasowy.pusiaweb.com": {
@@ -3778,8 +3785,8 @@
         "ecdi19.eu": {
             "included_at_epoch": 1591064983.62549,
             "included_at_iso": "2020-06-02T02:29:43.625490",
-            "last_retested_at_epoch": 1591605010.508766,
-            "last_retested_at_iso": "2020-06-08T08:30:10.508766",
+            "last_retested_at_epoch": 1591777827.651523,
+            "last_retested_at_iso": "2020-06-10T08:30:27.651523",
             "status": "INACTIVE"
         },
         "efaktygwalt.eu": {
@@ -3792,8 +3799,8 @@
         "ekipl.eu": {
             "included_at_epoch": 1590812197.688618,
             "included_at_iso": "2020-05-30T04:16:37.688618",
-            "last_retested_at_epoch": 1591605010.972115,
-            "last_retested_at_iso": "2020-06-08T08:30:10.972115",
+            "last_retested_at_epoch": 1591777828.096326,
+            "last_retested_at_iso": "2020-06-10T08:30:28.096326",
             "status": "INACTIVE"
         },
         "emonitoring-poczta-polska.eu": {
@@ -3827,8 +3834,8 @@
         "emonitoring24.eu": {
             "included_at_epoch": 1589875102.298725,
             "included_at_iso": "2020-05-19T07:58:22.298725",
-            "last_retested_at_epoch": 1591605011.479212,
-            "last_retested_at_iso": "2020-06-08T08:30:11.479212",
+            "last_retested_at_epoch": 1591777828.578856,
+            "last_retested_at_iso": "2020-06-10T08:30:28.578856",
             "status": "INACTIVE"
         },
         "esneakers.net.pl": {
