@@ -3491,8 +3491,8 @@
         "adidasprzeceny.pl": {
             "included_at_epoch": 1591938690.318822,
             "included_at_iso": "2020-06-12T05:11:30.318822",
-            "last_retested_at_epoch": 1591938690.318822,
-            "last_retested_at_iso": "2020-06-12T05:11:30.318822",
+            "last_retested_at_epoch": 1592111515.374885,
+            "last_retested_at_iso": "2020-06-14T05:11:55.374885",
             "status": "INACTIVE"
         },
         "al-atelier.pl": {
@@ -3505,8 +3505,8 @@
         "aldashoes.eu": {
             "included_at_epoch": 1589691499.105944,
             "included_at_iso": "2020-05-17T04:58:19.105944",
-            "last_retested_at_epoch": 1591938692.999019,
-            "last_retested_at_iso": "2020-06-12T05:11:32.999019",
+            "last_retested_at_epoch": 1592111517.980404,
+            "last_retested_at_iso": "2020-06-14T05:11:57.980404",
             "status": "INACTIVE"
         },
         "allegro.pl-oferta.ml": {
@@ -3528,6 +3528,13 @@
             "included_at_iso": "2020-06-04T08:34:28.941337",
             "last_retested_at_epoch": 1591946998.568043,
             "last_retested_at_iso": "2020-06-12T07:29:58.568043",
+            "status": "INACTIVE"
+        },
+        "apartamentylirowa.pl": {
+            "included_at_epoch": 1592111520.16982,
+            "included_at_iso": "2020-06-14T05:12:00.169820",
+            "last_retested_at_epoch": 1592111520.16982,
+            "last_retested_at_iso": "2020-06-14T05:12:00.169820",
             "status": "INACTIVE"
         },
         "apple.com-mac-booster.live": {
@@ -3554,8 +3561,8 @@
         "athomowy.pl": {
             "included_at_epoch": 1591592672.804816,
             "included_at_iso": "2020-06-08T05:04:32.804816",
-            "last_retested_at_epoch": 1591938697.245404,
-            "last_retested_at_iso": "2020-06-12T05:11:37.245404",
+            "last_retested_at_epoch": 1592111522.13803,
+            "last_retested_at_iso": "2020-06-14T05:12:02.138030",
             "status": "INACTIVE"
         },
         "beckerfarby.pl": {
@@ -3883,8 +3890,8 @@
         "exlegetorun.pl": {
             "included_at_epoch": 1591766271.877304,
             "included_at_iso": "2020-06-10T05:17:51.877304",
-            "last_retested_at_epoch": 1591938720.731856,
-            "last_retested_at_iso": "2020-06-12T05:12:00.731856",
+            "last_retested_at_epoch": 1592111545.137276,
+            "last_retested_at_iso": "2020-06-14T05:12:25.137276",
             "status": "INACTIVE"
         },
         "expertadvisor.pl": {
@@ -4006,11 +4013,18 @@
             "last_retested_at_iso": "2020-06-12T12:13:25.278193",
             "status": "INACTIVE"
         },
+        "gest24.pl": {
+            "included_at_epoch": 1592111552.863907,
+            "included_at_iso": "2020-06-14T05:12:32.863907",
+            "last_retested_at_epoch": 1592111552.863907,
+            "last_retested_at_iso": "2020-06-14T05:12:32.863907",
+            "status": "INACTIVE"
+        },
         "gift-cards.co.pl": {
             "included_at_epoch": 1591766280.349312,
             "included_at_iso": "2020-06-10T05:18:00.349312",
-            "last_retested_at_epoch": 1591938728.935819,
-            "last_retested_at_iso": "2020-06-12T05:12:08.935819",
+            "last_retested_at_epoch": 1592111553.248752,
+            "last_retested_at_iso": "2020-06-14T05:12:33.248752",
             "status": "INACTIVE"
         },
         "glosowanie-kliknij.eu": {
@@ -4135,8 +4149,8 @@
         "hotele-luksusowe.com.pl": {
             "included_at_epoch": 1591766286.514131,
             "included_at_iso": "2020-06-10T05:18:06.514131",
-            "last_retested_at_epoch": 1591938734.985212,
-            "last_retested_at_iso": "2020-06-12T05:12:14.985212",
+            "last_retested_at_epoch": 1592111559.133122,
+            "last_retested_at_iso": "2020-06-14T05:12:39.133122",
             "status": "INACTIVE"
         },
         "i8i.eu": {
@@ -4352,8 +4366,8 @@
         "kuchniapolowapoznan.pl": {
             "included_at_epoch": 1591766297.534157,
             "included_at_iso": "2020-06-10T05:18:17.534157",
-            "last_retested_at_epoch": 1591938745.835919,
-            "last_retested_at_iso": "2020-06-12T05:12:25.835919",
+            "last_retested_at_epoch": 1592111569.653781,
+            "last_retested_at_iso": "2020-06-14T05:12:49.653781",
             "status": "INACTIVE"
         },
         "kur24pl.eu": {
@@ -4492,15 +4506,15 @@
         "meandry-odchudzania.pl": {
             "included_at_epoch": 1591766305.809879,
             "included_at_iso": "2020-06-10T05:18:25.809879",
-            "last_retested_at_epoch": 1591938753.799787,
-            "last_retested_at_iso": "2020-06-12T05:12:33.799787",
+            "last_retested_at_epoch": 1592111577.45661,
+            "last_retested_at_iso": "2020-06-14T05:12:57.456610",
             "status": "INACTIVE"
         },
         "mediaexpres.in.net": {
             "included_at_epoch": 1590793627.922078,
             "included_at_iso": "2020-05-29T23:07:07.922078",
-            "last_retested_at_epoch": 1591938753.980239,
-            "last_retested_at_iso": "2020-06-12T05:12:33.980239",
+            "last_retested_at_epoch": 1592111577.694001,
+            "last_retested_at_iso": "2020-06-14T05:12:57.694001",
             "status": "INACTIVE"
         },
         "mgokswiatniki.pl": {
