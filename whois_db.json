@@ -12984,6 +12984,11 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "issl-cert.pl": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "istrefa.net": {
         "epoch": 1617235200.0,
         "expiration_date": "01-apr-2021",
@@ -14760,9 +14765,9 @@
         "state": "future"
     },
     "kurierinpost.info": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "kurierjagoda.org": {
         "epoch": 1616198400.0,
@@ -14775,9 +14780,9 @@
         "state": "future"
     },
     "kurierstas.info": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "kurkabudka.pl": {
         "epoch": 1617667200.0,
