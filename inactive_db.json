@@ -4503,6 +4503,13 @@
             "last_retested_at_iso": "2020-06-17T18:24:32.678753",
             "status": "INACTIVE"
         },
+        "osphutastara.pl": {
+            "included_at_epoch": 1592545398.686349,
+            "included_at_iso": "2020-06-19T05:43:18.686349",
+            "last_retested_at_epoch": 1592545398.686349,
+            "last_retested_at_iso": "2020-06-19T05:43:18.686349",
+            "status": "INACTIVE"
+        },
         "otomoto.kn2lm19a23.com": {
             "included_at_epoch": 1591268873.647536,
             "included_at_iso": "2020-06-04T11:07:53.647536",
@@ -4538,6 +4545,13 @@
             "last_retested_at_iso": "2020-06-17T15:00:33.651508",
             "status": "INACTIVE"
         },
+        "parkinggdansk.pl": {
+            "included_at_epoch": 1592545400.108816,
+            "included_at_iso": "2020-06-19T05:43:20.108816",
+            "last_retested_at_epoch": 1592545400.108816,
+            "last_retested_at_iso": "2020-06-19T05:43:20.108816",
+            "status": "INACTIVE"
+        },
         "patinastyle-atelier.pl": {
             "included_at_epoch": 1590796033.564123,
             "included_at_iso": "2020-05-29T23:47:13.564123",
@@ -4564,6 +4578,13 @@
             "included_at_iso": "2020-06-04T05:46:48.425700",
             "last_retested_at_epoch": 1592418285.250072,
             "last_retested_at_iso": "2020-06-17T18:24:45.250072",
+            "status": "INACTIVE"
+        },
+        "piknikarabski.pl": {
+            "included_at_epoch": 1592545401.978156,
+            "included_at_iso": "2020-06-19T05:43:21.978156",
+            "last_retested_at_epoch": 1592545401.978156,
+            "last_retested_at_iso": "2020-06-19T05:43:21.978156",
             "status": "INACTIVE"
         },
         "pkworld.com.pk": {
@@ -4611,8 +4632,8 @@
         "pobierz-online.co.pl": {
             "included_at_epoch": 1590796036.996259,
             "included_at_iso": "2020-05-29T23:47:16.996259",
-            "last_retested_at_epoch": 1592391336.754227,
-            "last_retested_at_iso": "2020-06-17T10:55:36.754227",
+            "last_retested_at_epoch": 1592545403.69074,
+            "last_retested_at_iso": "2020-06-19T05:43:23.690740",
             "status": "INACTIVE"
         },
         "pobierz-pliczek.eu": {
@@ -4709,8 +4730,8 @@
         "private.atlanticgam.es": {
             "included_at_epoch": 1590796040.708638,
             "included_at_iso": "2020-05-29T23:47:20.708638",
-            "last_retested_at_epoch": 1592391339.958467,
-            "last_retested_at_iso": "2020-06-17T10:55:39.958467",
+            "last_retested_at_epoch": 1592545407.098045,
+            "last_retested_at_iso": "2020-06-19T05:43:27.098045",
             "status": "INACTIVE"
         },
         "przechwycone-zdjecia-fotki.pusiaweb.com": {
@@ -4793,8 +4814,8 @@
         "questraworld.es": {
             "included_at_epoch": 1590796044.419243,
             "included_at_iso": "2020-05-29T23:47:24.419243",
-            "last_retested_at_epoch": 1592391343.43947,
-            "last_retested_at_iso": "2020-06-17T10:55:43.439470",
+            "last_retested_at_epoch": 1592545410.959014,
+            "last_retested_at_iso": "2020-06-19T05:43:30.959014",
             "status": "INACTIVE"
         },
         "r.clube62.date": {
@@ -4807,8 +4828,8 @@
         "retrortv.in.net": {
             "included_at_epoch": 1590796047.684953,
             "included_at_iso": "2020-05-29T23:47:27.684953",
-            "last_retested_at_epoch": 1592391346.546975,
-            "last_retested_at_iso": "2020-06-17T10:55:46.546975",
+            "last_retested_at_epoch": 1592545414.321843,
+            "last_retested_at_iso": "2020-06-19T05:43:34.321843",
             "status": "INACTIVE"
         },
         "rossm.gift-cards.co.pl": {
@@ -4898,8 +4919,8 @@
         "ssklep.in.net": {
             "included_at_epoch": 1590796058.964735,
             "included_at_iso": "2020-05-29T23:47:38.964735",
-            "last_retested_at_epoch": 1592391356.27673,
-            "last_retested_at_iso": "2020-06-17T10:55:56.276730",
+            "last_retested_at_epoch": 1592545424.863805,
+            "last_retested_at_iso": "2020-06-19T05:43:44.863805",
             "status": "INACTIVE"
         },
         "ssl.bezpieczne-platnosci.pl": {
@@ -4923,11 +4944,18 @@
             "last_retested_at_iso": "2020-06-17T15:17:57.924950",
             "status": "INACTIVE"
         },
+        "studiosuwak.pl": {
+            "included_at_epoch": 1592545426.629072,
+            "included_at_iso": "2020-06-19T05:43:46.629072",
+            "last_retested_at_epoch": 1592545426.629072,
+            "last_retested_at_iso": "2020-06-19T05:43:46.629072",
+            "status": "INACTIVE"
+        },
         "supermedia.in.net": {
             "included_at_epoch": 1590796061.518584,
             "included_at_iso": "2020-05-29T23:47:41.518584",
-            "last_retested_at_epoch": 1592391358.841086,
-            "last_retested_at_iso": "2020-06-17T10:55:58.841086",
+            "last_retested_at_epoch": 1592545427.391451,
+            "last_retested_at_iso": "2020-06-19T05:43:47.391451",
             "status": "INACTIVE"
         },
         "szachysieradzkie.pl": {
@@ -5059,8 +5087,8 @@
         "vanspolskasklep.pl": {
             "included_at_epoch": 1592391369.20921,
             "included_at_iso": "2020-06-17T10:56:09.209210",
-            "last_retested_at_epoch": 1592391369.20921,
-            "last_retested_at_iso": "2020-06-17T10:56:09.209210",
+            "last_retested_at_epoch": 1592545438.428522,
+            "last_retested_at_iso": "2020-06-19T05:43:58.428522",
             "status": "INACTIVE"
         },
         "vip.lucky-gifts-center.com": {
@@ -5101,8 +5129,8 @@
         "winfactory.pl": {
             "included_at_epoch": 1592285513.692073,
             "included_at_iso": "2020-06-16T05:31:53.692073",
-            "last_retested_at_epoch": 1592391372.46641,
-            "last_retested_at_iso": "2020-06-17T10:56:12.466410",
+            "last_retested_at_epoch": 1592545441.98116,
+            "last_retested_at_iso": "2020-06-19T05:44:01.981160",
             "status": "INACTIVE"
         },
         "wkfilms.pl": {
@@ -5290,8 +5318,8 @@
         "www.acontrario.pl": {
             "included_at_epoch": 1591939824.749399,
             "included_at_iso": "2020-06-12T05:30:24.749399",
-            "last_retested_at_epoch": 1592391373.908785,
-            "last_retested_at_iso": "2020-06-17T10:56:13.908785",
+            "last_retested_at_epoch": 1592545443.509236,
+            "last_retested_at_iso": "2020-06-19T05:44:03.509236",
             "status": "INACTIVE"
         },
         "www.ad-poland.com": {
@@ -5311,8 +5339,8 @@
         "www.adamkepinski.pl": {
             "included_at_epoch": 1592285515.15946,
             "included_at_iso": "2020-06-16T05:31:55.159460",
-            "last_retested_at_epoch": 1592391373.952318,
-            "last_retested_at_iso": "2020-06-17T10:56:13.952318",
+            "last_retested_at_epoch": 1592545443.552886,
+            "last_retested_at_iso": "2020-06-19T05:44:03.552886",
             "status": "INACTIVE"
         },
         "www.adampaczka.com": {
@@ -5339,8 +5367,8 @@
         "www.adeptia.pl": {
             "included_at_epoch": 1591421317.713008,
             "included_at_iso": "2020-06-06T05:28:37.713008",
-            "last_retested_at_epoch": 1592391373.9909,
-            "last_retested_at_iso": "2020-06-17T10:56:13.990900",
+            "last_retested_at_epoch": 1592545443.591837,
+            "last_retested_at_iso": "2020-06-19T05:44:03.591837",
             "status": "INACTIVE"
         },
         "www.adestudio.w8w.pl": {
@@ -5437,8 +5465,8 @@
         "www.agronorth.pl": {
             "included_at_epoch": 1591421317.865821,
             "included_at_iso": "2020-06-06T05:28:37.865821",
-            "last_retested_at_epoch": 1592391374.062888,
-            "last_retested_at_iso": "2020-06-17T10:56:14.062888",
+            "last_retested_at_epoch": 1592545443.667332,
+            "last_retested_at_iso": "2020-06-19T05:44:03.667332",
             "status": "INACTIVE"
         },
         "www.ailegro.pl.ua": {
@@ -5458,29 +5486,29 @@
         "www.akademiamocowania.pl": {
             "included_at_epoch": 1592112655.486953,
             "included_at_iso": "2020-06-14T05:30:55.486953",
-            "last_retested_at_epoch": 1592391374.155596,
-            "last_retested_at_iso": "2020-06-17T10:56:14.155596",
+            "last_retested_at_epoch": 1592545443.763741,
+            "last_retested_at_iso": "2020-06-19T05:44:03.763741",
             "status": "INACTIVE"
         },
         "www.akademianaukowa.pl": {
             "included_at_epoch": 1590927624.510866,
             "included_at_iso": "2020-05-31T12:20:24.510866",
-            "last_retested_at_epoch": 1592391374.122059,
-            "last_retested_at_iso": "2020-06-17T10:56:14.122059",
+            "last_retested_at_epoch": 1592545443.729452,
+            "last_retested_at_iso": "2020-06-19T05:44:03.729452",
             "status": "INACTIVE"
         },
         "www.akademiasw.pl": {
             "included_at_epoch": 1592112655.524296,
             "included_at_iso": "2020-06-14T05:30:55.524296",
-            "last_retested_at_epoch": 1592391374.192912,
-            "last_retested_at_iso": "2020-06-17T10:56:14.192912",
+            "last_retested_at_epoch": 1592545443.797994,
+            "last_retested_at_iso": "2020-06-19T05:44:03.797994",
             "status": "INACTIVE"
         },
         "www.akademiazarabianiawinternecie.pl": {
             "included_at_epoch": 1590798760.35543,
             "included_at_iso": "2020-05-30T00:32:40.355430",
-            "last_retested_at_epoch": 1592391374.228934,
-            "last_retested_at_iso": "2020-06-17T10:56:14.228934",
+            "last_retested_at_epoch": 1592545443.839302,
+            "last_retested_at_iso": "2020-06-19T05:44:03.839302",
             "status": "INACTIVE"
         },
         "www.akademickie-gimnazjum.pl": {
