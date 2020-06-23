@@ -3880,6 +3880,13 @@
             "last_retested_at_iso": "2020-06-23T08:08:43.062306",
             "status": "INACTIVE"
         },
+        "fevitum.pl": {
+            "included_at_epoch": 1592950743.449335,
+            "included_at_iso": "2020-06-23T22:19:03.449335",
+            "last_retested_at_epoch": 1592950743.449335,
+            "last_retested_at_iso": "2020-06-23T22:19:03.449335",
+            "status": "INACTIVE"
+        },
         "filesdownloads.pl": {
             "included_at_epoch": 1592294737.147032,
             "included_at_iso": "2020-06-16T08:05:37.147032",
@@ -4004,13 +4011,6 @@
             "included_at_iso": "2020-06-17T14:38:21.786325",
             "last_retested_at_epoch": 1592899730.100343,
             "last_retested_at_iso": "2020-06-23T08:08:50.100343",
-            "status": "INACTIVE"
-        },
-        "glosuj-konkursy.eu": {
-            "included_at_epoch": 1590504126.002681,
-            "included_at_iso": "2020-05-26T14:42:06.002681",
-            "last_retested_at_epoch": 1592899730.134933,
-            "last_retested_at_iso": "2020-06-23T08:08:50.134933",
             "status": "INACTIVE"
         },
         "glosuj-pomaganie.eu": {
@@ -4277,6 +4277,13 @@
             "included_at_iso": "2020-05-30T04:28:59.435719",
             "last_retested_at_epoch": 1592899739.472277,
             "last_retested_at_iso": "2020-06-23T08:08:59.472277",
+            "status": "INACTIVE"
+        },
+        "leszekzyglowicz.pl": {
+            "included_at_epoch": 1592950768.845514,
+            "included_at_iso": "2020-06-23T22:19:28.845514",
+            "last_retested_at_epoch": 1592950768.845514,
+            "last_retested_at_iso": "2020-06-23T22:19:28.845514",
             "status": "INACTIVE"
         },
         "lexlale.eu": {
@@ -5726,13 +5733,6 @@
             "included_at_iso": "2020-06-06T08:29:35.214694",
             "last_retested_at_epoch": 1592901825.043463,
             "last_retested_at_iso": "2020-06-23T08:43:45.043463",
-            "status": "INACTIVE"
-        },
-        "www.alicjapaczka.org": {
-            "included_at_epoch": 1590505152.774007,
-            "included_at_iso": "2020-05-26T14:59:12.774007",
-            "last_retested_at_epoch": 1592901825.007623,
-            "last_retested_at_iso": "2020-06-23T08:43:45.007623",
             "status": "INACTIVE"
         },
         "www.aliorkurier.org": {
@@ -8794,13 +8794,6 @@
             "last_retested_at_iso": "2020-06-23T11:33:50.117893",
             "status": "INACTIVE"
         },
-        "www.foxrpas.com": {
-            "included_at_epoch": 1590505866.553199,
-            "included_at_iso": "2020-05-26T15:11:06.553199",
-            "last_retested_at_epoch": 1592912024.641541,
-            "last_retested_at_iso": "2020-06-23T11:33:44.641541",
-            "status": "INACTIVE"
-        },
         "www.fpkrosno.pl": {
             "included_at_epoch": 1592288220.841578,
             "included_at_iso": "2020-06-16T06:17:00.841578",
@@ -9354,13 +9347,6 @@
             "last_retested_at_iso": "2020-06-23T09:52:31.789596",
             "status": "INACTIVE"
         },
-        "www.glosuj-konkursy.eu": {
-            "included_at_epoch": 1590506583.302746,
-            "included_at_iso": "2020-05-26T15:23:03.302746",
-            "last_retested_at_epoch": 1592905951.825767,
-            "last_retested_at_iso": "2020-06-23T09:52:31.825767",
-            "status": "INACTIVE"
-        },
         "www.glosuj-pomaganie.eu": {
             "included_at_epoch": 1590660810.502944,
             "included_at_iso": "2020-05-28T10:13:30.502944",
@@ -9492,13 +9478,6 @@
             "included_at_iso": "2020-06-23T06:09:08.523620",
             "last_retested_at_epoch": 1592892548.52362,
             "last_retested_at_iso": "2020-06-23T06:09:08.523620",
-            "status": "INACTIVE"
-        },
-        "www.granicasportu.pl": {
-            "included_at_epoch": 1590498072.421328,
-            "included_at_iso": "2020-05-26T13:01:12.421328",
-            "last_retested_at_epoch": 1592892548.557759,
-            "last_retested_at_iso": "2020-06-23T06:09:08.557759",
             "status": "INACTIVE"
         },
         "www.graotron.biz": {
@@ -10530,13 +10509,6 @@
             "last_retested_at_iso": "2020-06-23T09:00:50.311283",
             "status": "INACTIVE"
         },
-        "www.javacenter.pl": {
-            "included_at_epoch": 1590498072.837654,
-            "included_at_iso": "2020-05-26T13:01:12.837654",
-            "last_retested_at_epoch": 1592911537.152647,
-            "last_retested_at_iso": "2020-06-23T11:25:37.152647",
-            "status": "INACTIVE"
-        },
         "www.jetzone.pl": {
             "included_at_epoch": 1590932676.41496,
             "included_at_iso": "2020-05-31T13:44:36.414960",
@@ -10906,13 +10878,6 @@
             "included_at_iso": "2020-05-30T05:26:34.434184",
             "last_retested_at_epoch": 1592911536.000883,
             "last_retested_at_iso": "2020-06-23T11:25:36.000883",
-            "status": "INACTIVE"
-        },
-        "www.kororoweszyszki.pl": {
-            "included_at_epoch": 1590498073.16925,
-            "included_at_iso": "2020-05-26T13:01:13.169250",
-            "last_retested_at_epoch": 1592892550.023865,
-            "last_retested_at_iso": "2020-06-23T06:09:10.023865",
             "status": "INACTIVE"
         },
         "www.koscijanski.pl": {
@@ -11809,13 +11774,6 @@
             "included_at_iso": "2020-05-30T07:04:34.534901",
             "last_retested_at_epoch": 1592910511.096751,
             "last_retested_at_iso": "2020-06-23T11:08:31.096751",
-            "status": "INACTIVE"
-        },
-        "www.millensbbannk.fun": {
-            "included_at_epoch": 1590505867.881316,
-            "included_at_iso": "2020-05-26T15:11:07.881316",
-            "last_retested_at_epoch": 1592903878.172646,
-            "last_retested_at_iso": "2020-06-23T09:17:58.172646",
             "status": "INACTIVE"
         },
         "www.minmin96.xyz": {
@@ -14112,13 +14070,6 @@
             "included_at_iso": "2020-05-30T06:06:39.300109",
             "last_retested_at_epoch": 1592905955.748853,
             "last_retested_at_iso": "2020-06-23T09:52:35.748853",
-            "status": "INACTIVE"
-        },
-        "www.proventus.com.pl": {
-            "included_at_epoch": 1590499762.531894,
-            "included_at_iso": "2020-05-26T13:29:22.531894",
-            "last_retested_at_epoch": 1592894964.716448,
-            "last_retested_at_iso": "2020-06-23T06:49:24.716448",
             "status": "INACTIVE"
         },
         "www.przechwycone-zdjecia-fotki.pusiaweb.com": {
