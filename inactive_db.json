@@ -3964,6 +3964,13 @@
             "last_retested_at_iso": "2020-06-23T08:08:49.448291",
             "status": "INVALID"
         },
+        "getin-secure.com.pl": {
+            "included_at_epoch": 1592962554.639738,
+            "included_at_iso": "2020-06-24T01:35:54.639738",
+            "last_retested_at_epoch": 1592962554.639738,
+            "last_retested_at_iso": "2020-06-24T01:35:54.639738",
+            "status": "INACTIVE"
+        },
         "gift-cards.co.pl": {
             "included_at_epoch": 1591766280.349312,
             "included_at_iso": "2020-06-10T05:18:00.349312",
@@ -4011,6 +4018,13 @@
             "included_at_iso": "2020-06-17T14:38:21.786325",
             "last_retested_at_epoch": 1592899730.100343,
             "last_retested_at_iso": "2020-06-23T08:08:50.100343",
+            "status": "INACTIVE"
+        },
+        "glosuj-konkursy.eu": {
+            "included_at_epoch": 1592962555.173087,
+            "included_at_iso": "2020-06-24T01:35:55.173087",
+            "last_retested_at_epoch": 1592962555.173087,
+            "last_retested_at_iso": "2020-06-24T01:35:55.173087",
             "status": "INACTIVE"
         },
         "glosuj-pomaganie.eu": {
@@ -4298,6 +4312,13 @@
             "included_at_iso": "2020-05-28T08:30:46.676378",
             "last_retested_at_epoch": 1592899741.176146,
             "last_retested_at_iso": "2020-06-23T08:09:01.176146",
+            "status": "INACTIVE"
+        },
+        "login-paribas.eu": {
+            "included_at_epoch": 1592962566.868714,
+            "included_at_iso": "2020-06-24T01:36:06.868714",
+            "last_retested_at_epoch": 1592962566.868714,
+            "last_retested_at_iso": "2020-06-24T01:36:06.868714",
             "status": "INACTIVE"
         },
         "login-planet-paribas.eu": {
