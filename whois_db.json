@@ -24147,7 +24147,7 @@
     "searchrapid.pl": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "searchwinner.site": {
         "epoch": 1615593600.0,
@@ -24182,6 +24182,11 @@
     "secure-getin.pl": {
         "epoch": 1655769600.0,
         "expiration_date": "21-jun-2022",
+        "state": "future"
+    },
+    "secure-getinbank.xyz": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "secure4app.com": {
@@ -27969,6 +27974,11 @@
         "expiration_date": "03-dec-2020",
         "state": "future"
     },
+    "twojapaczka.services": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
     "twojapewnadata.pl": {
         "epoch": "1552435200",
         "expiration_date": "13-mar-2019",
@@ -29448,6 +29458,11 @@
         "epoch": "1549065600",
         "expiration_date": "02-feb-2019",
         "state": "past"
+    },
+    "wirtualna-uczelnia.pl": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "wirtualnamlawa.pl": {
         "epoch": 1580256000.0,
