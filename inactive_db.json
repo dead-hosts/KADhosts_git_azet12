@@ -4419,13 +4419,6 @@
             "last_retested_at_iso": "2020-06-27T12:06:07.135503",
             "status": "INACTIVE"
         },
-        "naturalcelltherapy.pl": {
-            "included_at_epoch": 1593235200.993833,
-            "included_at_iso": "2020-06-27T05:20:00.993833",
-            "last_retested_at_epoch": 1593235200.993833,
-            "last_retested_at_iso": "2020-06-27T05:20:00.993833",
-            "status": "INACTIVE"
-        },
         "netwita.pl": {
             "included_at_epoch": 1591248841.32335,
             "included_at_iso": "2020-06-04T05:34:01.323350",
@@ -4660,8 +4653,8 @@
         "pobierz-online.co.pl": {
             "included_at_epoch": 1593236236.986399,
             "included_at_iso": "2020-06-27T05:37:16.986399",
-            "last_retested_at_epoch": 1593236236.986399,
-            "last_retested_at_iso": "2020-06-27T05:37:16.986399",
+            "last_retested_at_epoch": 1593409252.777832,
+            "last_retested_at_iso": "2020-06-29T05:40:52.777832",
             "status": "INACTIVE"
         },
         "pobierz-pliczek.eu": {
@@ -4758,8 +4751,8 @@
         "private.atlanticgam.es": {
             "included_at_epoch": 1593236240.515327,
             "included_at_iso": "2020-06-27T05:37:20.515327",
-            "last_retested_at_epoch": 1593236240.515327,
-            "last_retested_at_iso": "2020-06-27T05:37:20.515327",
+            "last_retested_at_epoch": 1593409256.14919,
+            "last_retested_at_iso": "2020-06-29T05:40:56.149190",
             "status": "INACTIVE"
         },
         "prl.genfotir.com": {
@@ -4877,8 +4870,8 @@
         "questraworld.es": {
             "included_at_epoch": 1593236244.548088,
             "included_at_iso": "2020-06-27T05:37:24.548088",
-            "last_retested_at_epoch": 1593236244.548088,
-            "last_retested_at_iso": "2020-06-27T05:37:24.548088",
+            "last_retested_at_epoch": 1593409260.078267,
+            "last_retested_at_iso": "2020-06-29T05:41:00.078267",
             "status": "INACTIVE"
         },
         "r.clube62.date": {
@@ -4891,8 +4884,8 @@
         "retrortv.in.net": {
             "included_at_epoch": 1593236248.030462,
             "included_at_iso": "2020-06-27T05:37:28.030462",
-            "last_retested_at_epoch": 1593236248.030462,
-            "last_retested_at_iso": "2020-06-27T05:37:28.030462",
+            "last_retested_at_epoch": 1593409263.635926,
+            "last_retested_at_iso": "2020-06-29T05:41:03.635926",
             "status": "INACTIVE"
         },
         "rossm.gift-cards.co.pl": {
@@ -4979,6 +4972,13 @@
             "last_retested_at_iso": "2020-06-27T12:06:05.362022",
             "status": "INACTIVE"
         },
+        "sklepnbbuty.pl": {
+            "included_at_epoch": 1593409269.697777,
+            "included_at_iso": "2020-06-29T05:41:09.697777",
+            "last_retested_at_epoch": 1593409269.697777,
+            "last_retested_at_iso": "2020-06-29T05:41:09.697777",
+            "status": "INACTIVE"
+        },
         "spartakiada2014.com.pl": {
             "included_at_epoch": 1592717815.772695,
             "included_at_iso": "2020-06-21T05:36:55.772695",
@@ -5003,8 +5003,8 @@
         "ssklep.in.net": {
             "included_at_epoch": 1593236259.271666,
             "included_at_iso": "2020-06-27T05:37:39.271666",
-            "last_retested_at_epoch": 1593236259.271666,
-            "last_retested_at_iso": "2020-06-27T05:37:39.271666",
+            "last_retested_at_epoch": 1593409274.518579,
+            "last_retested_at_iso": "2020-06-29T05:41:14.518579",
             "status": "INACTIVE"
         },
         "ssl.bezpieczne-platnosci.pl": {
@@ -5035,6 +5035,13 @@
             "last_retested_at_iso": "2020-06-27T12:06:06.209429",
             "status": "INACTIVE"
         },
+        "statmach.pl": {
+            "included_at_epoch": 1593409274.826402,
+            "included_at_iso": "2020-06-29T05:41:14.826402",
+            "last_retested_at_epoch": 1593409274.826402,
+            "last_retested_at_iso": "2020-06-29T05:41:14.826402",
+            "status": "INACTIVE"
+        },
         "steamcammunnity.ru.com": {
             "included_at_epoch": 1593247820.503149,
             "included_at_iso": "2020-06-27T08:50:20.503149",
@@ -5056,6 +5063,13 @@
             "last_retested_at_iso": "2020-06-27T08:50:20.903284",
             "status": "INACTIVE"
         },
+        "studioprimadonna.pl": {
+            "included_at_epoch": 1593409276.2964,
+            "included_at_iso": "2020-06-29T05:41:16.296400",
+            "last_retested_at_epoch": 1593409276.2964,
+            "last_retested_at_iso": "2020-06-29T05:41:16.296400",
+            "status": "INACTIVE"
+        },
         "studiosuwak.pl": {
             "included_at_epoch": 1592545426.629072,
             "included_at_iso": "2020-06-19T05:43:46.629072",
@@ -5063,18 +5077,11 @@
             "last_retested_at_iso": "2020-06-27T11:44:33.966035",
             "status": "INACTIVE"
         },
-        "supergapolska.pl": {
-            "included_at_epoch": 1593236261.907566,
-            "included_at_iso": "2020-06-27T05:37:41.907566",
-            "last_retested_at_epoch": 1593236261.907566,
-            "last_retested_at_iso": "2020-06-27T05:37:41.907566",
-            "status": "INACTIVE"
-        },
         "supermedia.in.net": {
             "included_at_epoch": 1593236261.990757,
             "included_at_iso": "2020-06-27T05:37:41.990757",
-            "last_retested_at_epoch": 1593236261.990757,
-            "last_retested_at_iso": "2020-06-27T05:37:41.990757",
+            "last_retested_at_epoch": 1593409277.187687,
+            "last_retested_at_iso": "2020-06-29T05:41:17.187687",
             "status": "INACTIVE"
         },
         "szachysieradzkie.pl": {
@@ -5493,8 +5500,8 @@
         "www.acontrario.pl": {
             "included_at_epoch": 1591939824.749399,
             "included_at_iso": "2020-06-12T05:30:24.749399",
-            "last_retested_at_epoch": 1593236278.813443,
-            "last_retested_at_iso": "2020-06-27T05:37:58.813443",
+            "last_retested_at_epoch": 1593409293.742923,
+            "last_retested_at_iso": "2020-06-29T05:41:33.742923",
             "status": "INACTIVE"
         },
         "www.ad-poland.com": {
@@ -5542,8 +5549,8 @@
         "www.adeptia.pl": {
             "included_at_epoch": 1591421317.713008,
             "included_at_iso": "2020-06-06T05:28:37.713008",
-            "last_retested_at_epoch": 1593236278.857641,
-            "last_retested_at_iso": "2020-06-27T05:37:58.857641",
+            "last_retested_at_epoch": 1593409293.786654,
+            "last_retested_at_iso": "2020-06-29T05:41:33.786654",
             "status": "INACTIVE"
         },
         "www.adestudio.w8w.pl": {
@@ -5640,8 +5647,8 @@
         "www.agronorth.pl": {
             "included_at_epoch": 1591421317.865821,
             "included_at_iso": "2020-06-06T05:28:37.865821",
-            "last_retested_at_epoch": 1593236278.941825,
-            "last_retested_at_iso": "2020-06-27T05:37:58.941825",
+            "last_retested_at_epoch": 1593409293.865852,
+            "last_retested_at_iso": "2020-06-29T05:41:33.865852",
             "status": "INACTIVE"
         },
         "www.ailegro.pl.ua": {
