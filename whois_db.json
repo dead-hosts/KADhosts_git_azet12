@@ -850,9 +850,9 @@
         "state": "future"
     },
     "agricoletrade.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "agronorth.pl": {
         "epoch": 1593820800.0,
@@ -4922,7 +4922,7 @@
     "clubedoestudante.net.br": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "clubitaliano.pl": {
         "epoch": 1598313600.0,
@@ -5964,6 +5964,11 @@
         "expiration_date": "03-jul-2021",
         "state": "future"
     },
+    "davekurier.org": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "state": "future"
+    },
     "davor.io": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
@@ -6015,8 +6020,8 @@
         "state": "future"
     },
     "debki-klara.pl": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
         "state": "future"
     },
     "debrznonoclegi.pl": {
@@ -9172,6 +9177,11 @@
     "favoriteadrequest.com": {
         "epoch": 1625356800.0,
         "expiration_date": "04-jul-2021",
+        "state": "future"
+    },
+    "fb-ads.me": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "fb-iq.pl": {
