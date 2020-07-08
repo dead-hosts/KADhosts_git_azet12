@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe.
-# Last modified: Mon, 06 Jul 2020, 21:01 UTC+02
-# Version: 2020.7.6.2
+# Last modified: Tue, 07 Jul 2020, 21:02 UTC+02
+# Version: 2020.7.7.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -811,7 +811,6 @@
 0.0.0.0 getcouponsfast.com
 0.0.0.0 getdataback.pl
 0.0.0.0 gethc.pl
-0.0.0.0 getleads.pl
 0.0.0.0 ggserwis.pl
 0.0.0.0 gh-cup.pl
 0.0.0.0 gift-cards.co.pl
@@ -3097,7 +3096,6 @@
 0.0.0.0 www.getcouponsfast.com
 0.0.0.0 www.getdataback.pl
 0.0.0.0 www.gethc.pl
-0.0.0.0 www.getleads.pl
 0.0.0.0 www.ggserwis.pl
 0.0.0.0 www.gikon.pl
 0.0.0.0 www.gilotyna.com.pl
@@ -5620,6 +5618,7 @@
 0.0.0.0 50kaweek.live
 0.0.0.0 50kzl.pl
 0.0.0.0 100sport.tv
+0.0.0.0 123movies.my.id
 0.0.0.0 7228.eu
 0.0.0.0 50000zl.site
 0.0.0.0 59055.cn
@@ -5642,6 +5641,7 @@
 0.0.0.0 adkokurier.org
 0.0.0.0 admwarszawa.pl
 0.0.0.0 adobe.5v.pl
+0.0.0.0 ads-fb.co
 0.0.0.0 agikurier.org
 0.0.0.0 agipasesores.com
 0.0.0.0 agricoletrade.com
@@ -5700,6 +5700,7 @@
 0.0.0.0 antkurier.com
 0.0.0.0 antonresidential.com
 0.0.0.0 anuskurier.org
+0.0.0.0 anyonecanhelp.club
 0.0.0.0 apartahotelfamilyhouse.com
 0.0.0.0 apekola.tcp4.me
 0.0.0.0 aplikacja-lnpost.com
@@ -5819,6 +5820,7 @@
 0.0.0.0 cbdnewsdirect.com
 0.0.0.0 cda24.net
 0.0.0.0 cda360.pl
+0.0.0.0 cdaflix.eu
 0.0.0.0 cdaflix.pl
 0.0.0.0 cdatube.pl
 0.0.0.0 cda-cda.prv.pl
@@ -5827,6 +5829,7 @@
 0.0.0.0 cda-flix.pl
 0.0.0.0 cda-tube.pl
 0.0.0.0 cda-vod.pl
+0.0.0.0 cda-zalukaj.pl
 0.0.0.0 cdgame.kgb.pl
 0.0.0.0 cdsp.pl
 0.0.0.0 cengizguler.com.tr
@@ -5857,6 +5860,7 @@
 0.0.0.0 ciekawewydarzenia.online
 0.0.0.0 cieslakwz.cba.pl
 0.0.0.0 ciezkieczasy.is-best.net
+0.0.0.0 cinema4k.net
 0.0.0.0 cinemaplanet.pl
 0.0.0.0 cinematicfanatic.com
 0.0.0.0 circultural.com
@@ -5880,6 +5884,7 @@
 0.0.0.0 coronadisco.co.uk
 0.0.0.0 coronavirustestkit.co.za
 0.0.0.0 counterpointmagazine.org
+0.0.0.0 country.moppie91.com
 0.0.0.0 covergt.com
 0.0.0.0 cpagrip.com
 0.0.0.0 creazionesitointernet.xyz
@@ -6013,6 +6018,7 @@
 0.0.0.0 einfo24.net
 0.0.0.0 ek0.pl
 0.0.0.0 ekino.com.pl
+0.0.0.0 ekino-tv.com.pl
 0.0.0.0 ekofil.pl
 0.0.0.0 ekonkarserai.com
 0.0.0.0 ekopaczka.services
@@ -6046,6 +6052,7 @@
 0.0.0.0 eurocarsped.com
 0.0.0.0 evaave12.nazwa.pl
 0.0.0.0 evekurier.org
+0.0.0.0 every-onebritish.club
 0.0.0.0 ewciakurier.com
 0.0.0.0 ewills.access.ly
 0.0.0.0 exeos.ws
@@ -6147,9 +6154,11 @@
 0.0.0.0 file-share365.com
 0.0.0.0 fili.com.pl
 0.0.0.0 fili.tube
+0.0.0.0 filis.pl
 0.0.0.0 filiser.com.pl
 0.0.0.0 filiser.online
 0.0.0.0 filmanteria.pl
+0.0.0.0 filmhit.pl
 0.0.0.0 filmline.pl
 0.0.0.0 filmobox.pl
 0.0.0.0 filmofon.pl
@@ -6163,6 +6172,7 @@
 0.0.0.0 filmspolandxxx.com
 0.0.0.0 filmu.pl
 0.0.0.0 filmvod.pl
+0.0.0.0 filmy3.pl
 0.0.0.0 filmy4u.pl
 0.0.0.0 filmycdaonline.wordpress.com
 0.0.0.0 filmyonline.com.pl
@@ -6374,6 +6384,7 @@
 0.0.0.0 informacje-news.eu
 0.0.0.0 informacje-o-maskach-ochronnych-pl.com
 0.0.0.0 informacje-swiat.pl
+0.0.0.0 informacyjny.h2g.pl
 0.0.0.0 informujemy.eu
 0.0.0.0 infoswiat.hekko24.pl
 0.0.0.0 infoszybkie.eu
@@ -6670,6 +6681,7 @@
 0.0.0.0 mojechwile.pl
 0.0.0.0 mojekobe.is-best.net
 0.0.0.0 mojeweselicho.za.pl
+0.0.0.0 mojseans.pl
 0.0.0.0 momoxxio.com
 0.0.0.0 moneywp.website
 0.0.0.0 moneywp.xyz
@@ -6683,12 +6695,14 @@
 0.0.0.0 movienet.pl
 0.0.0.0 moviestarplanethackers.co
 0.0.0.0 movipax.com
+0.0.0.0 mowmihache.pl
 0.0.0.0 mpestudios.pt
 0.0.0.0 msphackonline.com
 0.0.0.0 msp-hack.com
 0.0.0.0 mtsas.freehost.pl
 0.0.0.0 mukunth.com
 0.0.0.0 multico.5v.pl
+0.0.0.0 multifilmy.pl
 0.0.0.0 music611.com
 0.0.0.0 mutlukadinlarakademisi.com
 0.0.0.0 mydnssbox.gleeze.com
@@ -6796,6 +6810,7 @@
 0.0.0.0 onliine.pl
 0.0.0.0 onlinehd.pl
 0.0.0.0 onlinekino.pl
+0.0.0.0 onlineogladaj.pl
 0.0.0.0 onlinereward.site
 0.0.0.0 onlinesweepstakes.blue
 0.0.0.0 onlinevod.pl
@@ -6848,12 +6863,12 @@
 0.0.0.0 paczka-48.com
 0.0.0.0 paczka-dhl.com
 0.0.0.0 paczka-doplata.net
+0.0.0.0 paczka-dpd.pl
 0.0.0.0 paczka-gls.com
 0.0.0.0 paczka-inpost.com
 0.0.0.0 paczkedhl.com
 0.0.0.0 paczkikk.com
 0.0.0.0 paczkomaty-pl.tk
-0.0.0.0 paczpocztex.com
 0.0.0.0 pafiilate.byethost32.com
 0.0.0.0 paifi.net
 0.0.0.0 pakafast4you24h.club
@@ -6912,6 +6927,7 @@
 0.0.0.0 platnosci-online.services
 0.0.0.0 platnosc-kurier.com
 0.0.0.0 play18ok.info
+0.0.0.0 play24sklep.com
 0.0.0.0 playallthis.com
 0.0.0.0 player-cda.pl
 0.0.0.0 playmobilecrm.com
@@ -6920,6 +6936,7 @@
 0.0.0.0 playproz.com
 0.0.0.0 playsklep.net
 0.0.0.0 playsklep24.com
+0.0.0.0 play-vod.pl
 0.0.0.0 plengistat.info
 0.0.0.0 pletomak.mypi.co
 0.0.0.0 plikgier.5p.pl
@@ -7128,6 +7145,8 @@
 0.0.0.0 seriale.best
 0.0.0.0 serialosy.pl
 0.0.0.0 serialowo.pl
+0.0.0.0 server163777.nazwa.pl
+0.0.0.0 server720699.nazwa.pl
 0.0.0.0 server-payuser1.com
 0.0.0.0 servicecheck5.wixsite.com
 0.0.0.0 service-pay.company
@@ -7226,6 +7245,7 @@
 0.0.0.0 stolica-info.pl
 0.0.0.0 stomatologia-w.lublin.lu
 0.0.0.0 strangefullthiggngs.com
+0.0.0.0 streamfilme.xyz
 0.0.0.0 streamgo.pl
 0.0.0.0 strefakina.pl
 0.0.0.0 strony-fotograficzne.eu
@@ -7344,6 +7364,7 @@
 0.0.0.0 twoj-kurier.com
 0.0.0.0 twoj-kurier.services
 0.0.0.0 twoj-sennik.pl
+0.0.0.0 typowanie-glosuj.eu
 0.0.0.0 typuj-wyniki.eu
 0.0.0.0 tzr.grejt.pl
 0.0.0.0 u192389.stronazen.pl
@@ -7387,7 +7408,9 @@
 0.0.0.0 vod24.pl
 0.0.0.0 vodfilmy.pl
 0.0.0.0 vodflix.pl
+0.0.0.0 vodkino.pl
 0.0.0.0 vodstrefa.pl
+0.0.0.0 vod-box.pl
 0.0.0.0 vod-play.pl
 0.0.0.0 vtopiuops.info
 0.0.0.0 vulfehisil.tk
@@ -7529,6 +7552,7 @@
 0.0.0.0 www.antkurier.com
 0.0.0.0 www.antonresidential.com
 0.0.0.0 www.anuskurier.org
+0.0.0.0 www.anyonecanhelp.club
 0.0.0.0 www.apartahotelfamilyhouse.com
 0.0.0.0 www.apekola.tcp4.me
 0.0.0.0 www.aplsolutionsonline.com
@@ -7628,6 +7652,7 @@
 0.0.0.0 www.cbdnewsdirect.com
 0.0.0.0 www.cda24.net
 0.0.0.0 www.cda360.pl
+0.0.0.0 www.cdaflix.eu
 0.0.0.0 www.cdaflix.pl
 0.0.0.0 www.cdatube.pl
 0.0.0.0 www.cdgame.kgb.pl
@@ -7655,6 +7680,7 @@
 0.0.0.0 www.ciekawehistorie.pl
 0.0.0.0 www.ciekawewydarzenia.online
 0.0.0.0 www.cieslakwz.cba.pl
+0.0.0.0 www.cinema4k.net
 0.0.0.0 www.cinemaplanet.pl
 0.0.0.0 www.cinematicfanatic.com
 0.0.0.0 www.circultural.com
@@ -7672,6 +7698,7 @@
 0.0.0.0 www.coronadisco.co.uk
 0.0.0.0 www.coronavirustestkit.co.za
 0.0.0.0 www.counterpointmagazine.org
+0.0.0.0 www.country.moppie91.com
 0.0.0.0 www.covergt.com
 0.0.0.0 www.cpagrip.com
 0.0.0.0 www.creazionesitointernet.xyz
@@ -7859,9 +7886,11 @@
 0.0.0.0 www.filestrue.com
 0.0.0.0 www.filiser.com.pl
 0.0.0.0 www.filiser.online
+0.0.0.0 www.filis.pl
 0.0.0.0 www.fili.com.pl
 0.0.0.0 www.fili.tube
 0.0.0.0 www.filmanteria.pl
+0.0.0.0 www.filmhit.pl
 0.0.0.0 www.filmline.pl
 0.0.0.0 www.filmobox.pl
 0.0.0.0 www.filmofon.pl
@@ -7873,6 +7902,7 @@
 0.0.0.0 www.films.com.pl
 0.0.0.0 www.filmu.pl
 0.0.0.0 www.filmvod.pl
+0.0.0.0 www.filmy3.pl
 0.0.0.0 www.filmy4u.pl
 0.0.0.0 www.filmycdaonline.wordpress.com
 0.0.0.0 www.filmyonline.com.pl
@@ -8029,6 +8059,7 @@
 0.0.0.0 www.inevitablesituations.com
 0.0.0.0 www.infomiasto24.pl
 0.0.0.0 www.infonews24.com.pl
+0.0.0.0 www.informacyjny.h2g.pl
 0.0.0.0 www.informujemy.eu
 0.0.0.0 www.infoswiat.hekko24.pl
 0.0.0.0 www.infoszybkie.eu
@@ -8262,6 +8293,7 @@
 0.0.0.0 www.mojapaczka24.net
 0.0.0.0 www.mojechwile.pl
 0.0.0.0 www.mojeweselicho.za.pl
+0.0.0.0 www.mojseans.pl
 0.0.0.0 www.momoxxio.com
 0.0.0.0 www.moneywp.website
 0.0.0.0 www.moneywp.xyz
@@ -8273,10 +8305,12 @@
 0.0.0.0 www.movienet.pl
 0.0.0.0 www.moviestarplanethackers.co
 0.0.0.0 www.movipax.com
+0.0.0.0 www.mowmihache.pl
 0.0.0.0 www.mpestudios.pt
 0.0.0.0 www.msphackonline.com
 0.0.0.0 www.mtsas.freehost.pl
 0.0.0.0 www.mukunth.com
+0.0.0.0 www.multifilmy.pl
 0.0.0.0 www.music611.com
 0.0.0.0 www.mutlukadinlarakademisi.com
 0.0.0.0 www.mydnssbox.gleeze.com
@@ -8350,6 +8384,7 @@
 0.0.0.0 www.onliine.pl
 0.0.0.0 www.onlinehd.pl
 0.0.0.0 www.onlinekino.pl
+0.0.0.0 www.onlineogladaj.pl
 0.0.0.0 www.onlinereward.site
 0.0.0.0 www.onlinesweepstakes.blue
 0.0.0.0 www.onlinevod.pl
@@ -8388,7 +8423,6 @@
 0.0.0.0 www.paczkadpd.com
 0.0.0.0 www.paczkedhl.com
 0.0.0.0 www.paczkikk.com
-0.0.0.0 www.paczpocztex.com
 0.0.0.0 www.pafiilate.byethost32.com
 0.0.0.0 www.paifi.net
 0.0.0.0 www.pakafast4you24h.club
@@ -8426,6 +8460,7 @@
 0.0.0.0 www.placidocn.com
 0.0.0.0 www.platnosci24.services
 0.0.0.0 www.play18ok.info
+0.0.0.0 www.play24sklep.com
 0.0.0.0 www.playallthis.com
 0.0.0.0 www.playmobilecrm.com
 0.0.0.0 www.playnow24.pl
@@ -8567,6 +8602,8 @@
 0.0.0.0 www.serialosy.pl
 0.0.0.0 www.serialowo.pl
 0.0.0.0 www.serial.vod.co.pl
+0.0.0.0 www.server163777.nazwa.pl
+0.0.0.0 www.server720699.nazwa.pl
 0.0.0.0 www.servicecheck5.wixsite.com
 0.0.0.0 www.setforconfigplease.com
 0.0.0.0 www.sexmonitor.net
@@ -8637,6 +8674,7 @@
 0.0.0.0 www.steamcomnenity.ru.com
 0.0.0.0 www.steamco.de
 0.0.0.0 www.strangefullthiggngs.com
+0.0.0.0 www.streamfilme.xyz
 0.0.0.0 www.streamgo.pl
 0.0.0.0 www.strefakina.pl
 0.0.0.0 www.strstudio.pl
@@ -8754,6 +8792,7 @@
 0.0.0.0 www.vod24.pl
 0.0.0.0 www.vodfilmy.pl
 0.0.0.0 www.vodflix.pl
+0.0.0.0 www.vodkino.pl
 0.0.0.0 www.vodstrefa.pl
 0.0.0.0 www.vod.co.pl
 0.0.0.0 www.vtopiuops.info
@@ -8881,6 +8920,7 @@
 0.0.0.0 www.50kaweek.live
 0.0.0.0 www.50kzl.pl
 0.0.0.0 www.100sport.tv
+0.0.0.0 www.123movies.my.id
 0.0.0.0 www.7228.eu
 0.0.0.0 www.50000zl.site
 0.0.0.0 www.59055.cn
@@ -8889,6 +8929,7 @@
 0.0.0.0 www.about-preferences.host
 0.0.0.0 www.adidas-collection.club
 0.0.0.0 www.adobe.5v.pl
+0.0.0.0 www.ads-fb.co
 0.0.0.0 www.akademia-kursow-rozwojowych-app.com
 0.0.0.0 www.akceptacja-regulaminu.com
 0.0.0.0 www.akcjasamsung.e-kei.pl
@@ -8924,6 +8965,7 @@
 0.0.0.0 www.cda-flix.pl
 0.0.0.0 www.cda-tube.pl
 0.0.0.0 www.cda-vod.pl
+0.0.0.0 www.cda-zalukaj.pl
 0.0.0.0 www.chanceto-start.info
 0.0.0.0 www.charge-backers.pl
 0.0.0.0 www.chomik-24.pl
@@ -8961,9 +9003,11 @@
 0.0.0.0 www.easy-service.org
 0.0.0.0 www.ebd-cda.pl
 0.0.0.0 www.ebok-poczta.pl
+0.0.0.0 www.ekino-tv.com.pl
 0.0.0.0 www.eko-styk.pl
 0.0.0.0 www.elektromax-serwis.pl
 0.0.0.0 www.emonitoring-epoczta-polska.net
+0.0.0.0 www.every-onebritish.club
 0.0.0.0 www.express-dhl.com
 0.0.0.0 www.express-inpost.com
 0.0.0.0 www.express-pocztex.com
@@ -9189,6 +9233,7 @@
 0.0.0.0 www.paczka-48.com
 0.0.0.0 www.paczka-dhl.com
 0.0.0.0 www.paczka-doplata.net
+0.0.0.0 www.paczka-dpd.pl
 0.0.0.0 www.paczka-gls.com
 0.0.0.0 www.paczka-inpost.com
 0.0.0.0 www.paczkomaty-pl.tk
@@ -9209,6 +9254,7 @@
 0.0.0.0 www.platnosci-online.services
 0.0.0.0 www.platnosc-kurier.com
 0.0.0.0 www.player-cda.pl
+0.0.0.0 www.play-vod.pl
 0.0.0.0 www.plikgier.5p.pl
 0.0.0.0 www.pl-fb.business
 0.0.0.0 www.pl-fb.com
@@ -9344,6 +9390,7 @@
 0.0.0.0 www.twoj-kurier.com
 0.0.0.0 www.twoj-kurier.services
 0.0.0.0 www.twoj-sennik.pl
+0.0.0.0 www.typowanie-glosuj.eu
 0.0.0.0 www.typuj-wyniki.eu
 0.0.0.0 www.update-1.com
 0.0.0.0 www.uprowadzenie.7m.pl
@@ -9353,6 +9400,7 @@
 0.0.0.0 www.uslugitopgry.5p.pl
 0.0.0.0 www.uslugitransportowe-warszawa.pl
 0.0.0.0 www.vforte-pl.com
+0.0.0.0 www.vod-box.pl
 0.0.0.0 www.vod-play.pl
 0.0.0.0 www.warosprawdzic.is-best.net
 0.0.0.0 www.warszawa-fakt.pl
@@ -9756,6 +9804,7 @@
 0.0.0.0 childalertfakt.online
 0.0.0.0 childalertfakt.site
 0.0.0.0 chomikuj.best
+0.0.0.0 cinema4k.net
 0.0.0.0 claimyourprizes16.life
 0.0.0.0 cloud.file.co.pl
 0.0.0.0 consquarters1.live
@@ -10144,6 +10193,8 @@
 0.0.0.0 onetposzukiwani.eu
 0.0.0.0 oplata3981.tpskp.com
 0.0.0.0 packza.dostawy24.com
+0.0.0.0 paczpocztex.com
+0.0.0.0 paczpocztex.online
 0.0.0.0 pakiety-lte-5gb.blogspot.com
 0.0.0.0 pakiety-pokemon-go.blogspot.com
 0.0.0.0 pay.e-kurier24.net
@@ -10360,6 +10411,7 @@
 0.0.0.0 www.childalertfakt.online
 0.0.0.0 www.childalertfakt.site
 0.0.0.0 www.chomikuj.best
+0.0.0.0 www.cinema4k.net
 0.0.0.0 www.claimyourprizes16.life
 0.0.0.0 www.cloud.file.co.pl
 0.0.0.0 www.consquarters1.live
@@ -10603,6 +10655,8 @@
 0.0.0.0 www.onetposzukiwani.eu
 0.0.0.0 www.oplata3981.tpskp.com
 0.0.0.0 www.packza.dostawy24.com
+0.0.0.0 www.paczpocztex.com
+0.0.0.0 www.paczpocztex.online
 0.0.0.0 www.ping.ublock.org
 0.0.0.0 www.platnik247.online
 0.0.0.0 www.platnosc.podatkigov.net
