@@ -3525,8 +3525,8 @@
         "state": "future"
     },
     "brikee.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1752105600.0,
+        "expiration_date": "10-jul-2025",
         "state": "future"
     },
     "britney.com.pl": {
@@ -6269,6 +6269,11 @@
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
+    "dhl-express.pl": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
+    },
     "dhl-kurier.pl": {
         "epoch": 1624492800.0,
         "expiration_date": "24-jun-2021",
@@ -6282,6 +6287,11 @@
     "dhl-percel.com": {
         "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "dhl-twojkurier.com": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "dhl24-paczka.com": {
@@ -7640,8 +7650,8 @@
         "state": "future"
     },
     "easydownload.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "easypdfcombine.com": {
@@ -9450,8 +9460,8 @@
         "state": "future"
     },
     "filedownloads.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "fileengine.org": {
@@ -12902,6 +12912,11 @@
     "idea-cloud.xyz": {
         "epoch": 1623974400.0,
         "expiration_date": "18-jun-2021",
+        "state": "future"
+    },
+    "idea-cloudbank.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "ideabank-login.xyz": {
