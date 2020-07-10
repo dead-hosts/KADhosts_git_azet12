@@ -4681,8 +4681,8 @@
         "pobierz-online.co.pl": {
             "included_at_epoch": 1593236236.986399,
             "included_at_iso": "2020-06-27T05:37:16.986399",
-            "last_retested_at_epoch": 1594186956.925648,
-            "last_retested_at_iso": "2020-07-08T05:42:36.925648",
+            "last_retested_at_epoch": 1594360042.556868,
+            "last_retested_at_iso": "2020-07-10T05:47:22.556868",
             "status": "INACTIVE"
         },
         "pobierz-pliczek.eu": {
@@ -4800,8 +4800,8 @@
         "private.atlanticgam.es": {
             "included_at_epoch": 1593236240.515327,
             "included_at_iso": "2020-06-27T05:37:20.515327",
-            "last_retested_at_epoch": 1594186960.84068,
-            "last_retested_at_iso": "2020-07-08T05:42:40.840680",
+            "last_retested_at_epoch": 1594360046.266738,
+            "last_retested_at_iso": "2020-07-10T05:47:26.266738",
             "status": "INACTIVE"
         },
         "prl.genfotir.com": {
@@ -4926,8 +4926,15 @@
         "questraworld.es": {
             "included_at_epoch": 1593236244.548088,
             "included_at_iso": "2020-06-27T05:37:24.548088",
-            "last_retested_at_epoch": 1594186964.826615,
-            "last_retested_at_iso": "2020-07-08T05:42:44.826615",
+            "last_retested_at_epoch": 1594360050.202347,
+            "last_retested_at_iso": "2020-07-10T05:47:30.202347",
+            "status": "INACTIVE"
+        },
+        "r-dach.pl": {
+            "included_at_epoch": 1594360056.190784,
+            "included_at_iso": "2020-07-10T05:47:36.190784",
+            "last_retested_at_epoch": 1594360056.190784,
+            "last_retested_at_iso": "2020-07-10T05:47:36.190784",
             "status": "INACTIVE"
         },
         "r.clube62.date": {
@@ -4940,15 +4947,15 @@
         "reeboknpcii.pl": {
             "included_at_epoch": 1594032808.688118,
             "included_at_iso": "2020-07-06T10:53:28.688118",
-            "last_retested_at_epoch": 1594186967.22944,
-            "last_retested_at_iso": "2020-07-08T05:42:47.229440",
+            "last_retested_at_epoch": 1594360052.436168,
+            "last_retested_at_iso": "2020-07-10T05:47:32.436168",
             "status": "INACTIVE"
         },
         "retrortv.in.net": {
             "included_at_epoch": 1593236248.030462,
             "included_at_iso": "2020-06-27T05:37:28.030462",
-            "last_retested_at_epoch": 1594186968.520806,
-            "last_retested_at_iso": "2020-07-08T05:42:48.520806",
+            "last_retested_at_epoch": 1594360053.727013,
+            "last_retested_at_iso": "2020-07-10T05:47:33.727013",
             "status": "INACTIVE"
         },
         "rossm.gift-cards.co.pl": {
@@ -4989,8 +4996,8 @@
         "secondhand-gwo24.pl": {
             "included_at_epoch": 1594032813.548192,
             "included_at_iso": "2020-07-06T10:53:33.548192",
-            "last_retested_at_epoch": 1594186972.275712,
-            "last_retested_at_iso": "2020-07-08T05:42:52.275712",
+            "last_retested_at_epoch": 1594360057.294349,
+            "last_retested_at_iso": "2020-07-10T05:47:37.294349",
             "status": "INACTIVE"
         },
         "secure-pge.eu": {
@@ -5052,8 +5059,8 @@
         "ssklep.in.net": {
             "included_at_epoch": 1593236259.271666,
             "included_at_iso": "2020-06-27T05:37:39.271666",
-            "last_retested_at_epoch": 1594186979.993467,
-            "last_retested_at_iso": "2020-07-08T05:42:59.993467",
+            "last_retested_at_epoch": 1594360064.836072,
+            "last_retested_at_iso": "2020-07-10T05:47:44.836072",
             "status": "INACTIVE"
         },
         "ssl.bezpieczne-platnosci.pl": {
@@ -5129,8 +5136,8 @@
         "supermedia.in.net": {
             "included_at_epoch": 1593236261.990757,
             "included_at_iso": "2020-06-27T05:37:41.990757",
-            "last_retested_at_epoch": 1594186982.841168,
-            "last_retested_at_iso": "2020-07-08T05:43:02.841168",
+            "last_retested_at_epoch": 1594360067.474881,
+            "last_retested_at_iso": "2020-07-10T05:47:47.474881",
             "status": "INACTIVE"
         },
         "tanie-wapnowanie.pl": {
@@ -5283,8 +5290,8 @@
         "vanswyprzedaz.pl": {
             "included_at_epoch": 1594186995.192392,
             "included_at_iso": "2020-07-08T05:43:15.192392",
-            "last_retested_at_epoch": 1594186995.192392,
-            "last_retested_at_iso": "2020-07-08T05:43:15.192392",
+            "last_retested_at_epoch": 1594360079.928515,
+            "last_retested_at_iso": "2020-07-10T05:47:59.928515",
             "status": "INACTIVE"
         },
         "vodafone.com-gift-winner-lucky-day.vip": {
@@ -5525,6 +5532,13 @@
             "last_retested_at_iso": "2020-07-08T10:42:17.214441",
             "status": "INACTIVE"
         },
+        "www.a0copyplot.pl": {
+            "included_at_epoch": 1594360085.341728,
+            "included_at_iso": "2020-07-10T05:48:05.341728",
+            "last_retested_at_epoch": 1594360085.341728,
+            "last_retested_at_iso": "2020-07-10T05:48:05.341728",
+            "status": "INACTIVE"
+        },
         "www.a2plvcpnl308307.prod.iad2.secureserver.net": {
             "included_at_epoch": 1593940358.179845,
             "included_at_iso": "2020-07-05T09:12:38.179845",
@@ -5561,10 +5575,10 @@
             "status": "INACTIVE"
         },
         "www.acontrario.pl": {
-            "included_at_epoch": 1591939824.749399,
-            "included_at_iso": "2020-06-12T05:30:24.749399",
-            "last_retested_at_epoch": 1594187000.609677,
-            "last_retested_at_iso": "2020-07-08T05:43:20.609677",
+            "included_at_epoch": 1594360085.394461,
+            "included_at_iso": "2020-07-10T05:48:05.394461",
+            "last_retested_at_epoch": 1594360085.394461,
+            "last_retested_at_iso": "2020-07-10T05:48:05.394461",
             "status": "INACTIVE"
         },
         "www.ad-poland.com": {
@@ -5612,8 +5626,8 @@
         "www.adevent.pl": {
             "included_at_epoch": 1593668466.832435,
             "included_at_iso": "2020-07-02T05:41:06.832435",
-            "last_retested_at_epoch": 1594188728.595907,
-            "last_retested_at_iso": "2020-07-08T06:12:08.595907",
+            "last_retested_at_epoch": 1594360085.441571,
+            "last_retested_at_iso": "2020-07-10T05:48:05.441571",
             "status": "INACTIVE"
         },
         "www.adidas-collection.club": {
@@ -5621,48 +5635,6 @@
             "included_at_iso": "2020-06-27T09:50:45.997979",
             "last_retested_at_epoch": 1594204937.294761,
             "last_retested_at_iso": "2020-07-08T10:42:17.294761",
-            "status": "INACTIVE"
-        },
-        "www.adidasprzeceny.pl": {
-            "included_at_epoch": 1591939824.869318,
-            "included_at_iso": "2020-06-12T05:30:24.869318",
-            "last_retested_at_epoch": 1594214469.742164,
-            "last_retested_at_iso": "2020-07-08T13:21:09.742164",
-            "status": "INACTIVE"
-        },
-        "www.adidasstansmithdamskie.pl": {
-            "included_at_epoch": 1591939824.905086,
-            "included_at_iso": "2020-06-12T05:30:24.905086",
-            "last_retested_at_epoch": 1594214468.193764,
-            "last_retested_at_iso": "2020-07-08T13:21:08.193764",
-            "status": "INACTIVE"
-        },
-        "www.adidastrampkidamskie.pl": {
-            "included_at_epoch": 1591939824.941122,
-            "included_at_iso": "2020-06-12T05:30:24.941122",
-            "last_retested_at_epoch": 1594214474.234055,
-            "last_retested_at_iso": "2020-07-08T13:21:14.234055",
-            "status": "INACTIVE"
-        },
-        "www.adidastubularshadow.pl": {
-            "included_at_epoch": 1591939824.973999,
-            "included_at_iso": "2020-06-12T05:30:24.973999",
-            "last_retested_at_epoch": 1594214466.097068,
-            "last_retested_at_iso": "2020-07-08T13:21:06.097068",
-            "status": "INACTIVE"
-        },
-        "www.adidasznizka.pl": {
-            "included_at_epoch": 1591939825.012661,
-            "included_at_iso": "2020-06-12T05:30:25.012661",
-            "last_retested_at_epoch": 1594214474.865787,
-            "last_retested_at_iso": "2020-07-08T13:21:14.865787",
-            "status": "INACTIVE"
-        },
-        "www.adidaszxfluxdamskie.pl": {
-            "included_at_epoch": 1591939825.048518,
-            "included_at_iso": "2020-06-12T05:30:25.048518",
-            "last_retested_at_epoch": 1594214472.752829,
-            "last_retested_at_iso": "2020-07-08T13:21:12.752829",
             "status": "INACTIVE"
         },
         "www.adkokurier.org": {
@@ -5710,29 +5682,29 @@
         "www.akademiamocowania.pl": {
             "included_at_epoch": 1592112655.486953,
             "included_at_iso": "2020-06-14T05:30:55.486953",
-            "last_retested_at_epoch": 1594188728.693908,
-            "last_retested_at_iso": "2020-07-08T06:12:08.693908",
+            "last_retested_at_epoch": 1594360085.553815,
+            "last_retested_at_iso": "2020-07-10T05:48:05.553815",
             "status": "INACTIVE"
         },
         "www.akademianaukowa.pl": {
             "included_at_epoch": 1593410312.139988,
             "included_at_iso": "2020-06-29T05:58:32.139988",
-            "last_retested_at_epoch": 1594188728.760943,
-            "last_retested_at_iso": "2020-07-08T06:12:08.760943",
+            "last_retested_at_epoch": 1594360085.586733,
+            "last_retested_at_iso": "2020-07-10T05:48:05.586733",
             "status": "INACTIVE"
         },
         "www.akademiasw.pl": {
             "included_at_epoch": 1592112655.524296,
             "included_at_iso": "2020-06-14T05:30:55.524296",
-            "last_retested_at_epoch": 1594188728.728635,
-            "last_retested_at_iso": "2020-07-08T06:12:08.728635",
+            "last_retested_at_epoch": 1594360085.621101,
+            "last_retested_at_iso": "2020-07-10T05:48:05.621101",
             "status": "INACTIVE"
         },
         "www.akademiazarabianiawinternecie.pl": {
             "included_at_epoch": 1593236279.099723,
             "included_at_iso": "2020-06-27T05:37:59.099723",
-            "last_retested_at_epoch": 1594188728.796028,
-            "last_retested_at_iso": "2020-07-08T06:12:08.796028",
+            "last_retested_at_epoch": 1594360085.660577,
+            "last_retested_at_iso": "2020-07-10T05:48:05.660577",
             "status": "INACTIVE"
         },
         "www.aktywacja.allegro6.pl": {
