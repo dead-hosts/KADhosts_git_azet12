@@ -9480,13 +9480,6 @@
             "last_retested_at_iso": "2020-07-16T23:23:15.454810",
             "status": "INACTIVE"
         },
-        "www.gwaltpolska.eu": {
-            "included_at_epoch": 1592563518.018494,
-            "included_at_iso": "2020-06-19T10:45:18.018494",
-            "last_retested_at_epoch": 1594963772.654778,
-            "last_retested_at_iso": "2020-07-17T05:29:32.654778",
-            "status": "INACTIVE"
-        },
         "www.gwaltwiadomosc.eu": {
             "included_at_epoch": 1594817676.927832,
             "included_at_iso": "2020-07-15T12:54:36.927832",
@@ -9933,6 +9926,13 @@
             "included_at_iso": "2020-06-29T06:15:44.613320",
             "last_retested_at_epoch": 1594941795.965264,
             "last_retested_at_iso": "2020-07-16T23:23:15.965264",
+            "status": "INACTIVE"
+        },
+        "www.incompany.com.pl": {
+            "included_at_epoch": 1594984596.717569,
+            "included_at_iso": "2020-07-17T11:16:36.717569",
+            "last_retested_at_epoch": 1594984596.717569,
+            "last_retested_at_iso": "2020-07-17T11:16:36.717569",
             "status": "INACTIVE"
         },
         "www.indiecakes.com": {
