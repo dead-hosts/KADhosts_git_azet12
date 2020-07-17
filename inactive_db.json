@@ -4041,13 +4041,6 @@
             "last_retested_at_iso": "2020-07-17T06:06:01.575926",
             "status": "INACTIVE"
         },
-        "gwaltpolska.eu": {
-            "included_at_epoch": 1592562457.58691,
-            "included_at_iso": "2020-06-19T10:27:37.586910",
-            "last_retested_at_epoch": 1594960944.800514,
-            "last_retested_at_iso": "2020-07-17T04:42:24.800514",
-            "status": "INACTIVE"
-        },
         "gwaltwiadomosc.eu": {
             "included_at_epoch": 1594815740.014056,
             "included_at_iso": "2020-07-15T12:22:20.014056",
@@ -4116,13 +4109,6 @@
             "included_at_iso": "2020-07-12T12:07:45.426980",
             "last_retested_at_epoch": 1594960946.153462,
             "last_retested_at_iso": "2020-07-17T04:42:26.153462",
-            "status": "INACTIVE"
-        },
-        "info-polska.24lite.eu": {
-            "included_at_epoch": 1592562459.141405,
-            "included_at_iso": "2020-06-19T10:27:39.141405",
-            "last_retested_at_epoch": 1594960946.464905,
-            "last_retested_at_iso": "2020-07-17T04:42:26.464905",
             "status": "INACTIVE"
         },
         "informacje-fakty.pusiaweb.com": {
@@ -4389,13 +4375,6 @@
             "included_at_iso": "2020-06-27T10:52:15.011505",
             "last_retested_at_epoch": 1594960950.136731,
             "last_retested_at_iso": "2020-07-17T04:42:30.136731",
-            "status": "INACTIVE"
-        },
-        "mail.przejrzyj-fotki.eu": {
-            "included_at_epoch": 1592562462.704642,
-            "included_at_iso": "2020-06-19T10:27:42.704642",
-            "last_retested_at_epoch": 1594960950.173755,
-            "last_retested_at_iso": "2020-07-17T04:42:30.173755",
             "status": "INACTIVE"
         },
         "mail.zdjecie-ukradzione.eu": {
@@ -4818,13 +4797,6 @@
             "last_retested_at_iso": "2020-07-16T22:36:14.294939",
             "status": "INACTIVE"
         },
-        "prl.genfotir.com": {
-            "included_at_epoch": 1592562467.044809,
-            "included_at_iso": "2020-06-19T10:27:47.044809",
-            "last_retested_at_epoch": 1594965965.887472,
-            "last_retested_at_iso": "2020-07-17T06:06:05.887472",
-            "status": "INACTIVE"
-        },
         "programrefundacji.pl": {
             "included_at_epoch": 1593246781.121008,
             "included_at_iso": "2020-06-27T08:33:01.121008",
@@ -4986,6 +4958,13 @@
             "last_retested_at_iso": "2020-07-17T02:18:18.519973",
             "status": "INACTIVE"
         },
+        "roswell47.pl": {
+            "included_at_epoch": 1594983228.826342,
+            "included_at_iso": "2020-07-17T10:53:48.826342",
+            "last_retested_at_epoch": 1594983228.826342,
+            "last_retested_at_iso": "2020-07-17T10:53:48.826342",
+            "status": "INACTIVE"
+        },
         "sandomir.pl": {
             "included_at_epoch": 1593299830.164997,
             "included_at_iso": "2020-06-27T23:17:10.164997",
@@ -5040,6 +5019,13 @@
             "included_at_iso": "2020-07-05T05:42:52.124188",
             "last_retested_at_epoch": 1594965966.99056,
             "last_retested_at_iso": "2020-07-17T06:06:06.990560",
+            "status": "INACTIVE"
+        },
+        "slubneauta.com.pl": {
+            "included_at_epoch": 1594983235.022356,
+            "included_at_iso": "2020-07-17T10:53:55.022356",
+            "last_retested_at_epoch": 1594983235.022356,
+            "last_retested_at_iso": "2020-07-17T10:53:55.022356",
             "status": "INACTIVE"
         },
         "spartakiada2014.com.pl": {
@@ -5644,6 +5630,13 @@
             "last_retested_at_iso": "2020-07-16T23:06:09.783830",
             "status": "INACTIVE"
         },
+        "www.aktywnechwile.pl": {
+            "included_at_epoch": 1594983258.654745,
+            "included_at_iso": "2020-07-17T10:54:18.654745",
+            "last_retested_at_epoch": 1594983258.654745,
+            "last_retested_at_iso": "2020-07-17T10:54:18.654745",
+            "status": "INACTIVE"
+        },
         "www.aldashoes.eu": {
             "included_at_epoch": 1593236279.190566,
             "included_at_iso": "2020-06-27T05:37:59.190566",
@@ -6230,6 +6223,13 @@
             "included_at_iso": "2020-07-02T06:09:25.479212",
             "last_retested_at_epoch": 1594965969.35158,
             "last_retested_at_iso": "2020-07-17T06:06:09.351580",
+            "status": "INACTIVE"
+        },
+        "www.biegwrzasowice.pl": {
+            "included_at_epoch": 1594983258.93116,
+            "included_at_iso": "2020-07-17T10:54:18.931160",
+            "last_retested_at_epoch": 1594983258.93116,
+            "last_retested_at_iso": "2020-07-17T10:54:18.931160",
             "status": "INACTIVE"
         },
         "www.bigdater.me": {
@@ -16025,13 +16025,6 @@
             "last_retested_at_iso": "2020-07-17T03:43:32.413734",
             "status": "INACTIVE"
         },
-        "www.warszawa-fakt.pl": {
-            "included_at_epoch": 1592561427.543999,
-            "included_at_iso": "2020-06-19T10:10:27.543999",
-            "last_retested_at_epoch": 1594959901.923225,
-            "last_retested_at_iso": "2020-07-17T04:25:01.923225",
-            "status": "INACTIVE"
-        },
         "www.warszawa-gov.pl": {
             "included_at_epoch": 1594959901.96037,
             "included_at_iso": "2020-07-17T04:25:01.960370",
@@ -16135,13 +16128,6 @@
             "included_at_iso": "2020-07-10T11:52:06.782772",
             "last_retested_at_epoch": 1594959902.220356,
             "last_retested_at_iso": "2020-07-17T04:25:02.220356",
-            "status": "INACTIVE"
-        },
-        "www.wiadomosci24-live.eu": {
-            "included_at_epoch": 1592561427.707879,
-            "included_at_iso": "2020-06-19T10:10:27.707879",
-            "last_retested_at_epoch": 1594959902.150019,
-            "last_retested_at_iso": "2020-07-17T04:25:02.150019",
             "status": "INACTIVE"
         },
         "www.wiadomoscigwalt.eu": {
