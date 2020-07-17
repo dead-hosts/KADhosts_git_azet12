@@ -3432,11 +3432,25 @@
         }
     },
     "/home/travis/build/dead-hosts/KADhosts_git_azet12/domains.list": {
+        "00x.eu": {
+            "included_at_epoch": 1594988728.807152,
+            "included_at_iso": "2020-07-17T12:25:28.807152",
+            "last_retested_at_epoch": 1594988728.807152,
+            "last_retested_at_iso": "2020-07-17T12:25:28.807152",
+            "status": "INACTIVE"
+        },
         "0e0.eu": {
             "included_at_epoch": 1593244004.770264,
             "included_at_iso": "2020-06-27T07:46:44.770264",
             "last_retested_at_epoch": 1594949504.078466,
             "last_retested_at_iso": "2020-07-17T01:31:44.078466",
+            "status": "INACTIVE"
+        },
+        "0xi.eu": {
+            "included_at_epoch": 1594988728.89792,
+            "included_at_iso": "2020-07-17T12:25:28.897920",
+            "last_retested_at_epoch": 1594988728.89792,
+            "last_retested_at_iso": "2020-07-17T12:25:28.897920",
             "status": "INACTIVE"
         },
         "15x.eu": {
@@ -3451,6 +3465,20 @@
             "included_at_iso": "2020-07-12T11:50:26.158484",
             "last_retested_at_epoch": 1594959907.728943,
             "last_retested_at_iso": "2020-07-17T04:25:07.728943",
+            "status": "INACTIVE"
+        },
+        "24lite.eu": {
+            "included_at_epoch": 1594988729.897546,
+            "included_at_iso": "2020-07-17T12:25:29.897546",
+            "last_retested_at_epoch": 1594988729.897546,
+            "last_retested_at_iso": "2020-07-17T12:25:29.897546",
+            "status": "INACTIVE"
+        },
+        "2i4.eu": {
+            "included_at_epoch": 1594988729.114416,
+            "included_at_iso": "2020-07-17T12:25:29.114416",
+            "last_retested_at_epoch": 1594988729.114416,
+            "last_retested_at_iso": "2020-07-17T12:25:29.114416",
             "status": "INACTIVE"
         },
         "acontrario.pl": {
@@ -5042,6 +5070,13 @@
             "last_retested_at_iso": "2020-07-17T02:18:23.281466",
             "status": "INACTIVE"
         },
+        "sprawdz-ogladaj.bo.pl": {
+            "included_at_epoch": 1594988727.694099,
+            "included_at_iso": "2020-07-17T12:25:27.694099",
+            "last_retested_at_epoch": 1594988727.694099,
+            "last_retested_at_iso": "2020-07-17T12:25:27.694099",
+            "status": "INACTIVE"
+        },
         "ssklep.in.net": {
             "included_at_epoch": 1593236259.271666,
             "included_at_iso": "2020-06-27T05:37:39.271666",
@@ -5642,6 +5677,13 @@
             "included_at_iso": "2020-06-27T05:37:59.190566",
             "last_retested_at_epoch": 1594940769.863886,
             "last_retested_at_iso": "2020-07-16T23:06:09.863886",
+            "status": "INACTIVE"
+        },
+        "www.ale-fotogragia.bo.pl": {
+            "included_at_epoch": 1594988728.390655,
+            "included_at_iso": "2020-07-17T12:25:28.390655",
+            "last_retested_at_epoch": 1594988728.390655,
+            "last_retested_at_iso": "2020-07-17T12:25:28.390655",
             "status": "INACTIVE"
         },
         "www.alejandravalladares.com.ve": {
@@ -14002,6 +14044,13 @@
             "last_retested_at_iso": "2020-07-17T03:26:19.129944",
             "status": "INACTIVE"
         },
+        "www.radzymin-pzw.pl": {
+            "included_at_epoch": 1594988712.434747,
+            "included_at_iso": "2020-07-17T12:25:12.434747",
+            "last_retested_at_epoch": 1594988712.434747,
+            "last_retested_at_iso": "2020-07-17T12:25:12.434747",
+            "status": "INACTIVE"
+        },
         "www.rainxpose1.live": {
             "included_at_epoch": 1593525859.558186,
             "included_at_iso": "2020-06-30T14:04:19.558186",
@@ -16744,6 +16793,13 @@
             "included_at_iso": "2020-07-10T13:38:47.028410",
             "last_retested_at_epoch": 1594965603.133252,
             "last_retested_at_iso": "2020-07-17T06:00:03.133252",
+            "status": "INACTIVE"
+        },
+        "zaadoptujstacjeladowania.com.pl": {
+            "included_at_epoch": 1594988714.820349,
+            "included_at_iso": "2020-07-17T12:25:14.820349",
+            "last_retested_at_epoch": 1594988714.820349,
+            "last_retested_at_iso": "2020-07-17T12:25:14.820349",
             "status": "INACTIVE"
         },
         "zaglosuj-dzisiaj.eu": {
