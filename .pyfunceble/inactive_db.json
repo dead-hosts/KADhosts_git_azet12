@@ -3922,13 +3922,6 @@
             "last_retested_at_iso": "2020-07-21T05:30:57.421963",
             "status": "INACTIVE"
         },
-        "fevitum.pl": {
-            "included_at_epoch": 1592950743.449335,
-            "included_at_iso": "2020-06-23T22:19:03.449335",
-            "last_retested_at_epoch": 1595331299.052928,
-            "last_retested_at_iso": "2020-07-21T11:34:59.052928",
-            "status": "INACTIVE"
-        },
         "financial-times-appp.github.io": {
             "included_at_epoch": 1593245725.380934,
             "included_at_iso": "2020-06-27T08:15:25.380934",
@@ -4375,13 +4368,6 @@
             "included_at_iso": "2020-07-17T10:18:47.356824",
             "last_retested_at_epoch": 1595331307.314292,
             "last_retested_at_iso": "2020-07-21T11:35:07.314292",
-            "status": "INACTIVE"
-        },
-        "leszekzyglowicz.pl": {
-            "included_at_epoch": 1592950768.845514,
-            "included_at_iso": "2020-06-23T22:19:28.845514",
-            "last_retested_at_epoch": 1595331309.605257,
-            "last_retested_at_iso": "2020-07-21T11:35:09.605257",
             "status": "INACTIVE"
         },
         "lexlale.eu": {
@@ -5840,6 +5826,20 @@
             "last_retested_at_iso": "2020-07-21T07:29:51.407628",
             "status": "INACTIVE"
         },
+        "www.alfabetnieruchomosci.pl": {
+            "included_at_epoch": 1595371105.095621,
+            "included_at_iso": "2020-07-21T22:38:25.095621",
+            "last_retested_at_epoch": 1595371105.095621,
+            "last_retested_at_iso": "2020-07-21T22:38:25.095621",
+            "status": "INACTIVE"
+        },
+        "www.alfasj.com.pl": {
+            "included_at_epoch": 1595371105.131734,
+            "included_at_iso": "2020-07-21T22:38:25.131734",
+            "last_retested_at_epoch": 1595371105.131734,
+            "last_retested_at_iso": "2020-07-21T22:38:25.131734",
+            "status": "INACTIVE"
+        },
         "www.alicjapaczka.org": {
             "included_at_epoch": 1592963621.827887,
             "included_at_iso": "2020-06-24T01:53:41.827887",
@@ -5957,6 +5957,13 @@
             "included_at_iso": "2020-06-27T05:55:13.192087",
             "last_retested_at_epoch": 1595310564.752199,
             "last_retested_at_iso": "2020-07-21T05:49:24.752199",
+            "status": "INACTIVE"
+        },
+        "www.amptrading.pl": {
+            "included_at_epoch": 1595371105.187145,
+            "included_at_iso": "2020-07-21T22:38:25.187145",
+            "last_retested_at_epoch": 1595371105.187145,
+            "last_retested_at_iso": "2020-07-21T22:38:25.187145",
             "status": "INACTIVE"
         },
         "www.andekkurier.org": {
