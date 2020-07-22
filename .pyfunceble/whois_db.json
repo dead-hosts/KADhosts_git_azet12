@@ -9444,6 +9444,11 @@
         "expiration_date": "01-jul-2021",
         "state": "future"
     },
+    "fb-business.net": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "state": "future"
+    },
     "fb-iq.pl": {
         "epoch": 1570320000,
         "expiration_date": "06-oct-2019",
@@ -9542,7 +9547,7 @@
     "fernanosood.info": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ferrosoft.com.pl": {
         "epoch": 1625788800.0,
@@ -12927,7 +12932,7 @@
     "hotnews24h.pl": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hotokazje.com": {
         "epoch": 1597363200,
@@ -14832,6 +14837,11 @@
     "kasiakurier.info": {
         "epoch": 1623024000.0,
         "expiration_date": "07-jun-2021",
+        "state": "future"
+    },
+    "kasiapaczka.com": {
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "kasiapaczka.org": {
