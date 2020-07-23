@@ -5849,6 +5849,11 @@
         "expiration_date": "12-jan-2021",
         "state": "future"
     },
+    "cyfrowypolsate.com": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
+    },
     "cyklongoldteam.pl": {
         "epoch": 1619136000.0,
         "expiration_date": "23-apr-2021",
@@ -9555,9 +9560,9 @@
         "state": "future"
     },
     "fernanosood.info": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
-        "state": "past"
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
     },
     "ferrosoft.com.pl": {
         "epoch": 1625788800.0,
@@ -12940,9 +12945,9 @@
         "state": "future"
     },
     "hotnews24h.pl": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
-        "state": "past"
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
     },
     "hotokazje.com": {
         "epoch": 1597363200,
@@ -13667,6 +13672,11 @@
     "inpostodkaz.net": {
         "epoch": 1618444800.0,
         "expiration_date": "15-apr-2021",
+        "state": "future"
+    },
+    "inpostpaczka.pl": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "insanepays.com": {
@@ -15822,7 +15832,7 @@
     "kszozkosz.pl": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ktdw.pl": {
         "epoch": 1617926400.0,
