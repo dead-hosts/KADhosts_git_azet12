@@ -1,15 +1,15 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 0.0,
-    "finish_datetime": "2020-07-25T10:11:08.151545",
-    "finish_timestamp": 1595671868.151545,
-    "last_download_datetime": "2020-07-25T09:57:07.457485",
-    "last_download_timestamp": 1595671027.457485,
-    "latest_part_finish_datetime": "2020-07-25T10:11:08.151545",
-    "latest_part_finish_timestamp": 1595671868.151545,
-    "latest_part_start_datetime": "2020-07-25T09:57:07.483093",
-    "latest_part_start_timestamp": 1595671027.483093,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2020-07-27T05:19:41.832837",
+    "last_download_timestamp": 1595827181.832837,
+    "latest_part_finish_datetime": "2020-07-27T05:35:59.767637",
+    "latest_part_finish_timestamp": 1595828159.767637,
+    "latest_part_start_datetime": "2020-07-27T05:19:41.861287",
+    "latest_part_start_timestamp": 1595827181.861287,
     "live_update": true,
     "name": "KADhosts_git_azet12",
     "own_management": false,
@@ -17,6 +17,6 @@
         "@azet12"
     ],
     "raw_link": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
-    "start_datetime": "2020-07-25T05:18:20.592676",
-    "start_timestamp": 1595654300.592676
+    "start_datetime": "2020-07-27T05:19:41.857629",
+    "start_timestamp": 1595827181.857629
 }
