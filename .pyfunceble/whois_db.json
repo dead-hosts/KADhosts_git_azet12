@@ -2240,9 +2240,9 @@
         "state": "past"
     },
     "atchec.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
-        "state": "past"
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "state": "future"
     },
     "atcofiles.com": {
         "epoch": 1601078400.0,
@@ -2657,6 +2657,11 @@
     "basen.biz": {
         "epoch": 1624924800.0,
         "expiration_date": "29-jun-2021",
+        "state": "future"
+    },
+    "basen.in": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "baseny-sklep.com": {
@@ -30614,6 +30619,11 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "vegas777spin.com": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
     "vegasoft.pl": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -32997,6 +33007,11 @@
     "zielonewariacje.pl": {
         "epoch": 1610582400.0,
         "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
+    "zielony-bazarek.pl": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "zielonydizajn.pl": {
