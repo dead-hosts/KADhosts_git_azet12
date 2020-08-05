@@ -3269,6 +3269,11 @@
         "expiration_date": "21-apr-2021",
         "state": "future"
     },
+    "bitcointime.xyz": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
     "bitcointodaynews.me": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
@@ -5500,8 +5505,8 @@
         "state": "future"
     },
     "coreplays.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "corezone.pl": {
@@ -6295,8 +6300,8 @@
         "state": "future"
     },
     "debki-klara.pl": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "debrznonoclegi.pl": {
@@ -8237,7 +8242,7 @@
     "efza.net": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "egazetka24.pl": {
         "epoch": 1614556800.0,
@@ -11442,6 +11447,11 @@
     "generalautoparts.pl": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
+    "generuj-kod.me": {
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "genetrk.com": {
