@@ -4635,8 +4635,8 @@
         "state": "future"
     },
     "centrumofert.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "centrumofert24.com": {
@@ -6047,7 +6047,7 @@
     "dampolznicze.pl": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "dampozyczke.pl": {
         "epoch": 1626393600.0,
@@ -9335,9 +9335,9 @@
         "state": "future"
     },
     "fajnefanty.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
-        "state": "past"
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
     },
     "fajnepiosenki.pl": {
         "epoch": 1610323200.0,
@@ -13197,7 +13197,7 @@
     "hurtmaniac.pl": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hurtowniagmf.pl": {
         "epoch": 1608854400.0,
@@ -15410,9 +15410,9 @@
         "state": "future"
     },
     "klikasz-i-masz.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
-        "state": "past"
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
     },
     "klikijuz.com": {
         "epoch": 1602979200.0,
@@ -17419,6 +17419,11 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "madum.pl": {
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "state": "future"
+    },
     "maendo.tv": {
         "epoch": 1610668800.0,
         "expiration_date": "15-jan-2021",
@@ -19360,8 +19365,8 @@
         "state": "future"
     },
     "nadzorbudowa.pl": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "nagroda-sms.pl": {
@@ -19827,7 +19832,7 @@
     "newmediaz.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "newpassporn.com": {
         "epoch": 1623888000.0,
