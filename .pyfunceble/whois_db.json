@@ -11749,6 +11749,11 @@
         "expiration_date": "13-may-2019",
         "state": "future"
     },
+    "gfxroyal.com": {
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "state": "future"
+    },
     "ggserwis.pl": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
@@ -12582,7 +12587,7 @@
     "gutfilm.pl": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gwaltmonitoring.com.pl": {
         "epoch": 1621296000.0,
@@ -17724,6 +17729,11 @@
         "expiration_date": "05-jan-2021",
         "state": "future"
     },
+    "magazyinf.net": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
+    },
     "magdalenatul.pl": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
@@ -19270,8 +19280,8 @@
         "state": "future"
     },
     "moviestarplanethackers.co": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "moviestarplanethacks.pl": {
@@ -19840,8 +19850,8 @@
         "state": "future"
     },
     "nasza-emigracja.pl": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "naszasa.pl": {
@@ -21859,9 +21869,24 @@
         "expiration_date": "28-jul-2021",
         "state": "future"
     },
+    "paczkpups.com": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "state": "future"
+    },
     "paczkwups.com": {
         "epoch": 1626912000.0,
         "expiration_date": "22-jul-2021",
+        "state": "future"
+    },
+    "paczkxups.com": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "state": "future"
+    },
+    "paczkyups.com": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "paczpocztex.com": {
@@ -22102,7 +22127,7 @@
     "patrickglobalusa.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "patrzonline.pl": {
         "epoch": 1615852800.0,
@@ -22622,6 +22647,11 @@
     "pl-nadaj.online": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
+        "state": "future"
+    },
+    "pl-offerta.pro": {
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "pl-pl-fb.com": {
