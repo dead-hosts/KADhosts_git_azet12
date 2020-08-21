@@ -13327,7 +13327,7 @@
     "hotnews24h.pl": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hotokazje.com": {
         "epoch": 1597363200,
@@ -14412,7 +14412,7 @@
     "iptivicini.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ipzd.pl": {
         "epoch": 1628467200.0,
@@ -15400,8 +15400,8 @@
         "state": "future"
     },
     "keikomimura.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "kekuko.com": {
@@ -19909,6 +19909,11 @@
         "expiration_date": "17-may-2021",
         "state": "future"
     },
+    "naszpolskiswiat.site": {
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
+    },
     "naszregion24.pl": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
@@ -19922,7 +19927,7 @@
     "nataliaporwana.biz": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "natematprawa.pl": {
         "epoch": 1607990400.0,
@@ -22150,9 +22155,9 @@
         "state": "future"
     },
     "patrickglobalusa.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
-        "state": "past"
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
     },
     "patrzonline.pl": {
         "epoch": 1615852800.0,
@@ -22652,6 +22657,11 @@
     "pksbialapodlaska.pl": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "pl-express.fun": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "pl-fb.business": {
