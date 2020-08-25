@@ -14194,6 +14194,11 @@
         "expiration_date": "08-jun-2021",
         "state": "future"
     },
+    "inpost-serwisinternetowy.com": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "state": "future"
+    },
     "inpost.club": {
         "epoch": 1625011200.0,
         "expiration_date": "30-jun-2021",
@@ -20084,6 +20089,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "naszapolskaa.online": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "state": "future"
+    },
     "naszasa.pl": {
         "epoch": 1560038400,
         "expiration_date": "09-jun-2019",
@@ -20282,7 +20292,7 @@
     "nekkel.pl": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "nekstra.com": {
         "epoch": 1608163200.0,
