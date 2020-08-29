@@ -592,6 +592,7 @@
     "adidas-collection.club": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "adidas-polska.com": {
@@ -917,6 +918,7 @@
     "ailegro.pl.ua": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
+        "server": "whois.ua",
         "state": "past"
     },
     "aintnothingtoit.com": {
@@ -3261,6 +3263,7 @@
     "bikelovers.blog.br": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
+        "server": "whois.registro.br",
         "state": "past"
     },
     "biletka.pl": {
@@ -33946,7 +33949,8 @@
     "zawijawa.pl": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "zazynek.pl": {
         "epoch": 1597104000.0,
@@ -34376,7 +34380,8 @@
     "zskleczany.pl": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "zsniemce.pl": {
         "epoch": 1604102400.0,
