@@ -3667,9 +3667,10 @@
         "state": "future"
     },
     "bondbengals.info": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
     },
     "bonnisi.com": {
         "epoch": 1600300800.0,
@@ -6906,6 +6907,12 @@
     "dlaogrodu.com": {
         "epoch": 1625875200.0,
         "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
+    "dlaogrodu.live": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.nic.live",
         "state": "future"
     },
     "dlaturystow.com.pl": {
@@ -11156,6 +11163,7 @@
     "freesamsung.club": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "freetapety.pl": {
@@ -12691,6 +12699,12 @@
     "grille.biz": {
         "epoch": 1626480000.0,
         "expiration_date": "17-jul-2021",
+        "state": "future"
+    },
+    "grille.live": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.live",
         "state": "future"
     },
     "grnpower.io": {
@@ -14454,8 +14468,9 @@
         "state": "future"
     },
     "interpathlaboratories.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "inteza.pl": {
@@ -20109,6 +20124,12 @@
         "expiration_date": "15-feb-2021",
         "state": "future"
     },
+    "narzedzia.live": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
     "narzedziareczne.com.pl": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
@@ -20217,6 +20238,7 @@
     "nataliaporwana.biz": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
+        "server": "whois.nic.biz",
         "state": "past"
     },
     "natematprawa.pl": {
@@ -20484,6 +20506,7 @@
     "newsfeed24h.co.uk": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
+        "server": "whois.nic.uk",
         "state": "past"
     },
     "newsgwalt.com.pl": {
@@ -21551,6 +21574,12 @@
         "expiration_date": "27-aug-2021",
         "state": "future"
     },
+    "online-platnosc.website": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.website",
+        "state": "future"
+    },
     "online-platnosci.services": {
         "epoch": 1617840000.0,
         "expiration_date": "08-apr-2021",
@@ -21604,6 +21633,12 @@
     "onlineprzelew.site": {
         "epoch": 1629936000.0,
         "expiration_date": "26-aug-2021",
+        "state": "future"
+    },
+    "onlineprzelew.space": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.space",
         "state": "future"
     },
     "onlinerekruter.com": {
@@ -21747,8 +21782,9 @@
         "state": "future"
     },
     "oplac24.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oplaca-sie.pl": {
@@ -22827,6 +22863,12 @@
         "expiration_date": "10-jan-2021",
         "state": "future"
     },
+    "pib7bocaiuvadosul.com.br": {
+        "epoch": 1766966400.0,
+        "expiration_date": "29-dec-2025",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
     "piechnik.com.pl": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
@@ -23405,6 +23447,12 @@
     "pobeiranie.pl": {
         "epoch": 1559952000,
         "expiration_date": "08-jun-2019",
+        "state": "future"
+    },
+    "pobieracz.com.pl": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pobieralnia.com.pl": {
