@@ -11419,6 +11419,12 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "fxpb.us": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "server": "whois.nic.us",
+        "state": "future"
+    },
     "g2afse.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
@@ -12776,8 +12782,9 @@
         "state": "future"
     },
     "grybow24.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gryfkietrz.pl": {
@@ -15702,8 +15709,9 @@
         "state": "future"
     },
     "ketabnema.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ketorecipeslchf.site": {
@@ -19579,6 +19587,12 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "moviemediaz.com": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "movienet.pl": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
@@ -23201,6 +23215,12 @@
         "expiration_date": "10-apr-2021",
         "state": "future"
     },
+    "platnosc-online.website": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.website",
+        "state": "future"
+    },
     "platnosc-payu.pl": {
         "epoch": 1629417600.0,
         "expiration_date": "20-aug-2021",
@@ -24928,6 +24948,18 @@
     "pryzma.com.pl": {
         "epoch": 1616889600.0,
         "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "przechowalnia.net": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "przechowanie.net": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "przechwycone-zdjecia.pl": {
@@ -29131,8 +29163,9 @@
         "state": "future"
     },
     "swiatfilmikow.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "swiatgierlubin.pl": {
@@ -31773,7 +31806,8 @@
     "uzytecznie.pl": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "v21.pl": {
         "epoch": "1558137600",
@@ -32237,6 +32271,12 @@
         "expiration_date": "23-feb-2021",
         "state": "future"
     },
+    "vodfilm.pl": {
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "vodfilmy.pl": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
@@ -32476,6 +32516,12 @@
     "wardon.pl": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "wareziak.pl": {
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "warsawhardcore.pl": {
