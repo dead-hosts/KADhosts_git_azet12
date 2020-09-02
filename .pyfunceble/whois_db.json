@@ -12939,7 +12939,8 @@
     "hablabestop.live": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "server": "whois.nic.live",
+        "state": "past"
     },
     "hackerbot.net": {
         "epoch": 1612396800.0,
@@ -14407,6 +14408,12 @@
         "expiration_date": "21-apr-2019",
         "state": "future"
     },
+    "instagramrule.com": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "instantdownloadsz.com": {
         "epoch": 1596844800,
         "expiration_date": "08-aug-2020",
@@ -14475,6 +14482,12 @@
     "intergsm.pl": {
         "epoch": 1623196800.0,
         "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
+    "interia-poczta.email": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.nic.email",
         "state": "future"
     },
     "interia-token.pl": {
@@ -15535,8 +15548,9 @@
         "state": "future"
     },
     "karenshealthfoods.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "karokorale.pl": {
@@ -21423,6 +21437,18 @@
         "expiration_date": "22-may-2021",
         "state": "future"
     },
+    "ogloszenie-elektronika.host": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.host",
+        "state": "future"
+    },
+    "ogloszenie-elektronika.online": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
     "ogloszenie.best": {
         "epoch": 1616544000.0,
         "expiration_date": "24-mar-2021",
@@ -21431,6 +21457,18 @@
     "ogloszenie.space": {
         "epoch": 1616630400.0,
         "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "oglosznie-elektroniczne.host": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.host",
+        "state": "future"
+    },
+    "oglosznie-elektroniczne.store": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.store",
         "state": "future"
     },
     "oglosznie-elektroniczne.tech": {
@@ -21707,6 +21745,12 @@
     "onlineogladaj.pl": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "onlineprzelew.online": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "onlineprzelew.site": {
@@ -24002,6 +24046,12 @@
         "expiration_date": "22-jul-2021",
         "state": "future"
     },
+    "polska-dzisiaj1.cyou": {
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.nic.cyou",
+        "state": "future"
+    },
     "polska-gazeta-dnia.pl": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -25001,6 +25051,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "przechowalnie.net": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "przechowanie.net": {
         "epoch": 1630195200.0,
         "expiration_date": "29-aug-2021",
@@ -25056,6 +25112,12 @@
         "epoch": 1630022400.0,
         "expiration_date": "27-aug-2021",
         "server": "whois.nic.site",
+        "state": "future"
+    },
+    "przelewonline.website": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.website",
         "state": "future"
     },
     "przelicznikczasufb.pl": {
@@ -25246,7 +25308,8 @@
     "puls-sukcesu.net": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "pulsbiznesu.xyz": {
         "epoch": 1603756800.0,
@@ -28283,8 +28346,9 @@
         "state": "future"
     },
     "speedfile.info": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "speedy.com.pl": {
@@ -28423,8 +28487,9 @@
         "state": "future"
     },
     "sportplus.pro": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "sportsklep.com.pl": {
@@ -30845,6 +30910,12 @@
     "tradeit.cash": {
         "epoch": 1600473600,
         "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "traderschain.com": {
+        "epoch": 1651017600.0,
+        "expiration_date": "27-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tradezone247.com": {
