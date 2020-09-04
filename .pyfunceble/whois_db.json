@@ -4588,7 +4588,8 @@
     "catzell.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "cavotel.com": {
         "epoch": 1605916800.0,
@@ -6252,7 +6253,8 @@
     "dampolznicze.pl": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "dampozyczke.pl": {
         "epoch": 1626393600.0,
@@ -6665,8 +6667,9 @@
         "state": "future"
     },
     "desu4family.com.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "deszczysko.pl": {
@@ -8167,7 +8170,8 @@
     "e-udanezakupy.pl": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "e-wiadomosci24.com.pl": {
         "epoch": 1626393600.0,
@@ -13685,7 +13689,8 @@
     "hurtmaniac.pl": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "hurtowniagmf.pl": {
         "epoch": 1608854400.0,
@@ -15523,8 +15528,9 @@
         "state": "future"
     },
     "karatbars.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "karateinfo.pl": {
@@ -15654,8 +15660,9 @@
         "state": "future"
     },
     "katel.com.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "kayastylowetorebki.pl": {
@@ -17797,6 +17804,12 @@
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
+    "lovett5.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "lowcyokazji.net": {
         "epoch": "1585180800",
         "expiration_date": "26-mar-2020",
@@ -18343,10 +18356,10 @@
         "state": "future"
     },
     "marsonic.pl": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "martaszafraniec.pl": {
         "epoch": 1604707200.0,
@@ -18978,8 +18991,9 @@
         "state": "future"
     },
     "mieszkania-pokoje-wynajem.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mieszkanie-bochnia.pl": {
@@ -20507,7 +20521,8 @@
     "neopozyczki.pl": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "neos.com.pl": {
         "epoch": 1617667200.0,
@@ -24326,7 +24341,8 @@
     "porumar.pl": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "porvitto.com": {
         "epoch": 1621036800.0,
