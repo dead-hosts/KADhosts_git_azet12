@@ -5784,13 +5784,6 @@
             "last_retested_at_iso": "2020-09-02T06:19:45.116741",
             "status": "INACTIVE"
         },
-        "t21.pl": {
-            "included_at_epoch": 1596780965.655007,
-            "included_at_iso": "2020-08-07T06:16:05.655007",
-            "last_retested_at_epoch": 1598528303.165376,
-            "last_retested_at_iso": "2020-08-27T11:38:23.165376",
-            "status": "INACTIVE"
-        },
         "tangozwabrzycha.pl": {
             "included_at_epoch": 1597126580.73204,
             "included_at_iso": "2020-08-11T06:16:20.732040",
@@ -6293,13 +6286,6 @@
             "included_at_iso": "2020-08-25T09:51:13.207635",
             "last_retested_at_epoch": 1598523896.224117,
             "last_retested_at_iso": "2020-08-27T10:24:56.224117",
-            "status": "INACTIVE"
-        },
-        "www.a0copyplot.pl": {
-            "included_at_epoch": 1596780979.626033,
-            "included_at_iso": "2020-08-07T06:16:19.626033",
-            "last_retested_at_epoch": 1598528308.722655,
-            "last_retested_at_iso": "2020-08-27T11:38:28.722655",
             "status": "INACTIVE"
         },
         "www.a2plvcpnl308307.prod.iad2.secureserver.net": {
@@ -6923,13 +6909,6 @@
             "included_at_iso": "2020-08-25T10:52:21.975350",
             "last_retested_at_epoch": 1598526039.183878,
             "last_retested_at_iso": "2020-08-27T11:00:39.183878",
-            "status": "INACTIVE"
-        },
-        "www.apartamentytoday.pl": {
-            "included_at_epoch": 1596780980.352525,
-            "included_at_iso": "2020-08-07T06:16:20.352525",
-            "last_retested_at_epoch": 1598508574.472682,
-            "last_retested_at_iso": "2020-08-27T06:09:34.472682",
             "status": "INACTIVE"
         },
         "www.apartamentywhiszpanii.com.pl": {
@@ -14142,6 +14121,13 @@
             "last_retested_at_iso": "2020-08-27T07:07:28.951488",
             "status": "INACTIVE"
         },
+        "www.ninawertz.pl": {
+            "included_at_epoch": 1599202045.968794,
+            "included_at_iso": "2020-09-04T06:47:25.968794",
+            "last_retested_at_epoch": 1599202045.968794,
+            "last_retested_at_iso": "2020-09-04T06:47:25.968794",
+            "status": "INACTIVE"
+        },
         "www.ninjavpn.xyz": {
             "included_at_epoch": 1598002344.381845,
             "included_at_iso": "2020-08-21T09:32:24.381845",
@@ -16928,6 +16914,13 @@
             "last_retested_at_iso": "2020-08-31T06:43:51.462768",
             "status": "INACTIVE"
         },
+        "www.sklepcolumbia.com": {
+            "included_at_epoch": 1599202047.020971,
+            "included_at_iso": "2020-09-04T06:47:27.020971",
+            "last_retested_at_epoch": 1599202047.020971,
+            "last_retested_at_iso": "2020-09-04T06:47:27.020971",
+            "status": "INACTIVE"
+        },
         "www.sklepcolumbia.pl": {
             "included_at_epoch": 1598513075.058867,
             "included_at_iso": "2020-08-27T07:24:35.058867",
@@ -17192,6 +17185,13 @@
             "included_at_iso": "2020-08-07T09:33:43.470650",
             "last_retested_at_epoch": 1598528306.83351,
             "last_retested_at_iso": "2020-08-27T11:38:26.833510",
+            "status": "INACTIVE"
+        },
+        "www.starc.se": {
+            "included_at_epoch": 1599202047.287137,
+            "included_at_iso": "2020-09-04T06:47:27.287137",
+            "last_retested_at_epoch": 1599202047.287137,
+            "last_retested_at_iso": "2020-09-04T06:47:27.287137",
             "status": "INACTIVE"
         },
         "www.starsystem.fit": {
