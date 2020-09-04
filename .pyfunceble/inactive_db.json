@@ -4832,13 +4832,6 @@
             "last_retested_at_iso": "2020-08-27T08:51:25.629736",
             "status": "INACTIVE"
         },
-        "lubaczowcity.pl": {
-            "included_at_epoch": 1596778838.863449,
-            "included_at_iso": "2020-08-07T05:40:38.863449",
-            "last_retested_at_epoch": 1598528306.966287,
-            "last_retested_at_iso": "2020-08-27T11:38:26.966287",
-            "status": "INACTIVE"
-        },
         "madl-len.pl": {
             "included_at_epoch": 1598680268.940592,
             "included_at_iso": "2020-08-29T05:51:08.940592",
@@ -4928,13 +4921,6 @@
             "included_at_iso": "2020-09-04T05:54:34.878237",
             "last_retested_at_epoch": 1599198874.878237,
             "last_retested_at_iso": "2020-09-04T05:54:34.878237",
-            "status": "INACTIVE"
-        },
-        "medios.in.net": {
-            "included_at_epoch": 1596778843.62243,
-            "included_at_iso": "2020-08-07T05:40:43.622430",
-            "last_retested_at_epoch": 1598528309.644772,
-            "last_retested_at_iso": "2020-08-27T11:38:29.644772",
             "status": "INACTIVE"
         },
         "megachiny.eu": {
@@ -6349,6 +6335,13 @@
             "included_at_iso": "2020-08-29T07:57:48.292483",
             "last_retested_at_epoch": 1598687868.292483,
             "last_retested_at_iso": "2020-08-29T07:57:48.292483",
+            "status": "INACTIVE"
+        },
+        "www.accreconsult.pl": {
+            "included_at_epoch": 1599199911.049409,
+            "included_at_iso": "2020-09-04T06:11:51.049409",
+            "last_retested_at_epoch": 1599199911.049409,
+            "last_retested_at_iso": "2020-09-04T06:11:51.049409",
             "status": "INACTIVE"
         },
         "www.ace.jamba.pl": {
@@ -8367,6 +8360,13 @@
             "last_retested_at_iso": "2020-08-27T08:16:10.624472",
             "status": "INACTIVE"
         },
+        "www.dampolznicze.pl": {
+            "included_at_epoch": 1599199911.673623,
+            "included_at_iso": "2020-09-04T06:11:51.673623",
+            "last_retested_at_epoch": 1599199911.673623,
+            "last_retested_at_iso": "2020-09-04T06:11:51.673623",
+            "status": "INACTIVE"
+        },
         "www.dates-here-now22.com": {
             "included_at_epoch": 1598354260.87175,
             "included_at_iso": "2020-08-25T11:17:40.871750",
@@ -8442,6 +8442,13 @@
             "included_at_iso": "2020-08-09T09:28:31.014187",
             "last_retested_at_epoch": 1598519368.633766,
             "last_retested_at_iso": "2020-08-27T09:09:28.633766",
+            "status": "INACTIVE"
+        },
+        "www.desu4family.com.pl": {
+            "included_at_epoch": 1599199911.786029,
+            "included_at_iso": "2020-09-04T06:11:51.786029",
+            "last_retested_at_epoch": 1599199911.786029,
+            "last_retested_at_iso": "2020-09-04T06:11:51.786029",
             "status": "INACTIVE"
         },
         "www.deszczysko.pl": {

@@ -26034,8 +26034,9 @@
         "state": "future"
     },
     "reebokfurylite.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "reeboknpcii.pl": {
@@ -28644,8 +28645,9 @@
         "state": "future"
     },
     "ssman.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "sso-ideabank.com": {
@@ -29330,8 +29332,9 @@
         "state": "future"
     },
     "swietna-pozyczka.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "swietokrzyskieter.pl": {
@@ -33176,6 +33179,12 @@
         "expiration_date": "17-dec-2020",
         "state": "future"
     },
+    "witaminazadarmo.pl": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "witnatura.pl": {
         "epoch": 1705190400.0,
         "expiration_date": "14-jan-2024",
@@ -33409,7 +33418,8 @@
     "wraplo.pl": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "wrig.pl": {
         "epoch": 1640908800.0,
