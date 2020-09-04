@@ -8682,13 +8682,6 @@
             "last_retested_at_iso": "2020-08-27T09:09:28.871051",
             "status": "INACTIVE"
         },
-        "www.ditds.xyz": {
-            "included_at_epoch": 1596788161.025138,
-            "included_at_iso": "2020-08-07T08:16:01.025138",
-            "last_retested_at_epoch": 1598528309.467848,
-            "last_retested_at_iso": "2020-08-27T11:38:29.467848",
-            "status": "INACTIVE"
-        },
         "www.dizziesquest.xyz": {
             "included_at_epoch": 1598347000.371361,
             "included_at_iso": "2020-08-25T09:16:40.371361",
@@ -9464,6 +9457,13 @@
             "included_at_iso": "2020-08-09T11:27:21.026244",
             "last_retested_at_epoch": 1598527076.668251,
             "last_retested_at_iso": "2020-08-27T11:17:56.668251",
+            "status": "INACTIVE"
+        },
+        "www.emonitoring-poczta48.net": {
+            "included_at_epoch": 1599207773.603731,
+            "included_at_iso": "2020-09-04T08:22:53.603731",
+            "last_retested_at_epoch": 1599207773.603731,
+            "last_retested_at_iso": "2020-09-04T08:22:53.603731",
             "status": "INACTIVE"
         },
         "www.emonitoring-pocztapolska.eu": {
@@ -11900,6 +11900,13 @@
             "included_at_iso": "2020-08-29T07:57:51.379054",
             "last_retested_at_epoch": 1598687871.379054,
             "last_retested_at_iso": "2020-08-29T07:57:51.379054",
+            "status": "INACTIVE"
+        },
+        "www.inpost.generuj-kod.me": {
+            "included_at_epoch": 1599207774.169779,
+            "included_at_iso": "2020-09-04T08:22:54.169779",
+            "last_retested_at_epoch": 1599207774.169779,
+            "last_retested_at_iso": "2020-09-04T08:22:54.169779",
             "status": "INACTIVE"
         },
         "www.inpost.help": {
@@ -14546,6 +14553,13 @@
             "included_at_iso": "2020-08-25T07:08:40.969019",
             "last_retested_at_epoch": 1598512049.223817,
             "last_retested_at_iso": "2020-08-27T07:07:29.223817",
+            "status": "INACTIVE"
+        },
+        "www.o2.nowy-regulamin.pl": {
+            "included_at_epoch": 1599207774.327693,
+            "included_at_iso": "2020-09-04T08:22:54.327693",
+            "last_retested_at_epoch": 1599207774.327693,
+            "last_retested_at_iso": "2020-09-04T08:22:54.327693",
             "status": "INACTIVE"
         },
         "www.o2.regulamin-poczty.net": {
@@ -19754,6 +19768,13 @@
             "included_at_iso": "2020-09-04T08:18:42.621672",
             "last_retested_at_epoch": 1599207522.621672,
             "last_retested_at_iso": "2020-09-04T08:18:42.621672",
+            "status": "INACTIVE"
+        },
+        "www.xn--faktygwat-xub.eu": {
+            "included_at_epoch": 1599207774.62057,
+            "included_at_iso": "2020-09-04T08:22:54.620570",
+            "last_retested_at_epoch": 1599207774.62057,
+            "last_retested_at_iso": "2020-09-04T08:22:54.620570",
             "status": "INACTIVE"
         },
         "www.xn--onetgwat-dpb.eu": {
