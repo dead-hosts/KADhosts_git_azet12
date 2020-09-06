@@ -3754,13 +3754,6 @@
             "last_retested_at_iso": "2020-08-27T10:43:05.335045",
             "status": "INACTIVE"
         },
-        "bnpparibas-login.at": {
-            "included_at_epoch": 1596961134.603361,
-            "included_at_iso": "2020-08-09T08:18:54.603361",
-            "last_retested_at_epoch": 1598517211.46847,
-            "last_retested_at_iso": "2020-08-27T08:33:31.468470",
-            "status": "INACTIVE"
-        },
         "bnpparibas-logowanie.at": {
             "included_at_epoch": 1597825002.59194,
             "included_at_iso": "2020-08-19T08:16:42.591940",
@@ -3880,13 +3873,6 @@
             "last_retested_at_iso": "2020-08-27T05:50:35.953046",
             "status": "INACTIVE"
         },
-        "destgrena.at": {
-            "included_at_epoch": 1596961141.791557,
-            "included_at_iso": "2020-08-09T08:19:01.791557",
-            "last_retested_at_epoch": 1598517219.206303,
-            "last_retested_at_iso": "2020-08-27T08:33:39.206303",
-            "status": "INACTIVE"
-        },
         "dhl-paczka.eu": {
             "included_at_epoch": 1598342744.670948,
             "included_at_iso": "2020-08-25T08:05:44.670948",
@@ -3920,6 +3906,13 @@
             "included_at_iso": "2020-08-31T07:19:26.128279",
             "last_retested_at_epoch": 1598858366.128279,
             "last_retested_at_iso": "2020-08-31T07:19:26.128279",
+            "status": "INACTIVE"
+        },
+        "dotpay.emonitoring-pocztapolska.eu": {
+            "included_at_epoch": 1599381811.240835,
+            "included_at_iso": "2020-09-06T08:43:31.240835",
+            "last_retested_at_epoch": 1599381811.240835,
+            "last_retested_at_iso": "2020-09-06T08:43:31.240835",
             "status": "INACTIVE"
         },
         "dotpay.pocztexpolska.eu": {
@@ -4062,6 +4055,13 @@
             "last_retested_at_iso": "2020-08-29T05:51:07.695646",
             "status": "INACTIVE"
         },
+        "efaktygwalt.eu": {
+            "included_at_epoch": 1599381811.41172,
+            "included_at_iso": "2020-09-06T08:43:31.411720",
+            "last_retested_at_epoch": 1599381811.41172,
+            "last_retested_at_iso": "2020-09-06T08:43:31.411720",
+            "status": "INACTIVE"
+        },
         "elektronicze-poszukiwania.eu": {
             "included_at_epoch": 1599204210.076287,
             "included_at_iso": "2020-09-04T07:23:30.076287",
@@ -4088,6 +4088,13 @@
             "included_at_iso": "2020-08-31T08:14:15.018524",
             "last_retested_at_epoch": 1598861655.018524,
             "last_retested_at_iso": "2020-08-31T08:14:15.018524",
+            "status": "INACTIVE"
+        },
+        "emonitoring-pocztapolska.eu": {
+            "included_at_epoch": 1599381811.505478,
+            "included_at_iso": "2020-09-06T08:43:31.505478",
+            "last_retested_at_epoch": 1599381811.505478,
+            "last_retested_at_iso": "2020-09-06T08:43:31.505478",
             "status": "INACTIVE"
         },
         "emonitoring.poczta-polska2.pl": {
@@ -9522,6 +9529,13 @@
             "last_retested_at_iso": "2020-08-27T10:24:58.183537",
             "status": "INACTIVE"
         },
+        "www.emonitoring-epocztapolska.net": {
+            "included_at_epoch": 1599381816.481943,
+            "included_at_iso": "2020-09-06T08:43:36.481943",
+            "last_retested_at_epoch": 1599381816.481943,
+            "last_retested_at_iso": "2020-09-06T08:43:36.481943",
+            "status": "INACTIVE"
+        },
         "www.emonitoring-poczta-polska.eu": {
             "included_at_epoch": 1598861960.733065,
             "included_at_iso": "2020-08-31T08:19:20.733065",
@@ -9954,6 +9968,13 @@
             "included_at_iso": "2020-08-27T09:41:50.575310",
             "last_retested_at_epoch": 1598521310.57531,
             "last_retested_at_iso": "2020-08-27T09:41:50.575310",
+            "status": "INACTIVE"
+        },
+        "www.exchange.dgtmarket.com": {
+            "included_at_epoch": 1599381815.48782,
+            "included_at_iso": "2020-09-06T08:43:35.487820",
+            "last_retested_at_epoch": 1599381815.48782,
+            "last_retested_at_iso": "2020-09-06T08:43:35.487820",
             "status": "INACTIVE"
         },
         "www.exclusiveinsiders.com": {
@@ -13792,13 +13813,6 @@
             "last_retested_at_iso": "2020-09-04T06:30:22.282959",
             "status": "INACTIVE"
         },
-        "www.meetonlyhot.com": {
-            "included_at_epoch": 1596961119.308746,
-            "included_at_iso": "2020-08-09T08:18:39.308746",
-            "last_retested_at_epoch": 1598516166.083469,
-            "last_retested_at_iso": "2020-08-27T08:16:06.083469",
-            "status": "INACTIVE"
-        },
         "www.megabonus-point3.life": {
             "included_at_epoch": 1598008007.940948,
             "included_at_iso": "2020-08-21T11:06:47.940948",
@@ -13995,6 +14009,13 @@
             "last_retested_at_iso": "2020-08-27T08:16:10.817017",
             "status": "INACTIVE"
         },
+        "www.mobpocztapolska.net": {
+            "included_at_epoch": 1599381815.659893,
+            "included_at_iso": "2020-09-06T08:43:35.659893",
+            "last_retested_at_epoch": 1599381815.659893,
+            "last_retested_at_iso": "2020-09-06T08:43:35.659893",
+            "status": "INACTIVE"
+        },
         "www.mobsfun.com": {
             "included_at_epoch": 1598002343.34121,
             "included_at_iso": "2020-08-21T09:32:23.341210",
@@ -14056,6 +14077,20 @@
             "included_at_iso": "2020-08-09T11:27:23.062600",
             "last_retested_at_epoch": 1598528065.399922,
             "last_retested_at_iso": "2020-08-27T11:34:25.399922",
+            "status": "INACTIVE"
+        },
+        "www.monitor-ppocztapolska.net": {
+            "included_at_epoch": 1599381817.135062,
+            "included_at_iso": "2020-09-06T08:43:37.135062",
+            "last_retested_at_epoch": 1599381817.135062,
+            "last_retested_at_iso": "2020-09-06T08:43:37.135062",
+            "status": "INACTIVE"
+        },
+        "www.monitoring-epocztapolska.net": {
+            "included_at_epoch": 1599381817.090754,
+            "included_at_iso": "2020-09-06T08:43:37.090754",
+            "last_retested_at_epoch": 1599381817.090754,
+            "last_retested_at_iso": "2020-09-06T08:43:37.090754",
             "status": "INACTIVE"
         },
         "www.monitoring-pocztapolska.net": {
@@ -15171,6 +15206,20 @@
             "last_retested_at_iso": "2020-08-27T10:07:33.087848",
             "status": "INACTIVE"
         },
+        "www.paczpocztex.com": {
+            "included_at_epoch": 1599381815.725967,
+            "included_at_iso": "2020-09-06T08:43:35.725967",
+            "last_retested_at_epoch": 1599381815.725967,
+            "last_retested_at_iso": "2020-09-06T08:43:35.725967",
+            "status": "INACTIVE"
+        },
+        "www.paczpocztex.online": {
+            "included_at_epoch": 1599381815.770054,
+            "included_at_iso": "2020-09-06T08:43:35.770054",
+            "last_retested_at_epoch": 1599381815.770054,
+            "last_retested_at_iso": "2020-09-06T08:43:35.770054",
+            "status": "INACTIVE"
+        },
         "www.paifemouchoa.com": {
             "included_at_epoch": 1598166865.856799,
             "included_at_iso": "2020-08-23T07:14:25.856799",
@@ -15848,6 +15897,13 @@
             "included_at_iso": "2020-08-27T11:34:26.575274",
             "last_retested_at_epoch": 1598528066.575274,
             "last_retested_at_iso": "2020-08-27T11:34:26.575274",
+            "status": "INACTIVE"
+        },
+        "www.pocztexonline24.net": {
+            "included_at_epoch": 1599381815.85171,
+            "included_at_iso": "2020-09-06T08:43:35.851710",
+            "last_retested_at_epoch": 1599381815.85171,
+            "last_retested_at_iso": "2020-09-06T08:43:35.851710",
             "status": "INACTIVE"
         },
         "www.pocztexpolska.com": {
@@ -17761,6 +17817,13 @@
             "last_retested_at_iso": "2020-08-27T07:24:35.828241",
             "status": "INACTIVE"
         },
+        "www.steney.holylamaoffers.com": {
+            "included_at_epoch": 1599381815.985384,
+            "included_at_iso": "2020-09-06T08:43:35.985384",
+            "last_retested_at_epoch": 1599381815.985384,
+            "last_retested_at_iso": "2020-09-06T08:43:35.985384",
+            "status": "INACTIVE"
+        },
         "www.stenplus.onewaywinner.com": {
             "included_at_epoch": 1598340340.448636,
             "included_at_iso": "2020-08-25T07:25:40.448636",
@@ -18895,6 +18958,13 @@
             "last_retested_at_iso": "2020-08-27T10:07:40.075367",
             "status": "INACTIVE"
         },
+        "www.twentynow.aintnothingtoit.com": {
+            "included_at_epoch": 1599381816.036473,
+            "included_at_iso": "2020-09-06T08:43:36.036473",
+            "last_retested_at_epoch": 1599381816.036473,
+            "last_retested_at_iso": "2020-09-06T08:43:36.036473",
+            "status": "INACTIVE"
+        },
         "www.twoj-inpost.com": {
             "included_at_epoch": 1597833096.052279,
             "included_at_iso": "2020-08-19T10:31:36.052279",
@@ -19775,6 +19845,13 @@
             "included_at_iso": "2020-08-25T11:25:04.308017",
             "last_retested_at_epoch": 1598528067.310834,
             "last_retested_at_iso": "2020-08-27T11:34:27.310834",
+            "status": "INACTIVE"
+        },
+        "www.ww7.openwrt.com": {
+            "included_at_epoch": 1599381816.124761,
+            "included_at_iso": "2020-09-06T08:43:36.124761",
+            "last_retested_at_epoch": 1599381816.124761,
+            "last_retested_at_iso": "2020-09-06T08:43:36.124761",
             "status": "INACTIVE"
         },
         "www.wwa-informacje.co.pl": {
