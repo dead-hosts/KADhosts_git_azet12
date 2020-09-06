@@ -285,8 +285,9 @@
         "state": "future"
     },
     "59055.cn": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "59fifty.pl": {
@@ -322,6 +323,12 @@
     "7218.pl": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
+    "777marketer.cyou": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.nic.cyou",
         "state": "future"
     },
     "7dot.cn": {
@@ -3399,8 +3406,9 @@
         "state": "future"
     },
     "bitcoins-profit.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bitcointime.biz": {
@@ -33570,8 +33578,9 @@
         "state": "future"
     },
     "wtmtrack.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wuus.org.cn": {
@@ -34175,7 +34184,8 @@
     "zakupyagd.net": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "zakupymax.net": {
         "epoch": 1579996800.0,
