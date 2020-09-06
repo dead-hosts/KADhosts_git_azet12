@@ -4104,6 +4104,13 @@
             "last_retested_at_iso": "2020-08-27T08:33:45.316617",
             "status": "INACTIVE"
         },
+        "enpgnig.pl": {
+            "included_at_epoch": 1599379114.916379,
+            "included_at_iso": "2020-09-06T07:58:34.916379",
+            "last_retested_at_epoch": 1599379114.916379,
+            "last_retested_at_iso": "2020-09-06T07:58:34.916379",
+            "status": "INACTIVE"
+        },
         "entropia.net.pl": {
             "included_at_epoch": 1598161724.517511,
             "included_at_iso": "2020-08-23T05:48:44.517511",
@@ -4895,6 +4902,13 @@
             "last_retested_at_iso": "2020-08-31T07:36:38.084782",
             "status": "INACTIVE"
         },
+        "logowanie-paribas.at": {
+            "included_at_epoch": 1599379118.123544,
+            "included_at_iso": "2020-09-06T07:58:38.123544",
+            "last_retested_at_epoch": 1599379118.123544,
+            "last_retested_at_iso": "2020-09-06T07:58:38.123544",
+            "status": "INACTIVE"
+        },
         "lp24.eu": {
             "included_at_epoch": 1597480601.178558,
             "included_at_iso": "2020-08-15T08:36:41.178558",
@@ -5315,11 +5329,39 @@
             "last_retested_at_iso": "2020-08-27T11:00:28.930351",
             "status": "INACTIVE"
         },
+        "paribas-biznes-planet.at": {
+            "included_at_epoch": 1599379120.091968,
+            "included_at_iso": "2020-09-06T07:58:40.091968",
+            "last_retested_at_epoch": 1599379120.091968,
+            "last_retested_at_iso": "2020-09-06T07:58:40.091968",
+            "status": "INACTIVE"
+        },
         "paribas-online.at": {
             "included_at_epoch": 1597135568.497187,
             "included_at_iso": "2020-08-11T08:46:08.497187",
             "last_retested_at_epoch": 1598518302.494039,
             "last_retested_at_iso": "2020-08-27T08:51:42.494039",
+            "status": "INACTIVE"
+        },
+        "paribas-planet-biznes.at": {
+            "included_at_epoch": 1599379120.147749,
+            "included_at_iso": "2020-09-06T07:58:40.147749",
+            "last_retested_at_epoch": 1599379120.147749,
+            "last_retested_at_iso": "2020-09-06T07:58:40.147749",
+            "status": "INACTIVE"
+        },
+        "paribas-planet-logowanie.at": {
+            "included_at_epoch": 1599379120.189779,
+            "included_at_iso": "2020-09-06T07:58:40.189779",
+            "last_retested_at_epoch": 1599379120.189779,
+            "last_retested_at_iso": "2020-09-06T07:58:40.189779",
+            "status": "INACTIVE"
+        },
+        "paribas-secure.at": {
+            "included_at_epoch": 1599379120.231186,
+            "included_at_iso": "2020-09-06T07:58:40.231186",
+            "last_retested_at_epoch": 1599379120.231186,
+            "last_retested_at_iso": "2020-09-06T07:58:40.231186",
             "status": "INACTIVE"
         },
         "paypal-com-pl.cf": {
@@ -5371,11 +5413,25 @@
             "last_retested_at_iso": "2020-08-29T08:30:00.854039",
             "status": "INACTIVE"
         },
+        "planet-logowanie.at": {
+            "included_at_epoch": 1599379120.461208,
+            "included_at_iso": "2020-09-06T07:58:40.461208",
+            "last_retested_at_epoch": 1599379120.461208,
+            "last_retested_at_iso": "2020-09-06T07:58:40.461208",
+            "status": "INACTIVE"
+        },
         "platnosc.podatkigov.net": {
             "included_at_epoch": 1598352732.404991,
             "included_at_iso": "2020-08-25T10:52:12.404991",
             "last_retested_at_epoch": 1598526029.206827,
             "last_retested_at_iso": "2020-08-27T11:00:29.206827",
+            "status": "INACTIVE"
+        },
+        "platnoscionline.xyz": {
+            "included_at_epoch": 1599379120.523239,
+            "included_at_iso": "2020-09-06T07:58:40.523239",
+            "last_retested_at_epoch": 1599379120.523239,
+            "last_retested_at_iso": "2020-09-06T07:58:40.523239",
             "status": "INACTIVE"
         },
         "pobieralnie-plikow.eu": {
@@ -5455,6 +5511,13 @@
             "last_retested_at_iso": "2020-08-27T11:00:31.099346",
             "status": "INACTIVE"
         },
+        "polskieinfo24.eu": {
+            "included_at_epoch": 1599379120.970716,
+            "included_at_iso": "2020-09-06T07:58:40.970716",
+            "last_retested_at_epoch": 1599379120.970716,
+            "last_retested_at_iso": "2020-09-06T07:58:40.970716",
+            "status": "INACTIVE"
+        },
         "polskieinformacje24.eu": {
             "included_at_epoch": 1598344479.299277,
             "included_at_iso": "2020-08-25T08:34:39.299277",
@@ -5481,6 +5544,13 @@
             "included_at_iso": "2020-08-25T08:34:40.152075",
             "last_retested_at_epoch": 1598518309.743248,
             "last_retested_at_iso": "2020-08-27T08:51:49.743248",
+            "status": "INACTIVE"
+        },
+        "portalsasiedzki.eu": {
+            "included_at_epoch": 1599379121.216843,
+            "included_at_iso": "2020-09-06T07:58:41.216843",
+            "last_retested_at_epoch": 1599379121.216843,
+            "last_retested_at_iso": "2020-09-06T07:58:41.216843",
             "status": "INACTIVE"
         },
         "ppuhmarko.com.pl": {
@@ -5679,11 +5749,25 @@
             "last_retested_at_iso": "2020-08-27T09:09:05.824480",
             "status": "INACTIVE"
         },
+        "sasiedzkiportal.eu": {
+            "included_at_epoch": 1599379121.985173,
+            "included_at_iso": "2020-09-06T07:58:41.985173",
+            "last_retested_at_epoch": 1599379121.985173,
+            "last_retested_at_iso": "2020-09-06T07:58:41.985173",
+            "status": "INACTIVE"
+        },
         "secondland.pl": {
             "included_at_epoch": 1598854176.872483,
             "included_at_iso": "2020-08-31T06:09:36.872483",
             "last_retested_at_epoch": 1598854176.872483,
             "last_retested_at_iso": "2020-08-31T06:09:36.872483",
+            "status": "INACTIVE"
+        },
+        "secure-bnpparibas.at": {
+            "included_at_epoch": 1599379122.070278,
+            "included_at_iso": "2020-09-06T07:58:42.070278",
+            "last_retested_at_epoch": 1599379122.070278,
+            "last_retested_at_iso": "2020-09-06T07:58:42.070278",
             "status": "INACTIVE"
         },
         "secure-pge.eu": {
@@ -18795,13 +18879,6 @@
             "included_at_iso": "2020-08-25T07:25:42.199252",
             "last_retested_at_epoch": 1598514113.633061,
             "last_retested_at_iso": "2020-08-27T07:41:53.633061",
-            "status": "INACTIVE"
-        },
-        "www.visalink.pl": {
-            "included_at_epoch": 1596958483.341732,
-            "included_at_iso": "2020-08-09T07:34:43.341732",
-            "last_retested_at_epoch": 1598514113.671629,
-            "last_retested_at_iso": "2020-08-27T07:41:53.671629",
             "status": "INACTIVE"
         },
         "www.vladoblog.info": {

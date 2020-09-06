@@ -6624,6 +6624,12 @@
         "expiration_date": "12-jan-2021",
         "state": "future"
     },
+    "depozyt24.net": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "deraspspn.pl": {
         "epoch": 1622419200.0,
         "expiration_date": "31-may-2021",
@@ -13898,6 +13904,12 @@
         "expiration_date": "09-jul-2021",
         "state": "future"
     },
+    "idea-logowanie.live": {
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
     "ideabank-login.xyz": {
         "epoch": 1623888000.0,
         "expiration_date": "17-jun-2021",
@@ -15761,6 +15773,12 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "kendinibil.blog": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "server": "whois.nic.blog",
+        "state": "future"
+    },
     "kenseeart.pl": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
@@ -16054,8 +16072,9 @@
         "state": "future"
     },
     "klubfiatstilo.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "klubikbaczek.pl": {
@@ -16911,8 +16930,9 @@
         "state": "future"
     },
     "kzprojekt.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "l2f.info": {
@@ -17678,6 +17698,12 @@
     "logowanie-bnpparibas.xyz": {
         "epoch": 1624060800.0,
         "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
+    "lokalneinformacje.pl": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lokalnie.live": {
@@ -18922,8 +18948,9 @@
         "state": "future"
     },
     "metaltechnics.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mezczyzna-trendy.pl": {
@@ -21237,7 +21264,8 @@
     "nympropiedades.cl": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.nic.cl",
+        "state": "past"
     },
     "o2-fakty.pro": {
         "epoch": 1620432000.0,
@@ -24033,6 +24061,12 @@
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
+    "pol-news24.pl": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "polakuleczsiesam.pl": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
@@ -24353,7 +24387,8 @@
     "pornmania.pl": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "porownajtv24.pl": {
         "epoch": 1603584000.0,
@@ -25557,10 +25592,10 @@
         "state": "future"
     },
     "qubble.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "questraworld.ru": {
         "epoch": 1601164800.0,
