@@ -4586,10 +4586,10 @@
         "state": "future"
     },
     "catzell.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "cavotel.com": {
         "epoch": 1605916800.0,
@@ -8168,10 +8168,10 @@
         "state": "future"
     },
     "e-udanezakupy.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "e-wiadomosci24.com.pl": {
         "epoch": 1626393600.0,
@@ -8702,6 +8702,12 @@
     "elektro-studio24.pl": {
         "epoch": "1555891200",
         "expiration_date": "22-apr-2019",
+        "state": "future"
+    },
+    "elektro.waw.pl": {
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "elektro24h.pl": {
@@ -10892,8 +10898,9 @@
         "state": "future"
     },
     "forestarii.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "foreverliving.com": {
@@ -11881,8 +11888,9 @@
         "state": "future"
     },
     "geekbook.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gekonmedia.pl": {
@@ -12376,8 +12384,9 @@
         "state": "future"
     },
     "goldenmark.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "goldenrelations.pl": {
@@ -13534,8 +13543,9 @@
         "state": "future"
     },
     "hondawschod.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "horafoo.xyz": {
@@ -15415,8 +15425,9 @@
         "state": "future"
     },
     "kajakiperkoz.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "kajakurier.com": {
@@ -18250,7 +18261,8 @@
     "manilis.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "manipulation.pl": {
         "epoch": 1595289600.0,
@@ -20526,10 +20538,10 @@
         "state": "future"
     },
     "neopozyczki.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "neos.com.pl": {
         "epoch": 1617667200.0,
