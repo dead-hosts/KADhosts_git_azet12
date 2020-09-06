@@ -28615,6 +28615,12 @@
         "expiration_date": "03-jan-2021",
         "state": "future"
     },
+    "sprawajestprosta21.online": {
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
     "sprawdziany-odpowiedzi.pl": {
         "epoch": "1578182400",
         "expiration_date": "05-jan-2020",
@@ -31365,6 +31371,12 @@
         "expiration_date": "27-apr-2021",
         "state": "future"
     },
+    "tvinfo-24.pl": {
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "tvjovem.net": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
@@ -32802,7 +32814,8 @@
     "warzonedns.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "washtrans.pl": {
         "epoch": 1618358400.0,
