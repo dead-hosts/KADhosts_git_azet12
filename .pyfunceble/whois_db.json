@@ -115,8 +115,9 @@
         "state": "future"
     },
     "24-sklep.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "247platnosc.online": {
@@ -2437,8 +2438,9 @@
         "state": "future"
     },
     "audmax.pl": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "aura-agd.pl": {
@@ -4038,8 +4040,9 @@
         "state": "future"
     },
     "bunclok.pl": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bundle-deals.com": {
@@ -8725,8 +8728,9 @@
         "state": "future"
     },
     "elektro24h.pl": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "elektromax-serwis.pl": {
@@ -15982,8 +15986,9 @@
         "state": "future"
     },
     "kitcarforum.pl": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "kitchencollectivecool.info": {
@@ -17712,8 +17717,9 @@
         "state": "future"
     },
     "loktrk.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lolalynch.pl": {
@@ -18293,10 +18299,10 @@
         "state": "future"
     },
     "manilis.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "manipulation.pl": {
         "epoch": 1595289600.0,
@@ -20747,7 +20753,8 @@
     "newtechagd.net": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "nextlevelprize.com": {
         "epoch": 1617667200.0,
@@ -21829,6 +21836,12 @@
     "onlineogladaj.pl": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "onlinepolska.com": {
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "onlineprzelew.online": {
