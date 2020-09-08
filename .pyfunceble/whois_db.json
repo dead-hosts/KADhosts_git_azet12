@@ -3029,6 +3029,12 @@
         "expiration_date": "03-jul-2021",
         "state": "future"
     },
+    "best-prizes-here.live": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
     "best-quizy.pl": {
         "epoch": "1552348800",
         "expiration_date": "12-mar-2019",
@@ -3606,6 +3612,12 @@
     "bninski.pl": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "bnmjjwinf292.com": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bnpparibas-bank.pl": {
@@ -34255,10 +34267,10 @@
         "state": "future"
     },
     "zakupyagd.net": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "zakupymax.net": {
         "epoch": 1579996800.0,
