@@ -3628,6 +3628,13 @@
             "last_retested_at_iso": "2020-09-08T07:36:13.051911",
             "status": "INACTIVE"
         },
+        "allegrolokalnie.oferta189515.xyz": {
+            "included_at_epoch": 1599554952.03706,
+            "included_at_iso": "2020-09-08T08:49:12.037060",
+            "last_retested_at_epoch": 1599554952.03706,
+            "last_retested_at_iso": "2020-09-08T08:49:12.037060",
+            "status": "INACTIVE"
+        },
         "allegrolokalnie.oferta228322.xyz": {
             "included_at_epoch": 1599550573.13481,
             "included_at_iso": "2020-09-08T07:36:13.134810",
@@ -5026,13 +5033,6 @@
             "included_at_iso": "2020-08-27T11:00:27.168158",
             "last_retested_at_epoch": 1598526027.168158,
             "last_retested_at_iso": "2020-08-27T11:00:27.168158",
-            "status": "INACTIVE"
-        },
-        "makanaliabadian.ir": {
-            "included_at_epoch": 1597134530.64803,
-            "included_at_iso": "2020-08-11T08:28:50.648030",
-            "last_retested_at_epoch": 1598518286.672597,
-            "last_retested_at_iso": "2020-08-27T08:51:26.672597",
             "status": "INACTIVE"
         },
         "markocars.pl": {
@@ -6930,6 +6930,13 @@
             "included_at_iso": "2020-09-08T08:14:57.862134",
             "last_retested_at_epoch": 1599552897.862134,
             "last_retested_at_iso": "2020-09-08T08:14:57.862134",
+            "status": "INACTIVE"
+        },
+        "www.allegrolokalnie.oferta189515.xyz": {
+            "included_at_epoch": 1599554957.898343,
+            "included_at_iso": "2020-09-08T08:49:17.898343",
+            "last_retested_at_epoch": 1599554957.898343,
+            "last_retested_at_iso": "2020-09-08T08:49:17.898343",
             "status": "INACTIVE"
         },
         "www.allegrolokalnie.oferta228322.xyz": {
@@ -8962,6 +8969,13 @@
             "last_retested_at_iso": "2020-08-31T08:14:07.245770",
             "status": "INACTIVE"
         },
+        "www.dotpay.emonitoring-pocztapolska.eu": {
+            "included_at_epoch": 1599554959.706888,
+            "included_at_iso": "2020-09-08T08:49:19.706888",
+            "last_retested_at_epoch": 1599554959.706888,
+            "last_retested_at_iso": "2020-09-08T08:49:19.706888",
+            "status": "INACTIVE"
+        },
         "www.dotpay.pocztexpolska.eu": {
             "included_at_epoch": 1598352743.207943,
             "included_at_iso": "2020-08-25T10:52:23.207943",
@@ -9459,6 +9473,13 @@
             "last_retested_at_iso": "2020-08-27T09:41:49.494963",
             "status": "INACTIVE"
         },
+        "www.efaktygwalt.eu": {
+            "included_at_epoch": 1599554958.045986,
+            "included_at_iso": "2020-09-08T08:49:18.045986",
+            "last_retested_at_epoch": 1599554958.045986,
+            "last_retested_at_iso": "2020-09-08T08:49:18.045986",
+            "status": "INACTIVE"
+        },
         "www.efaktygwalt.site": {
             "included_at_epoch": 1599207531.670896,
             "included_at_iso": "2020-09-04T08:18:51.670896",
@@ -9592,6 +9613,20 @@
             "last_retested_at_iso": "2020-08-31T08:19:20.733065",
             "status": "INACTIVE"
         },
+        "www.emonitoring-poczta24.net": {
+            "included_at_epoch": 1599554959.813201,
+            "included_at_iso": "2020-09-08T08:49:19.813201",
+            "last_retested_at_epoch": 1599554959.813201,
+            "last_retested_at_iso": "2020-09-08T08:49:19.813201",
+            "status": "INACTIVE"
+        },
+        "www.emonitoring-poczta48-polska.net": {
+            "included_at_epoch": 1599554959.857944,
+            "included_at_iso": "2020-09-08T08:49:19.857944",
+            "last_retested_at_epoch": 1599554959.857944,
+            "last_retested_at_iso": "2020-09-08T08:49:19.857944",
+            "status": "INACTIVE"
+        },
         "www.emonitoring-poczta48.net": {
             "included_at_epoch": 1599207773.603731,
             "included_at_iso": "2020-09-04T08:22:53.603731",
@@ -9625,6 +9660,13 @@
             "included_at_iso": "2020-08-13T11:00:18.452610",
             "last_retested_at_epoch": 1598527076.885489,
             "last_retested_at_iso": "2020-08-27T11:17:56.885489",
+            "status": "INACTIVE"
+        },
+        "www.emonitoring-upocztapolska.net": {
+            "included_at_epoch": 1599554959.902261,
+            "included_at_iso": "2020-09-08T08:49:19.902261",
+            "last_retested_at_epoch": 1599554959.902261,
+            "last_retested_at_iso": "2020-09-08T08:49:19.902261",
             "status": "INACTIVE"
         },
         "www.emonitoring.poczta-polska2.pl": {
@@ -9912,6 +9954,13 @@
             "included_at_iso": "2020-08-25T09:16:42.103068",
             "last_retested_at_epoch": 1598521310.405422,
             "last_retested_at_iso": "2020-08-27T09:41:50.405422",
+            "status": "INACTIVE"
+        },
+        "www.etracking-pocztapolska24.net": {
+            "included_at_epoch": 1599554959.946803,
+            "included_at_iso": "2020-09-08T08:49:19.946803",
+            "last_retested_at_epoch": 1599554959.946803,
+            "last_retested_at_iso": "2020-09-08T08:49:19.946803",
             "status": "INACTIVE"
         },
         "www.etracking-ppocztapolska.com": {
@@ -10213,6 +10262,27 @@
             "included_at_iso": "2020-08-25T09:51:16.189450",
             "last_retested_at_epoch": 1598523899.423161,
             "last_retested_at_iso": "2020-08-27T10:24:59.423161",
+            "status": "INACTIVE"
+        },
+        "www.faktygwalt.com.pl": {
+            "included_at_epoch": 1599554958.114157,
+            "included_at_iso": "2020-09-08T08:49:18.114157",
+            "last_retested_at_epoch": 1599554958.114157,
+            "last_retested_at_iso": "2020-09-08T08:49:18.114157",
+            "status": "INACTIVE"
+        },
+        "www.faktygwalt.net.pl": {
+            "included_at_epoch": 1599554958.158686,
+            "included_at_iso": "2020-09-08T08:49:18.158686",
+            "last_retested_at_epoch": 1599554958.158686,
+            "last_retested_at_iso": "2020-09-08T08:49:18.158686",
+            "status": "INACTIVE"
+        },
+        "www.faktygwalt.pl": {
+            "included_at_epoch": 1599554958.202488,
+            "included_at_iso": "2020-09-08T08:49:18.202488",
+            "last_retested_at_epoch": 1599554958.202488,
+            "last_retested_at_iso": "2020-09-08T08:49:18.202488",
             "status": "INACTIVE"
         },
         "www.faktygwalt.waw.pl": {
@@ -11214,6 +11284,104 @@
             "included_at_iso": "2020-08-23T06:36:27.587422",
             "last_retested_at_epoch": 1598510289.028345,
             "last_retested_at_iso": "2020-08-27T06:38:09.028345",
+            "status": "INACTIVE"
+        },
+        "www.goedekans1.live": {
+            "included_at_epoch": 1599554958.329695,
+            "included_at_iso": "2020-09-08T08:49:18.329695",
+            "last_retested_at_epoch": 1599554958.329695,
+            "last_retested_at_iso": "2020-09-08T08:49:18.329695",
+            "status": "INACTIVE"
+        },
+        "www.goedekans10.live": {
+            "included_at_epoch": 1599554958.681234,
+            "included_at_iso": "2020-09-08T08:49:18.681234",
+            "last_retested_at_epoch": 1599554958.681234,
+            "last_retested_at_iso": "2020-09-08T08:49:18.681234",
+            "status": "INACTIVE"
+        },
+        "www.goedekans11.live": {
+            "included_at_epoch": 1599554958.636809,
+            "included_at_iso": "2020-09-08T08:49:18.636809",
+            "last_retested_at_epoch": 1599554958.636809,
+            "last_retested_at_iso": "2020-09-08T08:49:18.636809",
+            "status": "INACTIVE"
+        },
+        "www.goedekans12.live": {
+            "included_at_epoch": 1599554958.725514,
+            "included_at_iso": "2020-09-08T08:49:18.725514",
+            "last_retested_at_epoch": 1599554958.725514,
+            "last_retested_at_iso": "2020-09-08T08:49:18.725514",
+            "status": "INACTIVE"
+        },
+        "www.goedekans13.live": {
+            "included_at_epoch": 1599554958.769235,
+            "included_at_iso": "2020-09-08T08:49:18.769235",
+            "last_retested_at_epoch": 1599554958.769235,
+            "last_retested_at_iso": "2020-09-08T08:49:18.769235",
+            "status": "INACTIVE"
+        },
+        "www.goedekans14.live": {
+            "included_at_epoch": 1599554958.857619,
+            "included_at_iso": "2020-09-08T08:49:18.857619",
+            "last_retested_at_epoch": 1599554958.857619,
+            "last_retested_at_iso": "2020-09-08T08:49:18.857619",
+            "status": "INACTIVE"
+        },
+        "www.goedekans15.live": {
+            "included_at_epoch": 1599554958.813313,
+            "included_at_iso": "2020-09-08T08:49:18.813313",
+            "last_retested_at_epoch": 1599554958.813313,
+            "last_retested_at_iso": "2020-09-08T08:49:18.813313",
+            "status": "INACTIVE"
+        },
+        "www.goedekans2.live": {
+            "included_at_epoch": 1599554958.286187,
+            "included_at_iso": "2020-09-08T08:49:18.286187",
+            "last_retested_at_epoch": 1599554958.286187,
+            "last_retested_at_iso": "2020-09-08T08:49:18.286187",
+            "status": "INACTIVE"
+        },
+        "www.goedekans3.live": {
+            "included_at_epoch": 1599554958.416428,
+            "included_at_iso": "2020-09-08T08:49:18.416428",
+            "last_retested_at_epoch": 1599554958.416428,
+            "last_retested_at_iso": "2020-09-08T08:49:18.416428",
+            "status": "INACTIVE"
+        },
+        "www.goedekans4.live": {
+            "included_at_epoch": 1599554958.372867,
+            "included_at_iso": "2020-09-08T08:49:18.372867",
+            "last_retested_at_epoch": 1599554958.372867,
+            "last_retested_at_iso": "2020-09-08T08:49:18.372867",
+            "status": "INACTIVE"
+        },
+        "www.goedekans5.live": {
+            "included_at_epoch": 1599554958.460708,
+            "included_at_iso": "2020-09-08T08:49:18.460708",
+            "last_retested_at_epoch": 1599554958.460708,
+            "last_retested_at_iso": "2020-09-08T08:49:18.460708",
+            "status": "INACTIVE"
+        },
+        "www.goedekans7.live": {
+            "included_at_epoch": 1599554958.504363,
+            "included_at_iso": "2020-09-08T08:49:18.504363",
+            "last_retested_at_epoch": 1599554958.504363,
+            "last_retested_at_iso": "2020-09-08T08:49:18.504363",
+            "status": "INACTIVE"
+        },
+        "www.goedekans8.live": {
+            "included_at_epoch": 1599554958.592647,
+            "included_at_iso": "2020-09-08T08:49:18.592647",
+            "last_retested_at_epoch": 1599554958.592647,
+            "last_retested_at_iso": "2020-09-08T08:49:18.592647",
+            "status": "INACTIVE"
+        },
+        "www.goedekans9.live": {
+            "included_at_epoch": 1599554958.548346,
+            "included_at_iso": "2020-09-08T08:49:18.548346",
+            "last_retested_at_epoch": 1599554958.548346,
+            "last_retested_at_iso": "2020-09-08T08:49:18.548346",
             "status": "INACTIVE"
         },
         "www.goldcarf.com": {
@@ -14142,6 +14310,13 @@
             "last_retested_at_iso": "2020-08-27T09:41:59.255305",
             "status": "INACTIVE"
         },
+        "www.monitor-ipocztapolska.net": {
+            "included_at_epoch": 1599554960.590144,
+            "included_at_iso": "2020-09-08T08:49:20.590144",
+            "last_retested_at_epoch": 1599554960.590144,
+            "last_retested_at_iso": "2020-09-08T08:49:20.590144",
+            "status": "INACTIVE"
+        },
         "www.monitor-ppocztapolska.net": {
             "included_at_epoch": 1599381817.135062,
             "included_at_iso": "2020-09-06T08:43:37.135062",
@@ -14497,6 +14672,27 @@
             "included_at_iso": "2020-08-13T11:00:13.452394",
             "last_retested_at_epoch": 1598527069.17696,
             "last_retested_at_iso": "2020-08-27T11:17:49.176960",
+            "status": "INACTIVE"
+        },
+        "www.newsgwalt24.eu": {
+            "included_at_epoch": 1599554959.030651,
+            "included_at_iso": "2020-09-08T08:49:19.030651",
+            "last_retested_at_epoch": 1599554959.030651,
+            "last_retested_at_iso": "2020-09-08T08:49:19.030651",
+            "status": "INACTIVE"
+        },
+        "www.newsgwalt24.online": {
+            "included_at_epoch": 1599554958.986758,
+            "included_at_iso": "2020-09-08T08:49:18.986758",
+            "last_retested_at_epoch": 1599554958.986758,
+            "last_retested_at_iso": "2020-09-08T08:49:18.986758",
+            "status": "INACTIVE"
+        },
+        "www.newsgwalt24.site": {
+            "included_at_epoch": 1599554959.07426,
+            "included_at_iso": "2020-09-08T08:49:19.074260",
+            "last_retested_at_epoch": 1599554959.07426,
+            "last_retested_at_iso": "2020-09-08T08:49:19.074260",
             "status": "INACTIVE"
         },
         "www.newsinsider.me": {
@@ -18839,6 +19035,13 @@
             "last_retested_at_iso": "2020-08-27T08:15:52.616120",
             "status": "INACTIVE"
         },
+        "www.top.naturgood.icu": {
+            "included_at_epoch": 1599554959.306917,
+            "included_at_iso": "2020-09-08T08:49:19.306917",
+            "last_retested_at_epoch": 1599554959.306917,
+            "last_retested_at_iso": "2020-09-08T08:49:19.306917",
+            "status": "INACTIVE"
+        },
         "www.top10-konkursy.pl": {
             "included_at_epoch": 1597822964.11165,
             "included_at_iso": "2020-08-19T07:42:44.111650",
@@ -18879,6 +19082,13 @@
             "included_at_iso": "2020-08-25T07:42:57.211624",
             "last_retested_at_epoch": 1598516166.685551,
             "last_retested_at_iso": "2020-08-27T08:16:06.685551",
+            "status": "INACTIVE"
+        },
+        "www.tpocztapolska.com": {
+            "included_at_epoch": 1599554959.351219,
+            "included_at_iso": "2020-09-08T08:49:19.351219",
+            "last_retested_at_epoch": 1599554959.351219,
+            "last_retested_at_iso": "2020-09-08T08:49:19.351219",
             "status": "INACTIVE"
         },
         "www.track.adsfast.com": {
@@ -18993,6 +19203,13 @@
             "last_retested_at_iso": "2020-08-27T07:41:53.109151",
             "status": "INACTIVE"
         },
+        "www.tvinfo-24.pl": {
+            "included_at_epoch": 1599554947.313724,
+            "included_at_iso": "2020-09-08T08:49:07.313724",
+            "last_retested_at_epoch": 1599554947.313724,
+            "last_retested_at_iso": "2020-09-08T08:49:07.313724",
+            "status": "INACTIVE"
+        },
         "www.tvp-informacyjna1.eu": {
             "included_at_epoch": 1598354703.895964,
             "included_at_iso": "2020-08-25T11:25:03.895964",
@@ -19077,11 +19294,25 @@
             "last_retested_at_iso": "2020-08-31T08:14:09.657284",
             "status": "INACTIVE"
         },
+        "www.twoje-konto-sprawdz-szczegoly-netflix.mywire.org": {
+            "included_at_epoch": 1599554947.392093,
+            "included_at_iso": "2020-09-08T08:49:07.392093",
+            "last_retested_at_epoch": 1599554947.392093,
+            "last_retested_at_iso": "2020-09-08T08:49:07.392093",
+            "status": "INACTIVE"
+        },
         "www.twojkurier-dhl.com": {
             "included_at_epoch": 1599035356.653233,
             "included_at_iso": "2020-09-02T08:29:16.653233",
             "last_retested_at_epoch": 1599035356.653233,
             "last_retested_at_iso": "2020-09-02T08:29:16.653233",
+            "status": "INACTIVE"
+        },
+        "www.twojkurier-dhl.vip": {
+            "included_at_epoch": 1599554960.91109,
+            "included_at_iso": "2020-09-08T08:49:20.911090",
+            "last_retested_at_epoch": 1599554960.91109,
+            "last_retested_at_iso": "2020-09-08T08:49:20.911090",
             "status": "INACTIVE"
         },
         "www.typowanie-glosuj.eu": {
@@ -19637,6 +19868,13 @@
             "last_retested_at_iso": "2020-08-27T10:07:41.474978",
             "status": "INACTIVE"
         },
+        "www.wiadomosc-24.online": {
+            "included_at_epoch": 1599554947.599003,
+            "included_at_iso": "2020-09-08T08:49:07.599003",
+            "last_retested_at_epoch": 1599554947.599003,
+            "last_retested_at_iso": "2020-09-08T08:49:07.599003",
+            "status": "INACTIVE"
+        },
         "www.wiadomosci24-live.eu": {
             "included_at_epoch": 1597486547.39788,
             "included_at_iso": "2020-08-15T10:15:47.397880",
@@ -20036,6 +20274,13 @@
             "last_retested_at_iso": "2020-09-04T08:22:54.620570",
             "status": "INACTIVE"
         },
+        "www.xn--onetgwat-dpb.eu": {
+            "included_at_epoch": 1599554961.045912,
+            "included_at_iso": "2020-09-08T08:49:21.045912",
+            "last_retested_at_epoch": 1599554961.045912,
+            "last_retested_at_iso": "2020-09-08T08:49:21.045912",
+            "status": "INACTIVE"
+        },
         "www.xoreha84.bid": {
             "included_at_epoch": 1597659325.107664,
             "included_at_iso": "2020-08-17T10:15:25.107664",
@@ -20370,6 +20615,13 @@
             "included_at_iso": "2020-08-21T07:47:17.202227",
             "last_retested_at_epoch": 1598516153.726514,
             "last_retested_at_iso": "2020-08-27T08:15:53.726514",
+            "status": "INACTIVE"
+        },
+        "xn--onetgwat-dpb.eu": {
+            "included_at_epoch": 1599554961.247828,
+            "included_at_iso": "2020-09-08T08:49:21.247828",
+            "last_retested_at_epoch": 1599554961.247828,
+            "last_retested_at_iso": "2020-09-08T08:49:21.247828",
             "status": "INACTIVE"
         },
         "yoyo-zdjecia.bo.pl": {
