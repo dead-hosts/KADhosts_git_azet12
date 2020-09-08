@@ -24673,7 +24673,8 @@
     "pozytywneswiry.pl": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "pp21-pszczyna.pl": {
         "epoch": 1617926400.0,
@@ -24806,10 +24807,10 @@
         "state": "future"
     },
     "prevalue.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "prezentacje-wiab.pl": {
         "epoch": 1608508800.0,
@@ -26061,8 +26062,9 @@
         "state": "future"
     },
     "reasport.pl": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "recepta.com.pl": {
@@ -26732,10 +26734,10 @@
         "state": "future"
     },
     "rtvagdpro.net": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "rtvmax.pl": {
         "epoch": 1607126400.0,
@@ -26783,8 +26785,9 @@
         "state": "future"
     },
     "runaddict.pl": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "runningbastards.pl": {
@@ -27078,10 +27081,10 @@
         "state": "future"
     },
     "scantronixinc.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "scenbe.com": {
         "epoch": 1626480000.0,
@@ -27321,8 +27324,9 @@
         "state": "future"
     },
     "serwis-ab.com.pl": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "serwis-laptopow-powisle.pl": {
@@ -27932,8 +27936,9 @@
         "state": "future"
     },
     "slaskiedrogi.pl": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "slavcomp.pl": {
@@ -29876,6 +29881,12 @@
     "taniemedia.pl": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "tanietesteryperfum.pl": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "taniewizytowki.info.pl": {
@@ -32707,8 +32718,9 @@
         "state": "future"
     },
     "wabs.pl": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wachoviamotors.pl": {
