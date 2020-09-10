@@ -2571,8 +2571,9 @@
         "state": "future"
     },
     "avbtrk.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "avema.pl": {
@@ -3948,6 +3949,12 @@
         "expiration_date": "15-may-2021",
         "state": "future"
     },
+    "bsonus.xyz": {
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "btc-billionaire.com": {
         "epoch": 1628985600.0,
         "expiration_date": "15-aug-2021",
@@ -5182,7 +5189,8 @@
     "cinemaplanet.pl": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "cinemateka.pl": {
         "epoch": 1601683200.0,
@@ -6607,6 +6615,12 @@
         "expiration_date": "03-jan-2021",
         "state": "future"
     },
+    "deliver-post.com": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "deliveryexpress.today": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -7203,10 +7217,10 @@
         "state": "future"
     },
     "doladujfona.net": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "doladujfona.org": {
         "epoch": 1628640000.0,
@@ -8768,8 +8782,9 @@
         "state": "future"
     },
     "elektromax-serwis.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "elektronicznyswiat.pl": {
@@ -34940,8 +34955,9 @@
         "state": "future"
     },
     "zespolcwiklice.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zespolfordance.pl": {
@@ -34972,6 +34988,12 @@
     "zestawnaprawczy-do-wgniecen.com": {
         "epoch": 1629936000.0,
         "expiration_date": "26-aug-2021",
+        "state": "future"
+    },
+    "zevert55.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zgarnij-prezent.pl": {
