@@ -9775,6 +9775,12 @@
         "expiration_date": "09-mar-2020",
         "state": "past"
     },
+    "facebook.biz.pl": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "facebookgroups.pl": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
@@ -11019,6 +11025,12 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "folia-hydrofobowa-pl.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "followergods.com": {
         "epoch": 1609545600.0,
         "expiration_date": "02-jan-2021",
@@ -11966,6 +11978,12 @@
     "gazetanowoczesna.pl": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
+    "gazetapolska.org.pl": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gazetapucka.pl": {
@@ -14161,7 +14179,8 @@
     "id-appie.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "id95972.net": {
         "epoch": 1628553600.0,
@@ -15713,6 +15732,12 @@
     "kaaryathalo.com": {
         "epoch": 1620172800.0,
         "expiration_date": "05-may-2021",
+        "state": "future"
+    },
+    "kaborun.com": {
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kacpslaw.pl": {
@@ -17860,6 +17885,12 @@
         "expiration_date": "09-may-2021",
         "state": "future"
     },
+    "lisygarments.com": {
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "literatur.pl": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
@@ -17901,8 +17932,9 @@
         "state": "future"
     },
     "lldi.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lnaff.pl": {
@@ -18504,8 +18536,9 @@
         "state": "future"
     },
     "magnumbd.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "magviz-secondsz.com": {
@@ -20146,7 +20179,8 @@
     "msphackonline.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "msphacks.net": {
         "epoch": 1603152000.0,
@@ -20646,6 +20680,18 @@
     "nasza-emigracja.pl": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "naszaplaneta.online": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "naszaplaneta.site": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "naszapolskaa.icu": {
@@ -21786,15 +21832,39 @@
         "server": "whois.nic.tech",
         "state": "future"
     },
+    "oferta100981.site": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "oferta1promocyjna.pl": {
         "epoch": "1555804800",
         "expiration_date": "21-apr-2019",
+        "state": "future"
+    },
+    "oferta289511.space": {
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.nic.space",
         "state": "future"
     },
     "oferta4you.com.pl": {
         "epoch": "1554336000",
         "expiration_date": "04-apr-2019",
         "state": "past"
+    },
+    "oferta589146.space": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.nic.space",
+        "state": "future"
+    },
+    "oferta924151.space": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.nic.space",
+        "state": "future"
     },
     "ofertapromo.pl": {
         "epoch": "1555804800",
@@ -21890,6 +21960,12 @@
     "ogloszenie.space": {
         "epoch": 1616630400.0,
         "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "ogloszenie348293.space": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.nic.space",
         "state": "future"
     },
     "oglosznie-elektroniczne.host": {
@@ -22144,6 +22220,12 @@
     "online-tv.pl": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "online-tvn.pl": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "online.pro": {
@@ -22786,6 +22868,12 @@
         "expiration_date": "02-jul-2021",
         "state": "future"
     },
+    "paczkedpd.com": {
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "paczkgls.com": {
         "epoch": 1625702400.0,
         "expiration_date": "08-jul-2021",
@@ -22825,6 +22913,12 @@
     "paczkomaty.me": {
         "epoch": 1627430400.0,
         "expiration_date": "28-jul-2021",
+        "state": "future"
+    },
+    "paczkonat.net": {
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "paczkpups.com": {
