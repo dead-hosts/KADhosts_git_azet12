@@ -4384,13 +4384,6 @@
             "last_retested_at_iso": "2020-08-27T05:50:50.614261",
             "status": "INACTIVE"
         },
-        "gangkarpiarzy.pl": {
-            "included_at_epoch": 1597470287.859766,
-            "included_at_iso": "2020-08-15T05:44:47.859766",
-            "last_retested_at_epoch": 1598528307.054938,
-            "last_retested_at_iso": "2020-08-27T11:38:27.054938",
-            "status": "INACTIVE"
-        },
         "gazeta-natemat-pol.eu": {
             "included_at_epoch": 1598342762.444005,
             "included_at_iso": "2020-08-25T08:06:02.444005",
@@ -6764,6 +6757,13 @@
             "last_retested_at_iso": "2020-08-27T06:09:33.843115",
             "status": "INACTIVE"
         },
+        "www.airmaxonlinesklep.pl": {
+            "included_at_epoch": 1599891379.256311,
+            "included_at_iso": "2020-09-12T06:16:19.256311",
+            "last_retested_at_epoch": 1599891379.256311,
+            "last_retested_at_iso": "2020-09-12T06:16:19.256311",
+            "status": "INACTIVE"
+        },
         "www.airmaxpolska.com": {
             "included_at_epoch": 1599718469.170635,
             "included_at_iso": "2020-09-10T06:14:29.170635",
@@ -8505,6 +8505,13 @@
             "included_at_iso": "2020-08-15T09:58:35.415864",
             "last_retested_at_epoch": 1598523897.526469,
             "last_retested_at_iso": "2020-08-27T10:24:57.526469",
+            "status": "INACTIVE"
+        },
+        "www.cuebar.pl": {
+            "included_at_epoch": 1599891379.737316,
+            "included_at_iso": "2020-09-12T06:16:19.737316",
+            "last_retested_at_epoch": 1599891379.737316,
+            "last_retested_at_iso": "2020-09-12T06:16:19.737316",
             "status": "INACTIVE"
         },
         "www.cuorl.top": {

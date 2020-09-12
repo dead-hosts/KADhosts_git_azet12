@@ -23227,8 +23227,9 @@
         "state": "future"
     },
     "pdinet.pl": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pdmrc.pl": {
@@ -24643,7 +24644,8 @@
     "pomelostudio.pl": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "pomerania-bn.pl": {
         "epoch": 1601424000.0,
@@ -24892,6 +24894,12 @@
     "powaifinearts.org": {
         "epoch": 1658188800.0,
         "expiration_date": "19-jul-2022",
+        "state": "future"
+    },
+    "powearth.pl": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "powerfactorsaver.com": {
@@ -27217,10 +27225,10 @@
         "state": "future"
     },
     "rytmybielizny.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "rzeczyzadarmo.pl": {
         "epoch": 1583452800.0,
@@ -31339,6 +31347,12 @@
     "topboxing.pl": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "topceny.pl": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "topinzynier.pl": {
