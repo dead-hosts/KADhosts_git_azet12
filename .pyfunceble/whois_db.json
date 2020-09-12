@@ -31718,6 +31718,12 @@
         "expiration_date": "19-aug-2021",
         "state": "future"
     },
+    "transportujemy.net": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "transporty24.net": {
         "epoch": 1629331200.0,
         "expiration_date": "19-aug-2021",
@@ -31903,6 +31909,12 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "tunaszapolska.xyz": {
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "tunehub247shop.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
@@ -31997,6 +32009,12 @@
     "tvnowapp.net": {
         "epoch": 1629676800.0,
         "expiration_date": "23-aug-2021",
+        "state": "future"
+    },
+    "tvpinfo.net.pl": {
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "twierdza-wroclaw.pl": {
@@ -32126,8 +32144,9 @@
         "state": "future"
     },
     "twoje-seriale.tv": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "twoje50zl.pl": {
