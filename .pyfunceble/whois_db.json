@@ -1721,8 +1721,9 @@
         "state": "future"
     },
     "anetakurier.info": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "anety-plaszcze.pl": {
@@ -2858,8 +2859,9 @@
         "state": "future"
     },
     "bazalt-gracze.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bazarownia.pl": {
@@ -3389,6 +3391,12 @@
     "bitcoinera-appl.com": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
+    "bitcoinera-system.co": {
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "bitcoinerapro.com": {
@@ -5187,10 +5195,10 @@
         "state": "future"
     },
     "cinemaplanet.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "cinemateka.pl": {
         "epoch": 1601683200.0,
@@ -5529,8 +5537,9 @@
         "state": "future"
     },
     "com-gift-winner-lucky-day.vip": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.nic.vip",
         "state": "future"
     },
     "comfortmedplus.pl": {
@@ -7562,6 +7571,12 @@
     "dpd-parcelsecure.com": {
         "epoch": 1628208000.0,
         "expiration_date": "06-aug-2021",
+        "state": "future"
+    },
+    "dpd-przesylki.pl": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "dpdoplata.org": {
@@ -11390,8 +11405,9 @@
         "state": "future"
     },
     "fres-news.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fresh-finance.pl": {
@@ -34987,8 +35003,9 @@
         "state": "past"
     },
     "zazynek.pl": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zbig-spaw.pl": {
