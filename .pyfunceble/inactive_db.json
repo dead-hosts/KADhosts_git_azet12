@@ -3432,11 +3432,25 @@
         }
     },
     "/home/travis/build/dead-hosts/KADhosts_git_azet12/domains.list": {
+        "00x.eu": {
+            "included_at_epoch": 1600068605.363478,
+            "included_at_iso": "2020-09-14T07:30:05.363478",
+            "last_retested_at_epoch": 1600068605.363478,
+            "last_retested_at_iso": "2020-09-14T07:30:05.363478",
+            "status": "INACTIVE"
+        },
         "0e0.eu": {
             "included_at_epoch": 1598342725.185927,
             "included_at_iso": "2020-08-25T08:05:25.185927",
             "last_retested_at_epoch": 1598516171.337584,
             "last_retested_at_iso": "2020-08-27T08:16:11.337584",
+            "status": "INACTIVE"
+        },
+        "0xi.eu": {
+            "included_at_epoch": 1600068605.409242,
+            "included_at_iso": "2020-09-14T07:30:05.409242",
+            "last_retested_at_epoch": 1600068605.409242,
+            "last_retested_at_iso": "2020-09-14T07:30:05.409242",
             "status": "INACTIVE"
         },
         "15x.eu": {
@@ -3479,6 +3493,20 @@
             "included_at_iso": "2020-08-23T05:48:16.056108",
             "last_retested_at_epoch": 1598507411.850551,
             "last_retested_at_iso": "2020-08-27T05:50:11.850551",
+            "status": "INACTIVE"
+        },
+        "24lite.eu": {
+            "included_at_epoch": 1600068605.583982,
+            "included_at_iso": "2020-09-14T07:30:05.583982",
+            "last_retested_at_epoch": 1600068605.583982,
+            "last_retested_at_iso": "2020-09-14T07:30:05.583982",
+            "status": "INACTIVE"
+        },
+        "2i4.eu": {
+            "included_at_epoch": 1600068605.462851,
+            "included_at_iso": "2020-09-14T07:30:05.462851",
+            "last_retested_at_epoch": 1600068605.462851,
+            "last_retested_at_iso": "2020-09-14T07:30:05.462851",
             "status": "INACTIVE"
         },
         "4skype.pl": {
@@ -4158,6 +4186,13 @@
             "included_at_iso": "2020-08-25T10:34:57.201185",
             "last_retested_at_epoch": 1598526016.102591,
             "last_retested_at_iso": "2020-08-27T11:00:16.102591",
+            "status": "INACTIVE"
+        },
+        "emonitoring24.eu": {
+            "included_at_epoch": 1600068609.6986,
+            "included_at_iso": "2020-09-14T07:30:09.698600",
+            "last_retested_at_epoch": 1600068609.6986,
+            "last_retested_at_iso": "2020-09-14T07:30:09.698600",
             "status": "INACTIVE"
         },
         "enpgnig.pl": {
@@ -6643,6 +6678,13 @@
             "included_at_iso": "2020-09-06T08:33:00.200415",
             "last_retested_at_epoch": 1599381180.200415,
             "last_retested_at_iso": "2020-09-06T08:33:00.200415",
+            "status": "INACTIVE"
+        },
+        "www.adservd.com": {
+            "included_at_epoch": 1600068604.181355,
+            "included_at_iso": "2020-09-14T07:30:04.181355",
+            "last_retested_at_epoch": 1600068604.181355,
+            "last_retested_at_iso": "2020-09-14T07:30:04.181355",
             "status": "INACTIVE"
         },
         "www.adsheads.go2affise.com": {
@@ -11300,6 +11342,13 @@
             "last_retested_at_iso": "2020-08-27T08:16:05.882073",
             "status": "INACTIVE"
         },
+        "www.go.trckaffis.com": {
+            "included_at_epoch": 1600068604.31887,
+            "included_at_iso": "2020-09-14T07:30:04.318870",
+            "last_retested_at_epoch": 1600068604.31887,
+            "last_retested_at_iso": "2020-09-14T07:30:04.318870",
+            "status": "INACTIVE"
+        },
         "www.go2affise.com": {
             "included_at_epoch": 1598342724.565777,
             "included_at_iso": "2020-08-25T08:05:24.565777",
@@ -12894,6 +12943,13 @@
             "included_at_iso": "2020-08-25T10:17:28.890506",
             "last_retested_at_epoch": 1598523902.554999,
             "last_retested_at_iso": "2020-08-27T10:25:02.554999",
+            "status": "INACTIVE"
+        },
+        "www.kceo.icquerini.it": {
+            "included_at_epoch": 1600068604.375035,
+            "included_at_iso": "2020-09-14T07:30:04.375035",
+            "last_retested_at_epoch": 1600068604.375035,
+            "last_retested_at_iso": "2020-09-14T07:30:04.375035",
             "status": "INACTIVE"
         },
         "www.keikomimura.com": {
