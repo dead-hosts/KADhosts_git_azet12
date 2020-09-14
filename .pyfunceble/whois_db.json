@@ -3616,8 +3616,9 @@
         "state": "future"
     },
     "bnewsb.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bninski.pl": {
@@ -4744,7 +4745,8 @@
     "cedino.pl": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "celinabiuro.pl": {
         "epoch": 1608163200.0,
@@ -5916,7 +5918,8 @@
     "cryptotradecentr.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "cs-bosman.pl": {
         "epoch": 1587772800.0,
@@ -11489,10 +11492,10 @@
         "state": "future"
     },
     "fun-mobi.pl": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "fun2cell.net": {
         "epoch": 1600300800.0,
@@ -12375,7 +12378,8 @@
     "gimnazjumniedrzwica.pl": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "gimnazjumrogi.pl": {
         "epoch": 1597104000.0,
@@ -20545,10 +20549,10 @@
         "state": "future"
     },
     "nameguess.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "nametests.com": {
         "epoch": 1616457600.0,
@@ -22327,10 +22331,10 @@
         "state": "future"
     },
     "onlyfutbol.pl": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "onmops.com": {
         "epoch": "1536019200",
