@@ -27283,8 +27283,9 @@
         "state": "future"
     },
     "rubris.org": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "rudypazur.pl": {
@@ -28447,8 +28448,9 @@
         "state": "future"
     },
     "skutecznesrodki-tabletkinapotencje.ovh": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois-ovh.nic.fr",
         "state": "future"
     },
     "skutecznyautokomis.pl": {
@@ -29750,8 +29752,9 @@
         "state": "future"
     },
     "sug.com.pl": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "sugasoul.pl": {
@@ -30423,7 +30426,8 @@
     "taniec-elfuego.pl": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "taniecchojnice.pl": {
         "epoch": 1609200000.0,
