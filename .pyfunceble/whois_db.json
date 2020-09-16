@@ -304,7 +304,8 @@
     "5kplayer.pl": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "6inches.pl": {
         "epoch": 1604707200.0,
@@ -3535,6 +3536,12 @@
         "expiration_date": "15-jan-2021",
         "state": "future"
     },
+    "biznesoweinfo.miasta.pl": {
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "biznesplay.biz": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
@@ -4740,7 +4747,8 @@
     "catsplit.net.pl": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "catzell.com": {
         "epoch": 1630713600.0,
