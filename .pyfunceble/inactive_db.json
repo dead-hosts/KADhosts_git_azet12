@@ -3866,13 +3866,6 @@
             "last_retested_at_iso": "2020-08-27T10:43:05.134056",
             "status": "INACTIVE"
         },
-        "bankmillennium.shanaraemay.com": {
-            "included_at_epoch": 1597824999.576782,
-            "included_at_iso": "2020-08-19T08:16:39.576782",
-            "last_retested_at_epoch": 1598517208.654682,
-            "last_retested_at_iso": "2020-08-27T08:33:28.654682",
-            "status": "INACTIVE"
-        },
         "bcsgleba.pl": {
             "included_at_epoch": 1599372405.392391,
             "included_at_iso": "2020-09-06T06:06:45.392391",
@@ -3985,13 +3978,6 @@
             "last_retested_at_iso": "2020-09-08T07:36:13.756377",
             "status": "INACTIVE"
         },
-        "bnpparibas-logowanie.at": {
-            "included_at_epoch": 1597825002.59194,
-            "included_at_iso": "2020-08-19T08:16:42.591940",
-            "last_retested_at_epoch": 1598517211.50571,
-            "last_retested_at_iso": "2020-08-27T08:33:31.505710",
-            "status": "INACTIVE"
-        },
         "bnpparibas-secure.at": {
             "included_at_epoch": 1599377864.961527,
             "included_at_iso": "2020-09-06T07:37:44.961527",
@@ -4060,13 +4046,6 @@
             "included_at_iso": "2020-08-21T05:47:14.944024",
             "last_retested_at_epoch": 1598507431.63438,
             "last_retested_at_iso": "2020-08-27T05:50:31.634380",
-            "status": "INACTIVE"
-        },
-        "cn52267.tmweb.ru": {
-            "included_at_epoch": 1597825007.451725,
-            "included_at_iso": "2020-08-19T08:16:47.451725",
-            "last_retested_at_epoch": 1598517216.411109,
-            "last_retested_at_iso": "2020-08-27T08:33:36.411109",
             "status": "INACTIVE"
         },
         "colex-rowery.com.pl": {
@@ -4272,13 +4251,6 @@
             "last_retested_at_iso": "2020-08-29T07:40:26.231981",
             "status": "INACTIVE"
         },
-        "e-zaginioneosoby.eu": {
-            "included_at_epoch": 1597825019.643926,
-            "included_at_iso": "2020-08-19T08:16:59.643926",
-            "last_retested_at_epoch": 1598517228.549442,
-            "last_retested_at_iso": "2020-08-27T08:33:48.549442",
-            "status": "INACTIVE"
-        },
         "ecdi14.eu": {
             "included_at_epoch": 1598171658.313559,
             "included_at_iso": "2020-08-23T08:34:18.313559",
@@ -4405,13 +4377,6 @@
             "last_retested_at_iso": "2020-08-27T05:50:43.742538",
             "status": "INACTIVE"
         },
-        "facebook-pl.eu": {
-            "included_at_epoch": 1597825019.778601,
-            "included_at_iso": "2020-08-19T08:16:59.778601",
-            "last_retested_at_epoch": 1598517228.686487,
-            "last_retested_at_iso": "2020-08-27T08:33:48.686487",
-            "status": "INACTIVE"
-        },
         "facebook.twoje-foty.eu": {
             "included_at_epoch": 1598351699.226479,
             "included_at_iso": "2020-08-25T10:34:59.226479",
@@ -4419,39 +4384,11 @@
             "last_retested_at_iso": "2020-08-27T11:00:18.108166",
             "status": "INACTIVE"
         },
-        "facebookpl.eu": {
-            "included_at_epoch": 1597825019.743774,
-            "included_at_iso": "2020-08-19T08:16:59.743774",
-            "last_retested_at_epoch": 1598517228.5869,
-            "last_retested_at_iso": "2020-08-27T08:33:48.586900",
-            "status": "INACTIVE"
-        },
         "faithfull.kdm.pl": {
             "included_at_epoch": 1598517228.843947,
             "included_at_iso": "2020-08-27T08:33:48.843947",
             "last_retested_at_epoch": 1598517228.843947,
             "last_retested_at_iso": "2020-08-27T08:33:48.843947",
-            "status": "INACTIVE"
-        },
-        "faktura.tecsla.com.mx": {
-            "included_at_epoch": 1597825020.210382,
-            "included_at_iso": "2020-08-19T08:17:00.210382",
-            "last_retested_at_epoch": 1598517229.074015,
-            "last_retested_at_iso": "2020-08-27T08:33:49.074015",
-            "status": "INACTIVE"
-        },
-        "fakty-alert.eu": {
-            "included_at_epoch": 1597825020.805963,
-            "included_at_iso": "2020-08-19T08:17:00.805963",
-            "last_retested_at_epoch": 1598517229.677736,
-            "last_retested_at_iso": "2020-08-27T08:33:49.677736",
-            "status": "INACTIVE"
-        },
-        "faktynews-24.eu": {
-            "included_at_epoch": 1597825020.655279,
-            "included_at_iso": "2020-08-19T08:17:00.655279",
-            "last_retested_at_epoch": 1598517229.540062,
-            "last_retested_at_iso": "2020-08-27T08:33:49.540062",
             "status": "INACTIVE"
         },
         "faktyonline48.eu": {
@@ -18545,6 +18482,13 @@
             "last_retested_at_iso": "2020-08-27T10:42:53.430833",
             "status": "INACTIVE"
         },
+        "www.secure.bankofamreica-online.helpsuite.kamilogistics.com": {
+            "included_at_epoch": 1600245279.597778,
+            "included_at_iso": "2020-09-16T08:34:39.597778",
+            "last_retested_at_epoch": 1600245279.597778,
+            "last_retested_at_iso": "2020-09-16T08:34:39.597778",
+            "status": "INACTIVE"
+        },
         "www.secureclick20.com": {
             "included_at_epoch": 1598002349.718674,
             "included_at_iso": "2020-08-21T09:32:29.718674",
@@ -20041,6 +19985,41 @@
             "included_at_iso": "2020-09-08T08:32:09.064121",
             "last_retested_at_epoch": 1599553929.064121,
             "last_retested_at_iso": "2020-09-08T08:32:09.064121",
+            "status": "INACTIVE"
+        },
+        "www.togethercleareducation10.live": {
+            "included_at_epoch": 1600245291.071683,
+            "included_at_iso": "2020-09-16T08:34:51.071683",
+            "last_retested_at_epoch": 1600245291.071683,
+            "last_retested_at_iso": "2020-09-16T08:34:51.071683",
+            "status": "INACTIVE"
+        },
+        "www.togethercleareducation14.live": {
+            "included_at_epoch": 1600245291.005353,
+            "included_at_iso": "2020-09-16T08:34:51.005353",
+            "last_retested_at_epoch": 1600245291.005353,
+            "last_retested_at_iso": "2020-09-16T08:34:51.005353",
+            "status": "INACTIVE"
+        },
+        "www.togethercleareducation15.live": {
+            "included_at_epoch": 1600245291.117594,
+            "included_at_iso": "2020-09-16T08:34:51.117594",
+            "last_retested_at_epoch": 1600245291.117594,
+            "last_retested_at_iso": "2020-09-16T08:34:51.117594",
+            "status": "INACTIVE"
+        },
+        "www.togethercleareducation5.live": {
+            "included_at_epoch": 1600245290.91312,
+            "included_at_iso": "2020-09-16T08:34:50.913120",
+            "last_retested_at_epoch": 1600245290.91312,
+            "last_retested_at_iso": "2020-09-16T08:34:50.913120",
+            "status": "INACTIVE"
+        },
+        "www.togethercleareducation6.live": {
+            "included_at_epoch": 1600245290.959055,
+            "included_at_iso": "2020-09-16T08:34:50.959055",
+            "last_retested_at_epoch": 1600245290.959055,
+            "last_retested_at_iso": "2020-09-16T08:34:50.959055",
             "status": "INACTIVE"
         },
         "www.tojestnewsprawdziwy.xyz": {
