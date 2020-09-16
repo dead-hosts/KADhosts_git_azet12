@@ -28884,10 +28884,10 @@
         "state": "future"
     },
     "silstop.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "silvets.pl": {
         "epoch": 1616630400.0,
@@ -31300,6 +31300,12 @@
     "tatroscatering.com": {
         "epoch": 1622419200.0,
         "expiration_date": "31-may-2021",
+        "state": "future"
+    },
+    "taylorspub.com": {
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tbntechnology.pl": {
@@ -34805,6 +34811,12 @@
     "winfreetoday.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "winnertoday.site": {
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "winningsidenow.com": {
