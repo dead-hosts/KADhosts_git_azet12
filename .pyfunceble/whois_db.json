@@ -27720,7 +27720,8 @@
     "rippley-services.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "risingindianews.com": {
         "epoch": 1600387200.0,
@@ -29541,8 +29542,9 @@
         "state": "future"
     },
     "solarsun.com.pl": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "solectwoniestachow.pl": {
@@ -30831,7 +30833,8 @@
     "symulator-lotow.pl": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "syncgreatlyquicksystem.icu": {
         "epoch": 1605052800.0,
@@ -31147,7 +31150,8 @@
     "tajonis.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "takaprawda.icu": {
         "epoch": 1621555200.0,
@@ -31239,7 +31243,8 @@
     "taniobutyreebok.pl": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "tankescape.com": {
         "epoch": 1602028800.0,
@@ -32204,8 +32209,9 @@
         "state": "future"
     },
     "toascik.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tocho.pl": {
@@ -33639,10 +33645,10 @@
         "state": "future"
     },
     "vansj.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "vansoldschool.pl": {
         "epoch": 1620864000.0,
@@ -34329,10 +34335,10 @@
         "state": "future"
     },
     "wardon.pl": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "wareziak.pl": {
         "epoch": 1621900800.0,
