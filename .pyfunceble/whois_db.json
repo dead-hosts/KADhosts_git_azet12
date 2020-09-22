@@ -28346,8 +28346,9 @@
         "state": "future"
     },
     "ruletka-systemy.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rumandcoco.com": {
@@ -30990,7 +30991,8 @@
     "superstarbuty.com": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "superstarbuty.pl": {
         "epoch": 1600646400.0,
@@ -33066,8 +33068,9 @@
         "state": "future"
     },
     "tresurapsow.com.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tri-book.pl": {
@@ -33823,7 +33826,8 @@
     "unnmd.pl": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "unverf.com": {
         "epoch": 1627603200.0,
@@ -34365,7 +34369,8 @@
     "visalink.pl": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "visegrad4bicyclerace.pl": {
         "epoch": 1610150400.0,
