@@ -11959,7 +11959,8 @@
     "futurenet.club": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.nic.club",
+        "state": "past"
     },
     "fxgm.com": {
         "epoch": 1711411200.0,
@@ -12736,8 +12737,9 @@
         "state": "future"
     },
     "gimnazjumlyski.pl": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gimnazjumniedrzwica.pl": {
@@ -26650,7 +26652,8 @@
     "pruszkowmieszkania.pl": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "prywatne-pozyczki-24.pl": {
         "epoch": "1563148800",
