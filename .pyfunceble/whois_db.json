@@ -1480,6 +1480,12 @@
         "expiration_date": "25-may-2021",
         "state": "future"
     },
+    "allegroloklinie-oferta319840.xyz": {
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "allegroplatnosci.pl": {
         "epoch": 1623196800.0,
         "expiration_date": "09-jun-2021",
@@ -2402,6 +2408,12 @@
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
+    "astontrust.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "astrocash.org": {
         "epoch": 1614038400.0,
         "expiration_date": "23-feb-2021",
@@ -3042,7 +3054,8 @@
     "bemydate.mobi": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.nic.mobi",
+        "state": "past"
     },
     "bentyluses.com": {
         "epoch": 1628035200.0,
@@ -3087,6 +3100,12 @@
     "best-coupon-offer.com": {
         "epoch": "1577664000",
         "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
+    "best-lordliness.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "best-ones.website": {
@@ -4099,10 +4118,17 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
+    "btcbillionaire-app.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "btccoinex.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "btclife.cloud": {
         "epoch": 1603411200.0,
@@ -4702,10 +4728,10 @@
         "state": "future"
     },
     "carolinakurier.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "carpatree.com": {
         "epoch": 1625270400.0,
@@ -5954,6 +5980,12 @@
     "covergt.com": {
         "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
+        "state": "future"
+    },
+    "cowpolsce.xyz": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "cpabuild.com": {
@@ -12669,7 +12701,8 @@
     "giftprizewinner.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "gifts-for-free.online": {
         "epoch": 1582502400.0,
@@ -36257,8 +36290,9 @@
         "state": "future"
     },
     "yourofferpro.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yourpayment.online": {
