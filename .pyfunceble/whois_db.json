@@ -10991,8 +10991,9 @@
         "state": "future"
     },
     "filmy-tv.pl": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "filmy-zalukaj.pl": {
@@ -11693,6 +11694,12 @@
     "frankihostessy.pl": {
         "epoch": "1551830400",
         "expiration_date": "06-mar-2019",
+        "state": "future"
+    },
+    "frankkoch.club": {
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.nic.club",
         "state": "future"
     },
     "frankokurier.com": {
@@ -16335,7 +16342,8 @@
     "jutup.pl": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "k-filmy.pl": {
         "epoch": 1609632000.0,
@@ -23960,10 +23968,10 @@
         "state": "future"
     },
     "pamelambarnettcounseling.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "pamietnikiwampirow.tv": {
         "epoch": "1579392000",
@@ -24692,6 +24700,12 @@
     "pko-bp.pl": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
+        "state": "future"
+    },
+    "pkobp.online": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "pksbialapodlaska.pl": {
@@ -26920,6 +26934,12 @@
     "psiasfora.pl": {
         "epoch": 1620604800.0,
         "expiration_date": "10-may-2021",
+        "state": "future"
+    },
+    "psinetutor.com": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pspsport.pl": {
