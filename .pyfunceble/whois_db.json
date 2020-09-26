@@ -12170,8 +12170,9 @@
         "state": "future"
     },
     "gaming001.site": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "gamroll.com": {
@@ -12711,10 +12712,10 @@
         "state": "future"
     },
     "giftprizewinner.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "gifts-for-free.online": {
         "epoch": 1582502400.0,
@@ -19882,6 +19883,12 @@
         "expiration_date": "13-may-2021",
         "state": "future"
     },
+    "medium24.fr": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "server": "whois.nic.fr",
+        "state": "future"
+    },
     "medshop.pl": {
         "epoch": 1625443200.0,
         "expiration_date": "05-jul-2021",
@@ -22213,6 +22220,12 @@
     "noclegnadmorzemgdansk.pl": {
         "epoch": 1628208000.0,
         "expiration_date": "06-aug-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "noebank.pl": {
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
