@@ -348,6 +348,12 @@
         "expiration_date": "29-apr-2021",
         "state": "future"
     },
+    "9nta.com": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "9print.pl": {
         "epoch": 1629072000.0,
         "expiration_date": "16-aug-2021",
@@ -1075,8 +1081,9 @@
         "state": "future"
     },
     "akazoo.pl": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "akceptacja-regulaminu.com": {
@@ -2013,6 +2020,12 @@
     "aparthema.org.pl": {
         "epoch": 1629417600.0,
         "expiration_date": "20-aug-2021",
+        "state": "future"
+    },
+    "aperytime.it": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "apexbillingservices.co": {
@@ -3053,10 +3066,10 @@
         "state": "future"
     },
     "bemydate.mobi": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.nic.mobi",
-        "state": "past"
+        "state": "future"
     },
     "bentyluses.com": {
         "epoch": 1628035200.0,
@@ -3719,6 +3732,12 @@
         "expiration_date": "31-jul-2020",
         "state": "future"
     },
+    "bn-allorbank.com": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "bnewsb.com": {
         "epoch": 1631491200.0,
         "expiration_date": "13-sep-2021",
@@ -3910,9 +3929,21 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "bosbank-24.com": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "bosbank-24.pl": {
         "epoch": 1656806400.0,
         "expiration_date": "03-jul-2022",
+        "state": "future"
+    },
+    "bossbank24.com": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "botifiles.com": {
@@ -4126,10 +4157,10 @@
         "state": "future"
     },
     "btccoinex.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "btclife.cloud": {
         "epoch": 1603411200.0,
@@ -5430,6 +5461,12 @@
     "cityvida.com": {
         "epoch": 1746662400.0,
         "expiration_date": "08-may-2025",
+        "state": "future"
+    },
+    "cityxman.com": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cjpyqf.live": {
@@ -9106,6 +9143,12 @@
         "epoch": 1630022400.0,
         "expiration_date": "27-aug-2021",
         "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "elektronika675181.xyz": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "elektronika758190.xyz": {
@@ -12819,6 +12862,12 @@
         "expiration_date": "04-apr-2021",
         "state": "future"
     },
+    "giuliodrei.it": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "giuseppezanottisklep.pl": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
@@ -14074,7 +14123,8 @@
     "herrakop.co": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "hexistrading.com": {
         "epoch": 1617062400.0,
@@ -15522,8 +15572,8 @@
         "state": "future"
     },
     "investmarket.info": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
         "server": "whois.afilias.net",
         "state": "future"
     },
@@ -16346,10 +16396,10 @@
         "state": "future"
     },
     "jutup.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "k-filmy.pl": {
         "epoch": 1609632000.0,
@@ -16895,8 +16945,9 @@
         "state": "future"
     },
     "kinofilm-tv.pl": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "kinoman-tv.pl": {
