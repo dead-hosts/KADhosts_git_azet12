@@ -601,6 +601,12 @@
         "expiration_date": "11-may-2021",
         "state": "future"
     },
+    "add-fix.com": {
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "addays.pl": {
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
@@ -27606,8 +27612,9 @@
         "state": "future"
     },
     "ppuhmarko.com.pl": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pracowniaarte.pl": {
@@ -31173,6 +31180,12 @@
     "skleptanie.pl": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "skleptaniebuty.pl": {
+        "epoch": 1634083200.0,
+        "expiration_date": "13-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "sklepterenowy.pl": {
@@ -37074,6 +37087,18 @@
         "epoch": 1634342400.0,
         "expiration_date": "16-oct-2021",
         "server": "whois.nic.online",
+        "state": "future"
+    },
+    "wiadomoscizkraju.site": {
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
+    "wiadomoscizkraju.xyz": {
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "wiadomoscizkraju24.com.pl": {
