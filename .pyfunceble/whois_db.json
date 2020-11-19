@@ -906,6 +906,12 @@
         "expiration_date": "06-jun-2021",
         "state": "future"
     },
+    "affingindustries.com": {
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "africanmango.pl": {
         "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
@@ -4481,8 +4487,9 @@
         "state": "future"
     },
     "britney.com.pl": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "brittlefilet.com": {
@@ -7817,6 +7824,18 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "deliversetfaster.com": {
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "delivery-pl-olx.site": {
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "deliveryexpress.today": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -8630,6 +8649,12 @@
         "server": "whois.pir.org",
         "state": "future"
     },
+    "doreczyciel24.net": {
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "dorszfishandchips.pl": {
         "epoch": 1625184000.0,
         "expiration_date": "02-jul-2021",
@@ -8692,6 +8717,18 @@
     "dostawa-dhl.pl": {
         "epoch": 1624320000.0,
         "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
+    "dostawa-olx.org": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "dostawa-olx.pl": {
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "dostawaca24.online": {
@@ -11460,6 +11497,12 @@
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
         "state": "past"
+    },
+    "facebbooc.com": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "facebook.biz.pl": {
         "epoch": 1631145600.0,
@@ -18401,6 +18444,12 @@
         "expiration_date": "19-dec-2020",
         "state": "future"
     },
+    "kancelaria-jasiewicz.pl": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "kancelaria-prawna-katowice.pl": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
@@ -19841,6 +19890,12 @@
         "expiration_date": "29-apr-2021",
         "state": "future"
     },
+    "kurier-naieznosc.host": {
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.nic.host",
+        "state": "future"
+    },
     "kurier-naleznosc.life": {
         "epoch": 1636502400.0,
         "expiration_date": "10-nov-2021",
@@ -20295,6 +20350,12 @@
     "lekarzbialoleka.pl": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "lekarzdomowy.com.pl": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lemingradmom.pl": {
@@ -26013,6 +26074,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "olx-oferta.site": {
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "olx-oferta.support": {
         "epoch": 1636588800.0,
         "expiration_date": "11-nov-2021",
@@ -26049,6 +26116,12 @@
         "server": "whois.nic.online",
         "state": "future"
     },
+    "olx-pl.org": {
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "olx-pl.pl": {
         "epoch": 1636588800.0,
         "expiration_date": "11-nov-2021",
@@ -26070,6 +26143,24 @@
     "olx-platnosci.online": {
         "epoch": 1625788800.0,
         "expiration_date": "09-jul-2021",
+        "state": "future"
+    },
+    "olx-przesylka.pl": {
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "olx-przesylki.net": {
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "olx-przesylki.org": {
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "olx.pl": {
@@ -26136,6 +26227,12 @@
         "epoch": 1636761600.0,
         "expiration_date": "13-nov-2021",
         "server": "whois.nic.online",
+        "state": "future"
+    },
+    "olxpln.site": {
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "olxpoland.org": {
@@ -26986,6 +27083,12 @@
         "expiration_date": "01-jul-2019",
         "state": "future"
     },
+    "pacificinvestmentsltd.com": {
+        "epoch": 1662595200.0,
+        "expiration_date": "08-sep-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "pacuskurier.org": {
         "epoch": 1618876800.0,
         "expiration_date": "20-apr-2021",
@@ -27229,6 +27332,12 @@
     "paczta.net": {
         "epoch": 1635120000.0,
         "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "paczta24.net": {
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -30521,6 +30630,12 @@
         "expiration_date": "22-may-2021",
         "state": "future"
     },
+    "przesyika-pl.host": {
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.nic.host",
+        "state": "future"
+    },
     "przesyika24pl.fun": {
         "epoch": 1636675200.0,
         "expiration_date": "12-nov-2021",
@@ -32823,6 +32938,12 @@
     "sekut.pl": {
         "epoch": 1622764800.0,
         "expiration_date": "04-jun-2021",
+        "state": "future"
+    },
+    "semsanbtccome.site": {
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "semsanbtccome.website": {
@@ -35821,6 +35942,12 @@
         "server": "whois.dns.pl",
         "state": "past"
     },
+    "szybka7demka24h7.click": {
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
+        "server": "whois.uniregistry.net",
+        "state": "future"
+    },
     "szybkanaukapro.pl": {
         "epoch": 1563235200,
         "expiration_date": "16-jul-2019",
@@ -38583,6 +38710,12 @@
         "expiration_date": "18-may-2019",
         "state": "future"
     },
+    "vabank.org.pl": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "vadecorso.pl": {
         "epoch": 1628467200.0,
         "expiration_date": "09-aug-2021",
@@ -40391,6 +40524,12 @@
         "epoch": 1615593600.0,
         "expiration_date": "13-mar-2021",
         "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "wpiata-paczkomat.host": {
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.nic.host",
         "state": "future"
     },
     "wpisz-dane.pl": {
