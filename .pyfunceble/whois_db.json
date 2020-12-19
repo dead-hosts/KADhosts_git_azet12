@@ -5841,6 +5841,12 @@
         "server": "whois.nic.space",
         "state": "future"
     },
+    "cennik.live": {
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
     "cennik.site": {
         "epoch": 1637971200.0,
         "expiration_date": "27-nov-2021",
@@ -9045,6 +9051,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "doninishop.com": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "dont.pl": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
@@ -10076,6 +10088,30 @@
     "e-lektrosklep.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "e-mail-regulamin.online": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "e-mail-regulamin.site": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
+    "e-mailprywatnosc.online": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "e-mailprywatnosc.site": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "e-monitoring-pocztapolska.org": {
@@ -13252,8 +13288,9 @@
         "state": "future"
     },
     "firenzepunk.pl": {
-        "epoch": 1605657600.0,
-        "expiration_date": "18-nov-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "firesub.pl": {
@@ -13311,6 +13348,12 @@
     "fitness-house.pl": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
+    "fitnesssklep.com": {
+        "epoch": 1634083200.0,
+        "expiration_date": "13-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fitnesstips.pl": {
@@ -15229,6 +15272,12 @@
     "go-camps.pl": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "go0o.me": {
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "go2affise.com": {
@@ -17397,6 +17446,12 @@
         "epoch": 1639094400.0,
         "expiration_date": "10-dec-2021",
         "server": "whois.nic.services",
+        "state": "future"
+    },
+    "ilink.surf": {
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.nic.surf",
         "state": "future"
     },
     "ilonaiwanska.pl": {
@@ -21768,6 +21823,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "lnkpay.me": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.nic.me",
+        "state": "future"
+    },
     "lnktime.com": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
@@ -21815,6 +21876,12 @@
         "expiration_date": "26-feb-2021",
         "state": "future"
     },
+    "lnpost24-kurier.com": {
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "lnpost24-paczka.com": {
         "epoch": 1638576000.0,
         "expiration_date": "04-dec-2021",
@@ -21833,9 +21900,21 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "lnpostapps.com": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "lnpostdezynfekcje.net": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
+    "lnposted.com": {
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lnpush.pl": {
@@ -27327,6 +27406,12 @@
         "server": "whois.nic.co",
         "state": "future"
     },
+    "olx-dostawa.in": {
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
     "olx-dostawa.me": {
         "epoch": 1637280000.0,
         "expiration_date": "19-nov-2021",
@@ -27597,6 +27682,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "olx-pl-delivery.cc": {
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "ccwhois.verisign-grs.com",
+        "state": "future"
+    },
     "olx-pl-delivery.info": {
         "epoch": 1638576000.0,
         "expiration_date": "04-dec-2021",
@@ -27607,6 +27698,12 @@
         "epoch": 1640649600.0,
         "expiration_date": "28-dec-2021",
         "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "olx-pl-dostava.cc": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "ccwhois.verisign-grs.com",
         "state": "future"
     },
     "olx-pl-dostawa.cc": {
@@ -27776,6 +27873,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "olx-si.pl": {
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "olx-spedycja.pl": {
         "epoch": 1638662400.0,
         "expiration_date": "05-dec-2021",
@@ -27846,6 +27949,12 @@
         "epoch": 1637971200.0,
         "expiration_date": "27-nov-2021",
         "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "olx-zamowienie.co": {
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "olx-zamowienie.me": {
@@ -29952,9 +30061,21 @@
         "expiration_date": "23-mar-2021",
         "state": "future"
     },
+    "peyeye.net": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "peyopey.net": {
         "epoch": 1637712000.0,
         "expiration_date": "24-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "peyouts.net": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -29991,6 +30112,12 @@
     "peysem.net": {
         "epoch": 1638662400.0,
         "expiration_date": "05-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "peyseys.net": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -30963,6 +31090,18 @@
     "pociagdoukrainy.pl": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "poczta-email.online": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "poczta-email.site": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "poczta-interia.com": {
@@ -34073,9 +34212,33 @@
         "expiration_date": "02-jun-2021",
         "state": "future"
     },
+    "regulamin-email.online": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "regulamin-email.site": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "regulamin-interia.com": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
+    "regulamin-mail.online": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "regulamin-mail.site": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "regulamin-onet.com": {
@@ -36337,6 +36500,12 @@
         "server": "whois.nic.store",
         "state": "future"
     },
+    "sledzenie.live": {
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
     "slidex.com.pl": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
@@ -38517,6 +38686,12 @@
         "expiration_date": "21-apr-2021",
         "state": "future"
     },
+    "szybkiepaczkidpd.pl": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "szybkiewysdpd.pl": {
         "epoch": 1639008000.0,
         "expiration_date": "09-dec-2021",
@@ -39174,6 +39349,12 @@
         "epoch": 1637971200.0,
         "expiration_date": "27-nov-2021",
         "server": "whois.nic.fun",
+        "state": "future"
+    },
+    "termin-odbioru.life": {
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.nic.life",
         "state": "future"
     },
     "termometr-na-podczerwien-pl.com": {
@@ -43175,6 +43356,12 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "wp-pl.online": {
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
     "wp-regulamin.com": {
         "epoch": 1616630400.0,
         "expiration_date": "25-mar-2021",
@@ -43613,6 +43800,18 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "wysyidhl.com": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "wysyjdhl.com": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "wysykdhl.com": {
         "epoch": 1636761600.0,
         "expiration_date": "13-nov-2021",
@@ -43645,6 +43844,12 @@
     "wysylki.net": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "wysymdhl.com": {
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wysysdhl.com": {
