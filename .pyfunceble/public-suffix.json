@@ -272,6 +272,9 @@
         "be.ax",
         "mc.ax",
         "es.ax",
+        "xy.ax",
+        "be.ax",
+        "mc.ax",
         "eu.ax",
         "xy.ax",
         "us.ax",
@@ -302,8 +305,8 @@
         "gov.ba"
     ],
     "basketball": [
-        "aus.basketball",
-        "nz.basketball"
+        "nz.basketball",
+        "aus.basketball"
     ],
     "bb": [
         "net.bb",
@@ -381,6 +384,7 @@
         "co.bi",
         "org.bi",
         "edu.bi",
+        "com.bi",
         "or.bi",
         "com.bi"
     ],
@@ -401,10 +405,10 @@
         "for-more.biz"
     ],
     "bj": [
-        "asso.bj",
         "barreau.bj",
-        "gouv.bj",
-        "blogspot.bj"
+        "blogspot.bj",
+        "asso.bj",
+        "gouv.bj"
     ],
     "bm": [
         "org.bm",
@@ -682,8 +686,8 @@
         "co.business"
     ],
     "bw": [
-        "co.bw",
-        "org.bw"
+        "org.bw",
+        "co.bw"
     ],
     "by": [
         "of.by",
@@ -692,7 +696,9 @@
         "gov.by",
         "mil.by",
         "mycloud.by",
-        "nym.by"
+        "blogspot.com.by",
+        "nym.by",
+        "mil.by"
     ],
     "bz": [
         "edu.bz",
@@ -736,6 +742,8 @@
         "csx.cc",
         "twmail.cc",
         "ftpaccess.cc",
+        "csx.cc",
+        "fantasyleague.cc",
         "game-server.cc",
         "myphotos.cc",
         "fantasyleague.cc"
@@ -1410,6 +1418,7 @@
         "blogspot.cv"
     ],
     "cw": [
+        "net.cw",
         "com.cw",
         "org.cw",
         "net.cw",
@@ -1537,11 +1546,11 @@
         "deno.dev"
     ],
     "digital": [
-        "cloudapps.digital",
-        "london.cloudapps.digital"
+        "london.cloudapps.digital",
+        "cloudapps.digital"
     ],
     "dk": [
-        "biz.dk",
+        "store.dk",
         "co.dk",
         "firm.dk",
         "blogspot.dk",
@@ -1708,7 +1717,6 @@
         "fk"
     ],
     "fm": [
-        "com.fm",
         "edu.fm",
         "radio.fm",
         "net.fm",
@@ -1777,7 +1785,9 @@
         "edu.gh",
         "com.gh",
         "org.gh",
-        "mil.gh"
+        "gov.gh",
+        "edu.gh",
+        "com.gh"
     ],
     "gi": [
         "ltd.gi",
@@ -1825,7 +1835,8 @@
         "edu.gr",
         "net.gr",
         "blogspot.gr",
-        "nym.gr"
+        "edu.gr",
+        "gov.gr"
     ],
     "group": [
         "discourse.group"
@@ -2165,7 +2176,6 @@
         "edu.is",
         "blogspot.is",
         "org.is",
-        "int.is",
         "cupcake.is",
         "net.is"
     ],
@@ -7018,6 +7028,9 @@
     "ps": [
         "gov.ps",
         "sec.ps",
+        "net.ps",
+        "gov.ps",
+        "edu.ps",
         "plo.ps",
         "com.ps",
         "net.ps",
@@ -7045,6 +7058,9 @@
         "co.pw",
         "ed.pw",
         "cloudns.pw",
+        "nom.pw",
+        "go.pw",
+        "ed.pw",
         "x443.pw",
         "belau.pw",
         "ne.pw",
@@ -7106,10 +7122,14 @@
         "myddns.rocks"
     ],
     "rs": [
+        "blogspot.rs",
         "ac.rs",
         "org.rs",
         "gov.rs",
         "co.rs",
+        "ox.rs",
+        "nom.rs",
+        "in.rs",
         "edu.rs",
         "nom.rs",
         "in.rs",
@@ -7209,8 +7229,8 @@
         "ybo.science"
     ],
     "scot": [
-        "edu.scot",
-        "gov.scot"
+        "gov.scot",
+        "edu.scot"
     ],
     "sd": [
         "info.sd",
@@ -7322,8 +7342,8 @@
         "jele.site"
     ],
     "sk": [
-        "blogspot.sk",
-        "nym.sk"
+        "nym.sk",
+        "blogspot.sk"
     ],
     "sl": [
         "edu.sl",
@@ -7477,8 +7497,8 @@
         "blogspot.td"
     ],
     "team": [
-        "discourse.team",
-        "jelastic.team"
+        "jelastic.team",
+        "discourse.team"
     ],
     "technology": [
         "co.technology"
@@ -7523,7 +7543,8 @@
         "nom.tm",
         "net.tm",
         "mil.tm",
-        "edu.tm"
+        "co.tm",
+        "nom.tm"
     ],
     "tn": [
         "orangecloud.tn",
@@ -8125,7 +8146,11 @@
         "gov.ws",
         "mypets.ws",
         "advisor.ws",
+        "gov.ws",
         "cloud66.ws",
+        "mypets.ws",
+        "org.ws",
+        "net.ws",
         "dyndns.ws",
         "edu.ws"
     ],
@@ -8142,6 +8167,8 @@
         "xn--mxtq1m.xn--j6w193g",
         "xn--uc0atv.xn--j6w193g",
         "xn--55qx5d.xn--j6w193g",
+        "xn--od0alg.xn--j6w193g",
+        "xn--uc0atv.xn--j6w193g",
         "xn--wcvs22d.xn--j6w193g",
         "xn--gmqw5a.xn--j6w193g"
     ],
