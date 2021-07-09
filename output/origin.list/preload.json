@@ -1,15 +1,17 @@
-{
-    "abs_source": "/home/runner/work/KADhosts_git_azet12/KADhosts_git_azet12/origin.list",
-    "checker_type": "AVAILABILITY",
-    "destination": "origin.list",
-    "hash": "901a32a789372fff7c872561f049ffd5f5a55c9d0545ed47f9e497cf",
-    "line_number": 3000,
-    "output_dir": "/home/runner/work/KADhosts_git_azet12/KADhosts_git_azet12/output/origin.list",
-    "previous_hash": "49ccd56f8255258c697c0b6496470ecc650cd8590ffb392bc7497a12",
-    "rel_source": "origin.list",
-    "session_id": "451427d5c78db7cadbf86849",
-    "source": "origin.list",
-    "subject": "origin.list",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/KADhosts_git_azet12/KADhosts_git_azet12/origin.list",
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "901a32a789372fff7c872561f049ffd5f5a55c9d0545ed47f9e497cf",
+        "line_number": 5012,
+        "output_dir": "/home/runner/work/KADhosts_git_azet12/KADhosts_git_azet12/output/origin.list",
+        "previous_hash": "49ccd56f8255258c697c0b6496470ecc650cd8590ffb392bc7497a12",
+        "rel_source": "origin.list",
+        "session_id": "451427d5c78db7cadbf86849",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
