@@ -450,7 +450,6 @@
         "empresa.bo",
         "gob.bo",
         "indigena.bo",
-        "industria.bo",
         "info.bo",
         "int.bo",
         "medicina.bo",
@@ -879,6 +878,7 @@
         "hk.cn",
         "hl.cn",
         "hn.cn",
+        "industria.bo",
         "instantcloud.cn",
         "jl.cn",
         "js.cn",
@@ -4735,6 +4735,9 @@
         "dweb.link",
         "mypep.link"
     ],
+    "live": [
+        "hlx.live"
+    ],
     "lk": [
         "ac.lk",
         "assn.lk",
@@ -4845,7 +4848,6 @@
         "couk.me",
         "daplie.me",
         "ddns.me",
-        "diskstation.me",
         "dnsfor.me",
         "dscloud.me",
         "edgestack.me",
@@ -6810,6 +6812,7 @@
         "org.nr"
     ],
     "nu": [
+        "diskstation.me",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -6857,7 +6860,9 @@
         "under.one"
     ],
     "online": [
-        "barsy.online"
+        "barsy.online",
+        "eero-stage.online",
+        "eero.online"
     ],
     "org": [
         "accesscam.org",
@@ -7052,6 +7057,8 @@
         "sld.pa"
     ],
     "page": [
+        "hlx.page",
+        "hlx3.page",
         "magnet.page",
         "pdns.page",
         "plesk.page",
